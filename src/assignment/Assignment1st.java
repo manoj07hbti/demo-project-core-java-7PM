@@ -21,5 +21,11 @@ public class Assignment1st {
         System.out.println("Customer Name= " +Customer_Name);
         System.out.println("Account No.= " +Account_No);
 
+        int a=3;
+        int b=5;
+        int result=a*b;
+        System.out.println("Result= " +result);
+
+
     }
 }
