@@ -3,5 +3,8 @@ public class New_Java {
 
         String name="Har Har Mahadev";
         System.out.println("Bolo.." +name);
+
+        System.out.println("hello");
+
     }
 }
