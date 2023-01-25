@@ -8,7 +8,7 @@ public class DemoVariable {
 
      //SYNTAX :  DataType varName;  // variable declaration
 
-        String cityName; // we have declared a  String variable with cityName
+        String cityName; // we have declared a  String variable with cityName!
     //SYNTAX: varName=Value ;// assignment
 
         cityName="Agra"; // String values are always should be in ""
