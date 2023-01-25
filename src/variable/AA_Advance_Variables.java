@@ -1,6 +1,8 @@
 package variable;
 
-    public class AA_Advance_Variables {
+//This class shows how to define & assign the variables to carry of different
+//Mathematical operations
+public class AA_Advance_Variables {
     public static void main(String[] args) {
         int a = 3;
         int b = 5;
