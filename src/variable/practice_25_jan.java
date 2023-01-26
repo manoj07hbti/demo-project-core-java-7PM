@@ -16,7 +16,7 @@ public class practice_25_jan {
         System.out.println("Enter marks of subject 5 = ");
         int e= sc.nextInt();
         int sum= a+b+c+d+e;
-        int per = sum/5*100;
+        int per = (sum/5)/100;
         System.out.println("percentage of the numbers = " +per);
 
     }
