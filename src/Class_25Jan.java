@@ -12,6 +12,12 @@ public class Class_25Jan {
         System.out.println("Total population in India is : " +population);
 
 
+        int a=5;
+        int b=a*a*a;
+
+        System.out.println("Cube of the Number is : " +b);
+
+
         int A=34550;
         int B=5;
 
