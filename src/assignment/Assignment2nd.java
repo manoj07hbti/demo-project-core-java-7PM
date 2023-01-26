@@ -26,6 +26,6 @@ public class Assignment2nd {
         int c=2;
         double Result=(double) b/c;
 
-        System.out.println("Divid:- " +Result);
+        System.out.println("Divide:- " +Result);
     }
 }
