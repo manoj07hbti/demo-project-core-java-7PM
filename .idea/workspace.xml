@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/variable/practive_27_jan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/practice_25_jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/practice_25_jan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.practice_25_jan">
+  <component name="RunManager" selected="Application.practive_27_jan">
     <configuration name="Ashish_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Ashish_Assignment" />
       <module name="demo-project-core-java-7PM" />
@@ -142,19 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableRevision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.VariableRevision" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="practice_25_jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.practice_25_jan" />
       <module name="demo-project-core-java-7PM" />
@@ -168,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practive_27_jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.practive_27_jan" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practive_27_jan" />
         <item itemvalue="Application.practice_25_jan" />
         <item itemvalue="Application.Assignment_25_Jan" />
         <item itemvalue="Application.Ashish_Assignment2" />
         <item itemvalue="Application.Ashish_Assignment" />
-        <item itemvalue="Application.VariableRevision" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674709065762</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first assignment">
+      <created>1674710535808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674710535808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
