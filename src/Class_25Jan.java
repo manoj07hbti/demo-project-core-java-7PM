@@ -26,5 +26,6 @@ public class Class_25Jan {
         System.out.println("Percentage is : " +Percentage);
 
 
+
     }
 }
