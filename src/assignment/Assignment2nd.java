@@ -18,7 +18,7 @@ public class Assignment2nd {
 
         double Number=34550;
         int Percent=5;
-        double Ans= (double)(Number*Percent/100);
+        double Ans=(Number*Percent/100);
 
         System.out.println("5% of 34550:- " +Ans);
 
@@ -27,5 +27,21 @@ public class Assignment2nd {
         double Result=(double) b/c;
 
         System.out.println("Divide:- " +Result);
+
+        Number=32550;
+        Percent=7;
+        Ans=(Number*Percent/100);
+
+        System.out.println("7% of 32550:- " +Ans);
+
+        Number=500;
+        double Percent_=4.5;
+        Ans=(Number*Percent_/100);
+
+        System.out.println("4.5% of 500:- " +Ans);
+
+
+
+
     }
 }
