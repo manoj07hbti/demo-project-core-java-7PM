@@ -1,6 +1,6 @@
 package Statements;
 
-public class Devision {
+public class Division {
     public static void main(String[] args){
         int num=21;
 
