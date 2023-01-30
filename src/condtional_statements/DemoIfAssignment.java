@@ -4,7 +4,7 @@ public class DemoIfAssignment {
     public static void main(String[] args) {
 
         byte mark;
-        mark=33;
+        mark=30;
         if(mark>=33){
             System.out.println("Student cleared exam with passing marks");
         }
