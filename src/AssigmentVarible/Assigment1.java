@@ -15,6 +15,8 @@ public class Assigment1 {
          int multiply=d*d*d;
          System.out.println("Cube of squre"+multiply);
 
+
+
          double number=33456;
          int parcent=6;
          double Ans=(double)(number*parcent/100);
