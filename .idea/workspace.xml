@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignmet 25 jan">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demo_NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demoif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demoif_else.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/variable/Assignment_25_Jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Assignment_25_Jan.java" afterDir="false" />
     </list>
@@ -25,6 +28,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="14d289c8-0306-4744-8143-272e48fde1f6" />
+        <option name="url" value="https://github.com/manoj07hbti/demo-project-core-java-7PM.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,13 +116,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assignment_25_Jan">
+  <component name="RunManager" selected="Application.Demo_NestedIf">
     <configuration name="Assignment_25_Jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Assignment_25_Jan" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="Conditional_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cuberoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Cuberoot" />
+    <configuration name="Conditional_Statement_assignment_27jan (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_Statement_assignment_27jan" />
+      <module name="demo-project-core-java-7PM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demo_NestedIf" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="Conditional_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
+    <configuration name="Demoif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demoif" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="Conditional_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="Demoif_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demoif_else" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="Conditional_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_NestedIf" />
+        <item itemvalue="Application.Demoif_else" />
+        <item itemvalue="Application.Demoif" />
         <item itemvalue="Application.Assignment_25_Jan" />
-        <item itemvalue="Application.Cuberoot" />
-        <item itemvalue="Application.DemoAdvanceVariable" />
-        <item itemvalue="Application.DemoVariable" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Conditional_Statement_assignment_27jan (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674709109516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Assignmet 25 jan">
+      <created>1674826691728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674826691728</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
