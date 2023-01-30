@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java-demo-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statement/And_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment="conditional_Statement&#10;use_AndOperator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675089490233</updated>
     </task>
+    <task id="LOCAL-00001" summary="conditional_Statement&#10;use_AndOperator">
+      <created>1675094668784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675094668784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="conditional_Statement&#10;use_AndOperator" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional_Statement&#10;use_AndOperator" />
   </component>
 </project>
