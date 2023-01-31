@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment="conditional_Statement&#10;use_AndOperator">
-      <change afterPath="$PROJECT_DIR$/src/conditional_statement/DemoIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment=" Use IF Block" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675154499221</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Use IF Block">
+      <created>1675176086617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176086617</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" Use IF Block">
+      <created>1675176102586</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176102586</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +199,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conditional_Statement&#10;use_AndOperator" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional_Statement&#10;use_AndOperator" />
+    <MESSAGE value=" Use IF Block" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Use IF Block" />
   </component>
 </project>
