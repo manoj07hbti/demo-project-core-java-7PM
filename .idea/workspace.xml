@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ANDifOPerator">
+  <component name="RunManager" selected="Application.NestedIF">
     <configuration name="ANDifOPerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionStatement.ANDifOPerator" />
       <module name="demo-project-core-java-7PM" />
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo2" />
+    <configuration name="Multiplifandoperotar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.Multiplifandoperotar" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="ConditionStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplifandoperotar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.Multiplifandoperotar" />
+    <configuration name="NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.NestedIF" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedIF" />
         <item itemvalue="Application.ANDifOPerator" />
         <item itemvalue="Application.Multiplifandoperotar" />
         <item itemvalue="Application.conditionIfelse" />
         <item itemvalue="Application.demoIf" />
-        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675101307626</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="And if operetor condition">
+      <created>1675189004431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675189004431</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -305,7 +311,8 @@
     <MESSAGE value="Assigment Varible 1" />
     <MESSAGE value="demo java 2" />
     <MESSAGE value="demo project if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo project if else" />
+    <MESSAGE value="And if operetor condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="And if operetor condition" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
