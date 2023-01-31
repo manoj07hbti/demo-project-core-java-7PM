@@ -4,7 +4,7 @@ public class DemoIfElseAssignment {
     public static void main(String[] args) {
 
 
-        int number = 44;
+        int number = 6438765;
 
         if (number % 5 == 0) {
 
