@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignmet 25 jan">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demo_NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demoif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Demoif_else.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Conditional Statemnet if, if else , Nestedif">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/AndifOperator_Assignment_30jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Assignment_30jan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Assignment_25_Jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Assignment_25_Jan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional_statement/Demo_NestedIf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,9 +115,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo_NestedIf">
-    <configuration name="Assignment_25_Jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Assignment_25_Jan" />
+  <component name="RunManager" selected="Application.AndifOperator_Assignment_30jan">
+    <configuration name="AndifOperator_Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.AndifOperator_Assignment_30jan" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -130,9 +129,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_Statement_assignment_27jan (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_Statement_assignment_27jan" />
+    <configuration name="Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Assignment_30jan" />
       <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AndifOperator_Assignment_30jan" />
+        <item itemvalue="Application.Assignment_30jan" />
         <item itemvalue="Application.Demo_NestedIf" />
         <item itemvalue="Application.Demoif_else" />
         <item itemvalue="Application.Demoif" />
-        <item itemvalue="Application.Assignment_25_Jan" />
-        <item itemvalue="Application.Conditional_Statement_assignment_27jan (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674826691728</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Conditional Statemnet if, if else , Nestedif">
+      <created>1675084717301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675084717301</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Conditional Statemnet if, if else , Nestedif">
+      <created>1675160586371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675160586371</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -305,10 +324,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="print cube value for trial" />
     <MESSAGE value="Assignmet 25 jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignmet 25 jan" />
+    <MESSAGE value="Conditional Statemnet if, if else , Nestedif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional Statemnet if, if else , Nestedif" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
