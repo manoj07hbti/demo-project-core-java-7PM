@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ConditionStatement/ORoperatorcondition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedIF">
+  <component name="RunManager" selected="Application.ORoperatorcondition">
     <configuration name="ANDifOPerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionStatement.ANDifOPerator" />
       <module name="demo-project-core-java-7PM" />
@@ -137,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ORoperatorcondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.ORoperatorcondition" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="conditionIfelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionStatement.conditionIfelse" />
       <module name="demo-project-core-java-7PM" />
@@ -150,26 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demoIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.demoIf" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConditionStatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ORoperatorcondition" />
         <item itemvalue="Application.NestedIF" />
         <item itemvalue="Application.ANDifOPerator" />
         <item itemvalue="Application.Multiplifandoperotar" />
         <item itemvalue="Application.conditionIfelse" />
-        <item itemvalue="Application.demoIf" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675189004431</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Condition NESTED if java">
+      <created>1675190064954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675190064954</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -312,7 +319,8 @@
     <MESSAGE value="demo java 2" />
     <MESSAGE value="demo project if else" />
     <MESSAGE value="And if operetor condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="And if operetor condition" />
+    <MESSAGE value="Condition NESTED if java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Condition NESTED if java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
