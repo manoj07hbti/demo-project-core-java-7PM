@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment=" Use IF Block" />
+    <list default="true" id="9a11bd5a-e750-4002-9d83-a11a0e7c3178" name="Changes" comment=" Use IF Block">
+      <change afterPath="$PROJECT_DIR$/src/variable/Demo_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <force-push-target remote-path="origin" branch="master_gaurav" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.DemoIf">
+  <component name="RunManager" selected="Application.Demo_Variable">
     <configuration name="And_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditional_statement.And_Operator" />
       <module name="core-java-demo-project" />
@@ -63,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="conditional_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Demo_Variable" />
+      <module name="core-java-demo-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_Variable" />
         <item itemvalue="Application.DemoIf" />
         <item itemvalue="Application.Or_Operator" />
         <item itemvalue="Application.And_Operator" />
@@ -171,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675176102586</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" Use IF Block">
+      <created>1675176518471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675176518471</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +216,21 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/Feature_gaurav" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
