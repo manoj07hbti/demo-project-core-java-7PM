@@ -23,7 +23,7 @@ public class If_Multiple_Condition_Assigenment_31_jan {
         //Price >1000 and <5000 : Print Medium price product//
 
         price = 3500;
-        if (price > 1000 & price < 5000) {
+        if (price > 1000 & price < 5000 & Brand == "IBM") {
             System.out.println("Medium price product..");
         } else {
             System.out.println("High price product..");
@@ -33,7 +33,7 @@ public class If_Multiple_Condition_Assigenment_31_jan {
         //Price >5000 : Print High price product//
 
         price = 6000;
-        if (price > 5000) {
+        if (price > 5000 & Brand == "IBM") {
             System.out.println("High price product..");
         } else {
             System.out.println("Very expensive product.");
