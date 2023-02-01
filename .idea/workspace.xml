@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="new change">
-      <change afterPath="$PROJECT_DIR$/src/Andoperator/Andoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oroperator1/Orperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/agecondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/markscondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/DemoRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/DemoRevision.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Orperator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674963431454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Andoperator">
+      <created>1675219379037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675219379037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -272,7 +271,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new change" />
-    <option name="LAST_COMMIT_MESSAGE" value="new change" />
+    <MESSAGE value="Andoperator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Andoperator" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
