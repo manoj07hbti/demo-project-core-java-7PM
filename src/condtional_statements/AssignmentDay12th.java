@@ -4,7 +4,7 @@ public class AssignmentDay12th {
     public static void main(String[] args) {
 
         String Brand = "IBM";
-        int Price = 6000;
+        int Price = 4500;
 
         if (Brand == "IBM") {
 
