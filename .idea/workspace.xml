@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conditional_statement/Ashish_Assignment9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement/Ashish_Assignment10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,9 +105,9 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ashish_Assignment9">
-    <configuration name="Ashish_Assignment5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_statement.Ashish_Assignment5" />
+  <component name="RunManager" selected="Application.Ashish_Assignment10">
+    <configuration name="Ashish_Assignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statement.Ashish_Assignment10" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ashish_Assignment10" />
         <item itemvalue="Application.Ashish_Assignment9" />
         <item itemvalue="Application.Ashish_Assignment8" />
         <item itemvalue="Application.Ashish_Assignment7" />
         <item itemvalue="Application.Ashish_Assignment6" />
-        <item itemvalue="Application.Ashish_Assignment5" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675353094716</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="write a program which wil tell state name by using initials">
+      <created>1675353519047</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675353519047</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -407,7 +414,8 @@
     <MESSAGE value="Wrtie a Program to check marks and display divison of student" />
     <MESSAGE value="brand IBM vs price" />
     <MESSAGE value="write a program which will tell you Day of week based on day number" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a program which will tell you Day of week based on day number" />
+    <MESSAGE value="write a program which wil tell state name by using initials" />
+    <option name="LAST_COMMIT_MESSAGE" value="write a program which wil tell state name by using initials" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
