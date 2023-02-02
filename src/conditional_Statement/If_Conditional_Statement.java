@@ -19,6 +19,13 @@ public class If_Conditional_Statement {
          }
     }
 
+    String city1="Agra";
+
+
+
+
+
+
 
 
 
