@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)">
+      <change afterPath="$PROJECT_DIR$/src/conditional_statements/If_Nested_Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditional_statements/Demo_If_or_else_comditional_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional_statements/Demo_If_or_else_comditional_statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditional_statements/If_AND_operator_OR_OPERATOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional_statements/If_AND_operator_OR_OPERATOR.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +17,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -51,6 +57,7 @@
     <option name="width" value="1378" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectId" id="2Kov7YFk0cAz7nWq2GRZAOafGYN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -83,40 +90,22 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DemoAdvanceVariable">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.If_Multiple_Condition_Assigenment_31_jan">
+    <configuration name="Demo_If_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statements.Demo_If_Condition" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="conditional_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +113,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="Demo_If_or_else_comditional_statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statements.Demo_If_or_else_comditional_statement" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="conditional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_AND_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statements.If_AND_operator" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_AND_operator_OR_OPERATOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statements.If_AND_operator_OR_OPERATOR" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_Multiple_Condition_Assigenment_31_jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statements.If_Multiple_Condition_Assigenment_31_jan" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditional_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +167,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoAdvanceVariable" />
-        <item itemvalue="Application.DemoVariable" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.If_Multiple_Condition_Assigenment_31_jan" />
+        <item itemvalue="Application.If_AND_operator" />
+        <item itemvalue="Application.If_AND_operator_OR_OPERATOR" />
+        <item itemvalue="Application.Demo_If_or_else_comditional_statement" />
+        <item itemvalue="Application.Demo_If_Condition" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -158,6 +189,63 @@
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment of 24-jan">
+      <created>1674657483768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674657483784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Assignment of 25-Jan">
+      <created>1674724512409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674724512409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Assignment 27Jan(Conditional_Statement_If_Demo)">
+      <created>1674910712379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674910712379</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Assignment 28Jan(Conditional_Statement_If or Else_)">
+      <created>1675084785289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675084785289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Assignment 30Jan(Multiple_Condition_Statement_If_And operator)">
+      <created>1675171331634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675171331634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Assignment 30Jan(Multiple_Condition_Statement_If_And operator only)">
+      <created>1675173750133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675173750133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)">
+      <created>1675269732263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675269732263</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)">
+      <created>1675270702401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675270702401</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -233,6 +321,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment of 24-jan" />
+    <MESSAGE value="Assignment of 25-Jan" />
+    <MESSAGE value="Assignment 27Jan(Conditional_Statement_If_Demo)" />
+    <MESSAGE value="Assignment 28Jan(Conditional_Statement_If or Else_)" />
+    <MESSAGE value="Assignment 30Jan(Multiple_Condition_Statement_If_And operator)" />
+    <MESSAGE value="Assignment 30Jan(Multiple_Condition_Statement_If_And operator only)" />
+    <MESSAGE value="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

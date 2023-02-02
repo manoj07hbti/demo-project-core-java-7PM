@@ -23,5 +23,7 @@ public class Demo_If_or_else_comditional_statement {
         else{
             System.out.println("FOREIGNER");
         }
+
+
     }
 }
