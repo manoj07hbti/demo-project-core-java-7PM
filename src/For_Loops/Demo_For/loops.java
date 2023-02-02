@@ -11,6 +11,7 @@ public class loops {
             System.out.println(number +"X"+ i +"="+ number*i);
 
         }
+
         }
 
 
