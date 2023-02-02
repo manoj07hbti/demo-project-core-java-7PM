@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="OR condition">
-      <change afterPath="$PROJECT_DIR$/src/demo/Aanchal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Notcondition_operator.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Not operator">
+      <change afterPath="$PROJECT_DIR$/src/variable/Switchstatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,20 +97,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Notcondition_operator">
-    <configuration name="Ifelseconditionalstatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Ifelseconditionalstatements" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Switchstatements">
     <configuration name="Multipleconditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Multipleconditions" />
       <module name="demo-project-core-java-7PM" />
@@ -164,13 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Switchstatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Switchstatements" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switchstatements" />
         <item itemvalue="Application.Notcondition_operator" />
         <item itemvalue="Application.ORcondition" />
         <item itemvalue="Application.Multipleconditions" />
         <item itemvalue="Application.Nestedifcondition" />
-        <item itemvalue="Application.Ifelseconditionalstatements" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675167896931</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Not operator">
+      <created>1675247233326</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675247233326</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -313,7 +319,8 @@
     <MESSAGE value="ifelse_conditionstatements" />
     <MESSAGE value="Nestedifcondition" />
     <MESSAGE value="OR condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="OR condition" />
+    <MESSAGE value="Not operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not operator" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
