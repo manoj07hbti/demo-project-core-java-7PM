@@ -9,6 +9,7 @@ public class loops {
         for(int i=1; i<11; i++){
 
             System.out.println(number +"X"+ i +"="+ number*i);
+
         }
         }
 

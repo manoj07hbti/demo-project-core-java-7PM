@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment of 2nd February">
+      <change afterPath="$PROJECT_DIR$/src/For_Loops/Demo_For/loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_31jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_31jan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,6 @@
         <option name="url" value="https://github.com/manoj07hbti/demo-project-core-java-7PM.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Class24Jan.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -120,49 +117,73 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assignment_31jan">
-    <configuration name="AndOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AndOperator" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.loops">
     <configuration name="Assignment_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_31jan" />
+      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Assignment_31jan" />
       <module name="demo-project-core-java-7PM" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+    <configuration name="Switch_Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_Month" />
       <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo_first" />
+    <configuration name="Switch_State" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_State" />
       <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Democlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Democlass" />
+    <configuration name="Switch_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_Statement" />
       <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Loops.Demo_For.loops" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="For_Loops.Demo_For.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loops" />
+        <item itemvalue="Application.Switch_Month" />
+        <item itemvalue="Application.Switch_State" />
+        <item itemvalue="Application.Switch_Statement" />
         <item itemvalue="Application.Assignment_31jan" />
-        <item itemvalue="Application.AndOperator" />
-        <item itemvalue="Application.Demo_first" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Democlass" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +264,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675364334560</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignment of 31 January">
+      <created>1675366214850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675366214850</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Assignment of 2nd February..">
+      <created>1675369226452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675369226452</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Assignment of 2nd February">
+      <created>1675369483390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675369483390</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -326,7 +368,9 @@
     <MESSAGE value="Assignment of 25 January" />
     <MESSAGE value="Assignment of 30 January" />
     <MESSAGE value="Assignment of 31 January" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment of 31 January" />
+    <MESSAGE value="Assignment of 2nd February.." />
+    <MESSAGE value="Assignment of 2nd February" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment of 2nd February" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
