@@ -42,6 +42,23 @@ public class Demo_variable {
         d--;//d=d-7=7-1=6;
         System.out.println("decrement is"+d);
 
+        String Country="INDIAN";
+        if( !(Country=="INDIAN")){
+
+            System.out.println("Persan is INDIAN");
+        }
+         else{
+
+             System.out.println("Persan is FOREIGNER");
+        }
+          int number=42;
+         if( number>0){
+
+             if(number%6==0){
+
+                 System.out.println("number is even");
+             }
+         }
 
 
 
