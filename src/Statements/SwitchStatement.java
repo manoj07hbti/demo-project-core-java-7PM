@@ -1,6 +1,6 @@
 package Statements;
 
-//Finding day using number
+//Finding day using numbers
 public class SwitchStatement {
     public static void main(String[] args){
         int day;

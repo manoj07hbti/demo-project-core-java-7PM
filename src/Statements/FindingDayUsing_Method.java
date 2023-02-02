@@ -1,5 +1,6 @@
 package Statements;
 
+//Using Method
 public class FindingDayUsing_Method {
     int day=6;
     void Day() {

@@ -1,6 +1,6 @@
 package Statements;
 
-//Finding Month Name using number
+//Finding Month Name using numbers
 public class Months_Assignment {
     public static void main(String[] args){
         int Month=10;

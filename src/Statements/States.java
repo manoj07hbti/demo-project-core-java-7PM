@@ -1,6 +1,6 @@
 package Statements;
 
-//Finding states using Short form
+//Finding states using Short form of states
 public class States {
     public static void main(String[] args){
         String State_Name = "MH";
