@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConditionStatement/ORoperatorcondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionStatement/NOToperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Precticejavaclass/Precticejavaclass/Demo_variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +100,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ORoperatorcondition">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Precticejavaclass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NOToperator">
     <configuration name="ANDifOPerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionStatement.ANDifOPerator" />
       <module name="demo-project-core-java-7PM" />
@@ -111,8 +119,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplifandoperotar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.Multiplifandoperotar" />
+    <configuration name="Demo_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Precticejavaclass.Precticejavaclass.Demo_variable" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Precticejavaclass.Precticejavaclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOToperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.NOToperator" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -150,26 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conditionIfelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.conditionIfelse" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConditionStatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ORoperatorcondition" />
+        <item itemvalue="Application.NOToperator" />
         <item itemvalue="Application.NestedIF" />
         <item itemvalue="Application.ANDifOPerator" />
-        <item itemvalue="Application.Multiplifandoperotar" />
-        <item itemvalue="Application.conditionIfelse" />
+        <item itemvalue="Application.Demo_variable" />
+        <item itemvalue="Application.ORoperatorcondition" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675190064954</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="OR operator condition java">
+      <created>1675191969360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675191969360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -320,7 +335,8 @@
     <MESSAGE value="demo project if else" />
     <MESSAGE value="And if operetor condition" />
     <MESSAGE value="Condition NESTED if java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Condition NESTED if java" />
+    <MESSAGE value="OR operator condition java" />
+    <option name="LAST_COMMIT_MESSAGE" value="OR operator condition java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

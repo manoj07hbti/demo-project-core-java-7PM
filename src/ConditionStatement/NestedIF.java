@@ -3,10 +3,10 @@ package ConditionStatement;
 public class NestedIF {
     public static void main(String args []){
 
-        int number=15;
+        int number=48;
         if( number>0){
 
-             if (number % 5== 0){
+             if (number % 8== 0){
 
                System.out.println("Number is Even");
 

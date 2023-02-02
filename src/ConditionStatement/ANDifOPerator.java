@@ -35,7 +35,12 @@ public class ANDifOPerator {
 
             System.out.println("persan is eligible for voting in Metro city");
         }
+        int marks=33;
 
+        if(marks>33 & marks<44 ){
+
+            System.out.println("clear exam with 3rd devision");
+        }
 
 
 
