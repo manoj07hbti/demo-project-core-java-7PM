@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Conditional Statemnet if, if else , Nestedif">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/AndifOperator_Assignment_30jan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/Assignment_30jan.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignemnt 30 jan And OR Operator">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/NOtoperator_Assignment31jan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional_statement/Demo_NestedIf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AndifOperator_Assignment_30jan">
+  <component name="RunManager" selected="Application.NOtoperator_Assignment31jan">
     <configuration name="AndifOperator_Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_statement.AndifOperator_Assignment_30jan" />
       <module name="demo-project-core-java-7PM" />
@@ -155,19 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demoif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demoif" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demoif_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demoif_else" />
       <module name="demo-project-core-java-7PM" />
@@ -181,13 +166,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NOtoperator_Assignment31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.NOtoperator_Assignment31jan" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NOtoperator_Assignment31jan" />
         <item itemvalue="Application.AndifOperator_Assignment_30jan" />
         <item itemvalue="Application.Assignment_30jan" />
         <item itemvalue="Application.Demo_NestedIf" />
         <item itemvalue="Application.Demoif_else" />
-        <item itemvalue="Application.Demoif" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675160586371</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignemnt 30 jan And OR Operator">
+      <created>1675171646670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675171646670</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -339,7 +344,13 @@
     <MESSAGE value="print cube value for trial" />
     <MESSAGE value="Assignmet 25 jan" />
     <MESSAGE value="Conditional Statemnet if, if else , Nestedif" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional Statemnet if, if else , Nestedif" />
+    <MESSAGE value="Assignemnt 30 jan And OR Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignemnt 30 jan And OR Operator" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo_project_core_java_7PM$NOtoperator_Assignment31jan.ic" NAME="NOtoperator_Assignment31jan Coverage Results" MODIFIED="1675259060145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Conditional_statement.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
