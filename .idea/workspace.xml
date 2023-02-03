@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="write a program which wil tell Months">
       <change afterPath="$PROJECT_DIR$/src/loop_statement/for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_statement/loop_assignment1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/loop_statement/table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -330,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675353866555</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="for loop">
+      <created>1675432250508</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675432250508</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -425,7 +433,8 @@
     <MESSAGE value="write a program which will tell you Day of week based on day number" />
     <MESSAGE value="write a program which wil tell state name by using initials" />
     <MESSAGE value="write a program which wil tell Months" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a program which wil tell Months" />
+    <MESSAGE value="for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
