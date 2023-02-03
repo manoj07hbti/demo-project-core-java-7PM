@@ -3,7 +3,7 @@ package condtional_statements;
 public class AssignmentSwitchStatement {
     public static void main(String[] args) {
 
-         int Month=13;
+         int Month=02;
 
          switch (Month){
 
