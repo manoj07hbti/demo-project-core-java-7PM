@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="loops work" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Table of five">
+      <change afterPath="$PROJECT_DIR$/src/loop_working/Factorial_Of7.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,13 +97,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TableofFive">
+  <component name="RunManager" selected="Application.Factorial_Of7">
     <configuration name="Demoswitchstatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="condtional_statements.Demoswitchstatement" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="condtional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial_Of7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_working.Factorial_Of7" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,19 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conditional_Statement.IfElse_statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_Statement.IfElse_statement" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditional_Statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="conditional_Statement.If_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditional_Statement.If_Else" />
       <module name="demo-project-core-java-7PM" />
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial_Of7" />
         <item itemvalue="Application.TableofFive" />
         <item itemvalue="Application.Demoswitchstatement" />
         <item itemvalue="Application.MultipuleANDOperator" />
         <item itemvalue="Application.conditional_Statement.If_Else" />
-        <item itemvalue="Application.conditional_Statement.IfElse_statement" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675434783965</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Table of five">
+      <created>1675435296599</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435296599</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -328,7 +337,8 @@
     <MESSAGE value="And Operator Statement" />
     <MESSAGE value="switch  Statement" />
     <MESSAGE value="loops work" />
-    <option name="LAST_COMMIT_MESSAGE" value="loops work" />
+    <MESSAGE value="Table of five" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table of five" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
