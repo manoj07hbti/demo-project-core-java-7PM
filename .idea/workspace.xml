@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="write a program which wil tell Months">
-      <change afterPath="$PROJECT_DIR$/src/loop_statement/for_loop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/loop_statement/loop_assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop_statement/table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,22 +105,9 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.table">
+  <component name="RunManager" selected="Application.loop_assignment1">
     <configuration name="Ashish_Assignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditional_statement.Ashish_Assignment10" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditional_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ashish_Assignment8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_statement.Ashish_Assignment8" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -161,6 +145,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="loop_assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_statement.loop_assignment1" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_statement.table" />
       <module name="demo-project-core-java-7PM" />
@@ -176,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loop_assignment1" />
         <item itemvalue="Application.table" />
         <item itemvalue="Application.for_loop" />
         <item itemvalue="Application.Ashish_Assignment10" />
         <item itemvalue="Application.Ashish_Assignment9" />
-        <item itemvalue="Application.Ashish_Assignment8" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675432250508</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="table example">
+      <created>1675432285507</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675432285507</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -434,7 +438,19 @@
     <MESSAGE value="write a program which wil tell state name by using initials" />
     <MESSAGE value="write a program which wil tell Months" />
     <MESSAGE value="for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+    <MESSAGE value="table example" />
+    <option name="LAST_COMMIT_MESSAGE" value="table example" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loop_statement/table.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
