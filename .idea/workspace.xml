@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_statement/loop_assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_03_feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_statement/loop_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_statement/loop_assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_statement/loop_assignment2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,33 +108,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.loop_assignment2">
-    <configuration name="Ashish_Assignment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_statement.Ashish_Assignment10" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditional_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop_statement.for_loop" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.practice_03_feb">
     <configuration name="loop_assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_statement.loop_assignment1" />
       <module name="demo-project-core-java-7PM" />
@@ -158,6 +135,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="loop_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_statement.loop_practice" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_03_feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.practice_03_feb" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashish_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_statement.table" />
       <module name="demo-project-core-java-7PM" />
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice_03_feb" />
+        <item itemvalue="Application.loop_practice" />
         <item itemvalue="Application.loop_assignment2" />
         <item itemvalue="Application.loop_assignment1" />
         <item itemvalue="Application.table" />
-        <item itemvalue="Application.for_loop" />
-        <item itemvalue="Application.Ashish_Assignment10" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675432937324</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Factorial of 7">
+      <created>1675433369664</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675433369664</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -447,7 +457,8 @@
     <MESSAGE value="for loop" />
     <MESSAGE value="table example" />
     <MESSAGE value="table of 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="table of 5" />
+    <MESSAGE value="Factorial of 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial of 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
