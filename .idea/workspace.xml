@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Andopperator/andopperator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditioalstatements/Demoif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Swithmonth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +104,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.andopperator1">
+  <component name="RunManager" selected="Application.Swithmonth">
     <configuration name="Demoif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditioalstatements.Demoif" />
       <module name="demo-project-core-java-7PM" />
@@ -134,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="andopperator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Andopperator.andopperator1" />
+    <configuration name="Swithmonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Swithmonth" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Andopperator.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hpi3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="izyan.hpi3" />
+    <configuration name="andopperator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Andopperator.andopperator1" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="izyan.*" />
+          <option name="PATTERN" value="Andopperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swithmonth" />
         <item itemvalue="Application.andopperator1" />
         <item itemvalue="Application.zaib" />
         <item itemvalue="Application.Revisionclass" />
         <item itemvalue="Application.Demoif" />
-        <item itemvalue="Application.hpi3" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674823476450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" new change">
+      <created>1675436181886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675436181886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
