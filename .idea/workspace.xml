@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignemnt 30 jan And OR Operator">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/NOtoperator_Assignment31jan.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 31 jan">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/SwitchStatement_Assignemnt_2Feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +114,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NOtoperator_Assignment31jan">
+  <component name="RunManager" selected="Application.TableOfFive_Assignment_3Feb">
     <configuration name="AndifOperator_Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_statement.AndifOperator_Assignment_30jan" />
       <module name="demo-project-core-java-7PM" />
@@ -140,32 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demo_NestedIf" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demoif_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Demoif_else" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NOtoperator_Assignment31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_statement.NOtoperator_Assignment31jan" />
       <module name="demo-project-core-java-7PM" />
@@ -179,13 +154,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchStatement_Assignemnt_2Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_statement.SwitchStatement_Assignemnt_2Feb" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableOfFive_Assignment_3Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.TableOfFive_Assignment_3Feb" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop_working.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TableOfFive_Assignment_3Feb" />
+        <item itemvalue="Application.SwitchStatement_Assignemnt_2Feb" />
         <item itemvalue="Application.NOtoperator_Assignment31jan" />
         <item itemvalue="Application.AndifOperator_Assignment_30jan" />
         <item itemvalue="Application.Assignment_30jan" />
-        <item itemvalue="Application.Demo_NestedIf" />
-        <item itemvalue="Application.Demoif_else" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675171646670</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Assignment 31 jan">
+      <created>1675325941517</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675325941518</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -345,7 +353,19 @@
     <MESSAGE value="Assignmet 25 jan" />
     <MESSAGE value="Conditional Statemnet if, if else , Nestedif" />
     <MESSAGE value="Assignemnt 30 jan And OR Operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignemnt 30 jan And OR Operator" />
+    <MESSAGE value="Assignment 31 jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 31 jan" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo_project_core_java_7PM$NOtoperator_Assignment31jan.ic" NAME="NOtoperator_Assignment31jan Coverage Results" MODIFIED="1675259060145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
