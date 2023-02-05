@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Loop/PalendromNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +104,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+  <component name="RunManager" selected="Application.PalendromNumber">
     <configuration name="AssigmentWhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.AssigmentWhileloop" />
       <module name="demo-project-core-java-7PM" />
@@ -141,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="PalendromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.PalendromNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalendromNumber" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.AssigmentWhileloop" />
         <item itemvalue="Application.Assigmentloopdemo" />
         <item itemvalue="Application.Assigmentloop2nd" />
-        <item itemvalue="Application.DemoVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675604660988</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Assigment Prime number">
+      <created>1675604754890</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675604754890</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -380,7 +390,8 @@
     <MESSAGE value="Loop demo 2nd feb increment decrement" />
     <MESSAGE value="Assigment While loop 1st" />
     <MESSAGE value="Assigment Loop Even and odd number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assigment Loop Even and odd number" />
+    <MESSAGE value="Assigment Prime number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assigment Prime number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
