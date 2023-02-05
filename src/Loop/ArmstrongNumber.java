@@ -1,19 +1,19 @@
 package Loop;
 
-class Palindrome{
+class ArmstrongNumber{
     public static void main(String args[]){
         int result,sum=0,temp;
-        int number=454;
+        int number=153;
 
         temp=number;
         while(number>0){
             result=number%10;
-            sum=(sum*10)+result;
+            sum=sum+(result*result*result);
             number=number/10;
         }
         if(temp==sum)
-            System.out.println("palindrome number ");
+            System.out.println("Armstrong Number ");
         else
-            System.out.println("not palindrome");
+            System.out.println("Not an Armstrong Number");
     }
 }
