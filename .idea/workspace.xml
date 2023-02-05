@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/AssigmentWhileloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/AssigmentWhileloop.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675539746941</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Assigment Loop Even and odd number">
+      <created>1675604660988</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675604660988</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -376,7 +379,8 @@
     <MESSAGE value="Loop demo 2nd feb" />
     <MESSAGE value="Loop demo 2nd feb increment decrement" />
     <MESSAGE value="Assigment While loop 1st" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assigment While loop 1st" />
+    <MESSAGE value="Assigment Loop Even and odd number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assigment Loop Even and odd number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
