@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Switch_Statement_Assignment_2_Feb_Month_Name">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Loops_Assignment_3_Feb_table of 5 and factorial of 7">
+      <change afterPath="$PROJECT_DIR$/src/Loops/While_Loop_Assignment_4_Feb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +97,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assignment_2_Feb_Switch_Statement">
+  <component name="RunManager" selected="Application.While_Loop_Assignment_4_Feb">
     <configuration name="Assignment_2_Feb_Switch_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditional_statements.Assignment_2_Feb_Switch_Statement" />
       <module name="demo-project-core-java-7PM" />
@@ -110,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If_AND_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_statements.If_AND_operator" />
+    <configuration name="Assignment_3_Feb_Loops_for" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Assignment_3_Feb_Loops_for" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditional_statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="If_AND_operator_OR_OPERATOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional_statements.If_AND_operator_OR_OPERATOR" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditional_statements.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="While_Loop_Assignment_4_Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.While_Loop_Assignment_4_Feb" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.While_Loop_Assignment_4_Feb" />
+        <item itemvalue="Application.Assignment_3_Feb_Loops_for" />
         <item itemvalue="Application.Assignment_2_Feb_Switch_Statement" />
         <item itemvalue="Application.Switch_Statement" />
         <item itemvalue="Application.If_Multiple_Condition_Assigenment_31_jan" />
-        <item itemvalue="Application.If_AND_operator" />
-        <item itemvalue="Application.If_AND_operator_OR_OPERATOR" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675426137591</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Loops_Assignment_3_Feb_table of 5 and factorial of 7">
+      <created>1675599166266</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675599166266</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -354,7 +362,8 @@
     <MESSAGE value="Assignment 31Jan(Multiple_Condition_Statement_If_And operator)" />
     <MESSAGE value="Swithch_Statement" />
     <MESSAGE value="Switch_Statement_Assignment_2_Feb_Month_Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch_Statement_Assignment_2_Feb_Month_Name" />
+    <MESSAGE value="Loops_Assignment_3_Feb_table of 5 and factorial of 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops_Assignment_3_Feb_table of 5 and factorial of 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
