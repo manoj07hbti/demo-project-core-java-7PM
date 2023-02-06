@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 31 jan">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_statement/SwitchStatement_Assignemnt_2Feb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 2 Feb">
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/DoWhileLoop_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/EvenNumber_Assignment_4feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/FactorialOfSeven_Assignment_3Feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/IncreamentAndDecrement_Loop_3feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/InfiniteLoop_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/WhileLoop_practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +120,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TableOfFive_Assignment_3Feb">
-    <configuration name="AndifOperator_Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.AndifOperator_Assignment_30jan" />
+  <component name="RunManager" selected="Application.PrimeNumber_assignment_4Feb">
+    <configuration name="DoWhileLoop_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.DoWhileLoop_practice" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="PATTERN" value="Loop_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment_30jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.Assignment_30jan" />
+    <configuration name="EvenNumber_Assignment_4feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.EvenNumber_Assignment_4feb" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="PATTERN" value="Loop_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NOtoperator_Assignment31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.NOtoperator_Assignment31jan" />
+    <configuration name="OddNumber_Assignment_4Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.OddNumber_Assignment_4Feb" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="PATTERN" value="Loop_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStatement_Assignemnt_2Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_statement.SwitchStatement_Assignemnt_2Feb" />
+    <configuration name="PrimeNumber_assignment_4Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_assignment_4Feb" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_statement.*" />
+          <option name="PATTERN" value="Loop_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber_assignment_4Feb" />
+        <item itemvalue="Application.OddNumber_Assignment_4Feb" />
+        <item itemvalue="Application.EvenNumber_Assignment_4feb" />
         <item itemvalue="Application.TableOfFive_Assignment_3Feb" />
-        <item itemvalue="Application.SwitchStatement_Assignemnt_2Feb" />
-        <item itemvalue="Application.NOtoperator_Assignment31jan" />
-        <item itemvalue="Application.AndifOperator_Assignment_30jan" />
-        <item itemvalue="Application.Assignment_30jan" />
+        <item itemvalue="Application.DoWhileLoop_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675325941518</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Assignment 2 Feb">
+      <created>1675517453914</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675517453914</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -354,18 +367,8 @@
     <MESSAGE value="Conditional Statemnet if, if else , Nestedif" />
     <MESSAGE value="Assignemnt 30 jan And OR Operator" />
     <MESSAGE value="Assignment 31 jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 31 jan" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Assignment 2 Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2 Feb" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo_project_core_java_7PM$NOtoperator_Assignment31jan.ic" NAME="NOtoperator_Assignment31jan Coverage Results" MODIFIED="1675259060145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

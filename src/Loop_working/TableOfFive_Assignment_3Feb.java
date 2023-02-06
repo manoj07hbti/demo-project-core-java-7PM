@@ -3,7 +3,7 @@ package Loop_working;
 public class TableOfFive_Assignment_3Feb {
     public static void main(String[] args) {
         //assignment:print table of 5,
-
+        // Demo Loop
         //syntax: SYNTAX :   for(initialization, condition, increment) {
         //        //	            //block of statements
         //        //	    }
