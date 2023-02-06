@@ -102,7 +102,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Oddnumber">
+  <component name="RunManager" selected="Application.Evennumber">
     <configuration name="Evennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Forloopandwhileloop.Evennumber" />
       <module name="demo-project-core-java-7PM" />
@@ -170,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Oddnumber" />
         <item itemvalue="Application.Evennumber" />
+        <item itemvalue="Application.Oddnumber" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Swithmonth" />
         <item itemvalue="Application.andopperator1" />
@@ -241,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675695220273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="even number">
+      <created>1675695321662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695321662</updated>
+    </task>
+    <task id="LOCAL-00009" summary="odd number">
+      <created>1675695392366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675695392366</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -324,7 +338,8 @@
     <MESSAGE value=" new change" />
     <MESSAGE value="month" />
     <MESSAGE value="even number" />
-    <option name="LAST_COMMIT_MESSAGE" value="even number" />
+    <MESSAGE value="odd number" />
+    <option name="LAST_COMMIT_MESSAGE" value="odd number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
