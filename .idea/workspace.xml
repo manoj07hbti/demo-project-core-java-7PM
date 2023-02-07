@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_statement/palendrom_assignmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop_statement/prime_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_statement/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_statement/prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.palendrom_assignmen">
+  <component name="RunManager" selected="Application.prime_number">
     <configuration name="even_number_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_statement.even_number_Assignment" />
       <module name="demo-project-core-java-7PM" />
@@ -175,8 +174,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.palendrom_assignmen" />
         <item itemvalue="Application.prime_number" />
+        <item itemvalue="Application.palendrom_assignmen" />
         <item itemvalue="Application.odd_number_Assignment" />
         <item itemvalue="Application.even_number_Assignment" />
         <item itemvalue="Application.practice_03_feb" />
@@ -379,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675782367049</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="palendrom">
+      <created>1675790652186</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675790652186</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -480,7 +486,8 @@
     <MESSAGE value="Factorial of 7" />
     <MESSAGE value="find even number between 1 to 100" />
     <MESSAGE value="find odd number between 1 to 100" />
-    <option name="LAST_COMMIT_MESSAGE" value="find odd number between 1 to 100" />
+    <MESSAGE value="palendrom" />
+    <option name="LAST_COMMIT_MESSAGE" value="palendrom" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
