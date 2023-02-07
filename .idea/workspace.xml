@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 2 Feb">
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/DoWhileLoop_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/EvenNumber_Assignment_4feb.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 4 feb">
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/BreakandContinue_Assignment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loop_working/FactorialOfSeven_Assignment_3Feb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/IncreamentAndDecrement_Loop_3feb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/InfiniteLoop_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/WhileLoop_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/PalindromeNumberProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_working/PrimeNumber_Assignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_working/TableOfFive_Assignment_3Feb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,9 +118,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumber_assignment_4Feb">
-    <configuration name="DoWhileLoop_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.DoWhileLoop_practice" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Loop_working" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BreakandContinue_Assignment">
+    <configuration name="BreakandContinue_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.BreakandContinue_Assignment" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -160,6 +163,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumber_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_Assignment" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop_working.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeNumber_assignment_4Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_assignment_4Feb" />
       <module name="demo-project-core-java-7PM" />
@@ -173,26 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableOfFive_Assignment_3Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.TableOfFive_Assignment_3Feb" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreakandContinue_Assignment" />
+        <item itemvalue="Application.PrimeNumber_Assignment" />
         <item itemvalue="Application.PrimeNumber_assignment_4Feb" />
         <item itemvalue="Application.OddNumber_Assignment_4Feb" />
         <item itemvalue="Application.EvenNumber_Assignment_4feb" />
-        <item itemvalue="Application.TableOfFive_Assignment_3Feb" />
-        <item itemvalue="Application.DoWhileLoop_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675517453914</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignment 4 feb">
+      <created>1675668153332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675668153332</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -368,7 +378,19 @@
     <MESSAGE value="Assignemnt 30 jan And OR Operator" />
     <MESSAGE value="Assignment 31 jan" />
     <MESSAGE value="Assignment 2 Feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2 Feb" />
+    <MESSAGE value="Assignment 4 feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 4 feb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loop_working/BreakandContinue_Assignment.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo_project_core_java_7PM$NOtoperator_Assignment31jan.ic" NAME="NOtoperator_Assignment31jan Coverage Results" MODIFIED="1675259060145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
