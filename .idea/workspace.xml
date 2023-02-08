@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment of 2nd February">
-      <change afterPath="$PROJECT_DIR$/src/For_Loops/Demo_For/loops.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Even Number (Assignment)">
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,20 +117,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.loops">
-    <configuration name="Assignment_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Assignment_31jan" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch_Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_Month" />
+  <component name="RunManager" selected="Application.State">
+    <configuration name="Collage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Collage" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_State" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_State" />
+    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_Statement.Switch_Statement" />
+    <configuration name="Engineer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Engineer" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional_Statement.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loops.Demo_For.loops" />
+    <configuration name="Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome_Number" />
+      <module name="demo-project-core-java-7PM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="State" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.State" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_Loops.Demo_For.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.loops" />
-        <item itemvalue="Application.Switch_Month" />
-        <item itemvalue="Application.Switch_State" />
-        <item itemvalue="Application.Switch_Statement" />
-        <item itemvalue="Application.Assignment_31jan" />
+        <item itemvalue="Application.State" />
+        <item itemvalue="Application.Collage" />
+        <item itemvalue="Application.Engineer" />
+        <item itemvalue="Application.Doctor" />
+        <item itemvalue="Application.Palindrome_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +285,105 @@
       <option name="project" value="LOCAL" />
       <updated>1675369483390</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Assignment of 2nd February">
+      <created>1675377035249</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675377035249</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Table of 5 (Assignment)">
+      <created>1675377103309</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675377103309</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Table of 5 (Assignment)">
+      <created>1675377156008</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675377156008</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Factorial of 7 (Assignment)">
+      <created>1675455978894</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675455978894</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Factorial of 7 (Assignment)">
+      <created>1675473327511</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675473327511</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Even Number (Assignment)">
+      <created>1675646257589</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675646257590</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Even Number (Assignment)">
+      <created>1675646340849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675646340849</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Odd Number (Assignment)">
+      <created>1675646974940</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675646974940</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Prime Number (Assignment)">
+      <created>1675648131529</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675648131529</updated>
+    </task>
+    <task id="LOCAL-00022" summary="palendrom Number (Assignment)">
+      <created>1675663886681</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675663886681</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Armstrong Number..">
+      <created>1675820411988</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675820411988</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Doctor (Assignment)">
+      <created>1675833912190</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675833912190</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Engineer (Assignment)">
+      <created>1675834494378</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675834494378</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Collage (Assignment)">
+      <created>1675834859942</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675834859942</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -370,7 +468,28 @@
     <MESSAGE value="Assignment of 31 January" />
     <MESSAGE value="Assignment of 2nd February.." />
     <MESSAGE value="Assignment of 2nd February" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment of 2nd February" />
+    <MESSAGE value="Table of 5 (Assignment)" />
+    <MESSAGE value="Factorial of 7 (Assignment)" />
+    <MESSAGE value="Even Number (Assignment)" />
+    <MESSAGE value="Odd Number (Assignment)" />
+    <MESSAGE value="Prime Number (Assignment)" />
+    <MESSAGE value="palendrom Number (Assignment)" />
+    <MESSAGE value="Armstrong Number.." />
+    <MESSAGE value="Doctor (Assignment)" />
+    <MESSAGE value="Engineer (Assignment)" />
+    <MESSAGE value="Collage (Assignment)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collage (Assignment)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
