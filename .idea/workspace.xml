@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Revisonpalendrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Loop/PrimeNumber.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,7 +110,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoBreakLoop">
+  <component name="RunManager" selected="Application.College">
     <configuration name="AssigmentWhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.AssigmentWhileloop" />
       <module name="demo-project-core-java-7PM" />
@@ -121,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assigmentloopdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Assigmentloopdemo" />
+    <configuration name="College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.College" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.College" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.DemoBreakLoop" />
         <item itemvalue="Application.PalendromNumber" />
-        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.AssigmentWhileloop" />
-        <item itemvalue="Application.Assigmentloopdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675606052357</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Break and continue Loop">
+      <created>1675766864058</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675766864058</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -402,7 +412,8 @@
     <MESSAGE value="Assigment Loop Even and odd number" />
     <MESSAGE value="Assigment Prime number" />
     <MESSAGE value="Palendrom number java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palendrom number java" />
+    <MESSAGE value="Break and continue Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break and continue Loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -411,11 +422,6 @@
           <url>file://$PROJECT_DIR$/src/variable/DemoVariable.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Loop/PalendromNumber.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
