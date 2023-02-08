@@ -8,13 +8,15 @@ public class Check_palidromsNumber {
         int r;
         int sum=0;
         int temp;
-        int n= 222; // it is the number variable to be checked for palindroms number
+        int n= 225; // it is the number variable to be checked for palindroms number
         temp= n;
-        while(n>0){
-            r=n%10; // getting remender
-            sum= (sum*10)+r;
-            n=n/10;
-        }
+
+            while (n > 0) {
+                r = n % 10; // getting remender
+                sum = (sum * 10) + r;
+                n = n / 10;
+            }
+
 
         if(temp==sum){
             System.out.println("this is a palindroms number");
