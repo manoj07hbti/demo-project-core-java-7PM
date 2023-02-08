@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/EngineerPC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/CollegePC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EngineerPC">
+  <component name="RunManager" selected="Application.CollegePC">
     <configuration name="College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="College" />
       <module name="demo-project-core-java-7PM" />
@@ -114,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doctor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor1" />
+    <configuration name="CollegePC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.CollegePC" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Engineer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.Engineer" />
+    <configuration name="Doctor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor1" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -168,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollegePC" />
         <item itemvalue="Application.EngineerPC" />
         <item itemvalue="Application.Doctor1" />
         <item itemvalue="Application.class_and_object.College" />
         <item itemvalue="Application.College" />
-        <item itemvalue="Application.Engineer" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675866420654</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="persolized Engineer assignment">
+      <created>1675867428899</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675867428899</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -521,7 +527,8 @@
     <MESSAGE value="Engineer" />
     <MESSAGE value="College" />
     <MESSAGE value="persolized doctor assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="persolized doctor assignment" />
+    <MESSAGE value="persolized Engineer assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="persolized Engineer assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
