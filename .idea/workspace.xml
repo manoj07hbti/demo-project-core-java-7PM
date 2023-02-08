@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,20 +107,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.College">
-    <configuration name="AssigmentWhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.AssigmentWhileloop" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Doctor">
     <configuration name="College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class_and_object.College" />
       <module name="demo-project-core-java-7PM" />
@@ -143,6 +127,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Doctor" />
         <item itemvalue="Application.College" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.DemoBreakLoop" />
         <item itemvalue="Application.PalendromNumber" />
-        <item itemvalue="Application.AssigmentWhileloop" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675766864058</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="class object Assigment College.java">
+      <created>1675852900891</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675852900891</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -413,7 +417,8 @@
     <MESSAGE value="Assigment Prime number" />
     <MESSAGE value="Palendrom number java" />
     <MESSAGE value="Break and continue Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Break and continue Loop" />
+    <MESSAGE value="class object Assigment College.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="class object Assigment College.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
