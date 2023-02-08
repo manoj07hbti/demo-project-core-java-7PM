@@ -1,18 +1,26 @@
 public class Demo {
     public static void main(String[] args) {
 
-        int number=371,orignalnumber,reminder,result=0;
-        orignalnumber=number;
-        while (orignalnumber!=0){
-            reminder=orignalnumber%10;
-            result +=Math.pow(reminder,3);
-            orignalnumber/=10;
+        int number=1646, reversenumber=0, reminder;
+        int orignalnumber=number;
+
+        while (number!=0){
+            reminder= number%10;
+            reversenumber= reversenumber * 10+reminder;
+            number/=10;
         }
-        if (result==number){
-            System.out.println(number+  "yes");
+        if (orignalnumber==reversenumber){
+            System.out.println(orignalnumber+ " : palindrom");
         }
         else {
-            System.out.println(number+ "no");
+            System.out.println(orignalnumber+ " : not");
         }
+
+
+
+
+
+
+
     }
 }
