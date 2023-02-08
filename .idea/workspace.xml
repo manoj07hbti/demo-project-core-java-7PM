@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 4 feb">
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/BreakandContinue_Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/FactorialOfSeven_Assignment_3Feb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/PalindromeNumberProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop_working/PrimeNumber_Assignment.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Break and con">
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/Building_Assignment_7jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/College_Assignment_7Jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/Doctor_Assignment_7Jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/Engineer_Assignment_7Feb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/Pet_Assignment_7jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_and_object/State_Assignment_7feb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_working/OddNumber_Assignment_4Feb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,7 @@
       <recent name="Loop_working" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreakandContinue_Assignment">
+  <component name="RunManager" selected="Application.Pet_Assignment_7jan">
     <configuration name="BreakandContinue_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_working.BreakandContinue_Assignment" />
       <module name="demo-project-core-java-7PM" />
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumber_Assignment_4feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.EvenNumber_Assignment_4feb" />
+    <configuration name="College_Assignment_7Jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.College_Assignment_7Jan" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddNumber_Assignment_4Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.OddNumber_Assignment_4Feb" />
+    <configuration name="Doctor_Assignment_7Jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor_Assignment_7Jan" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_Assignment" />
+    <configuration name="Engineer_Assignment_7Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Engineer_Assignment_7Feb" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber_assignment_4Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_assignment_4Feb" />
+    <configuration name="Pet_Assignment_7jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_and_object.Pet_Assignment_7jan" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
+          <option name="PATTERN" value="class_and_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pet_Assignment_7jan" />
+        <item itemvalue="Application.College_Assignment_7Jan" />
+        <item itemvalue="Application.Engineer_Assignment_7Feb" />
+        <item itemvalue="Application.Doctor_Assignment_7Jan" />
         <item itemvalue="Application.BreakandContinue_Assignment" />
-        <item itemvalue="Application.PrimeNumber_Assignment" />
-        <item itemvalue="Application.PrimeNumber_assignment_4Feb" />
-        <item itemvalue="Application.OddNumber_Assignment_4Feb" />
-        <item itemvalue="Application.EvenNumber_Assignment_4feb" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675668153332</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Break and con">
+      <created>1675776697802</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675776697802</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -379,15 +386,25 @@
     <MESSAGE value="Assignment 31 jan" />
     <MESSAGE value="Assignment 2 Feb" />
     <MESSAGE value="Assignment 4 feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 4 feb" />
+    <MESSAGE value="Break and con" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break and con" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Loop_working/BreakandContinue_Assignment.java</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class_and_object/Engineer_Assignment_7Feb.java</url>
+          <line>8</line>
+          <properties class="class_and_object.Engineer_Assignment_7Feb" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
