@@ -1,3 +1,5 @@
+package Armstrong_Palendrom;
+
 import javax.imageio.ImageTranscoder;
 
 public class Armstrongnumber {

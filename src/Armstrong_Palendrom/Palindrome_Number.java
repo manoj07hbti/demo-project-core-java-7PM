@@ -1,3 +1,5 @@
+package Armstrong_Palendrom;
+
 public class Palindrome_Number {
     public static void main(String[] args) {
 

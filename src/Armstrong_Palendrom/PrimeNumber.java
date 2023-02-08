@@ -1,3 +1,5 @@
+package Armstrong_Palendrom;
+
 public class PrimeNumber {
     public static void main(String[] args) {
 

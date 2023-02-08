@@ -1,3 +1,5 @@
+package Armstrong_Palendrom;
+
 public class Demoprimenumber {
     public static void main(String[] args) {
 
