@@ -6,7 +6,7 @@ public class Switchmonth {
 
         int month=1;
 
-        switch (month){
+       switch (month){
 
             case 1:
                 System.out.println("January");
