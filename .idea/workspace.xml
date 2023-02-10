@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment_28th-Jan">
-      <change afterPath="$PROJECT_DIR$/src/Loop/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/OddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Assignment_3rd_Feb" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.DemoAdvanceVariable" />
         <item itemvalue="Application.DemoVariable" />
@@ -255,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675519633613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignment_10th-Feb">
+      <created>1676052901360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676052901360</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -340,7 +343,8 @@
     <MESSAGE value="Assignment_02nd-Feb" />
     <MESSAGE value="Assignment_3rd_Feb" />
     <MESSAGE value="TableUsingWhileLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="TableUsingWhileLoop" />
+    <MESSAGE value="Assignment_10th-Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_10th-Feb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
