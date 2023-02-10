@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PerameterConstructor/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerameterConstructor/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Precticejavaclass/Precticejavaclass/pricticmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,16 +108,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="method_or_function" />
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pet">
-    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor" />
+  <component name="RunManager" selected="Application.Building">
+    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerameterConstructor.Building" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="PerameterConstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Building" />
         <item itemvalue="Application.Pet" />
         <item itemvalue="Application.Engineer" />
         <item itemvalue="Application.college" />
         <item itemvalue="Application.PerameterConstructor.Doctor" />
-        <item itemvalue="Application.Doctor" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675931069146</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Perameter Constructor Pet.java">
+      <created>1675932114892</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675932114892</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -457,7 +470,8 @@
     <MESSAGE value="Perameter Constuctor state.java" />
     <MESSAGE value="Perameter Constuctor college.java" />
     <MESSAGE value="Perameter Constructor Engineer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Perameter Constructor Engineer.java" />
+    <MESSAGE value="Perameter Constructor Pet.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Perameter Constructor Pet.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
