@@ -15,7 +15,7 @@ public class Student {
      }
     protected void playaMethod(){
 
-         System.out.println("this is play Method of Student class ");
+         System.out.println("this is play Method of Student class  ");
     }
 
 
