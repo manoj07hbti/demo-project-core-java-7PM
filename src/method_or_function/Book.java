@@ -20,6 +20,23 @@ public class Book {
 
         System.out.println("This is sale method of Book class");
     }
+// SYNTAX  : access_specifier return_type  method_name (parameter) {CODE..}
+    public static void main(String[] args) {
+
+        //STEP 1 :  ClassName objName = new ClassName();
+
+        Book obj= new Book();
+
+        //STEP 2 : objName.MethodName();
+
+        obj.readMethod();// calling read method
+
+        obj.writeMethod();// calling write method
+
+        obj.saleMethod();// calling sale method
+
+
+    }
 
 
 }

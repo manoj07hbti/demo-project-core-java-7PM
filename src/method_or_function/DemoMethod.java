@@ -24,4 +24,13 @@ public class DemoMethod {
         System.out.println("This is m2 method");
     }
 
+
+    public static void main(String[] args) {
+
+        DemoMethod obj= new DemoMethod();
+        obj.m1();
+
+        obj.m2();
+    }
+
 }
