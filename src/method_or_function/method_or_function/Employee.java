@@ -17,7 +17,28 @@ public class Employee {
 
         System.out.println("this is getsalary Method of Employee class ");
      }
+       public static void main(String args[]){
 
+        // className objectName =new className();
+
+           Employee obj =new Employee();
+
+
+           //obj.MethodName();
+
+            obj.infoMethod();
+
+            obj.workMethod();
+
+            obj.getsalaryMethod();
+
+
+
+
+
+
+
+       }
 
 
 

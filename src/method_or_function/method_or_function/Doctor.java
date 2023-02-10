@@ -19,7 +19,26 @@ public class Doctor {
         System.out.println("this is surgery Metthod of Doctor class");
       }
 
+     public static void main(String args[]){
 
+        // SYNTAX className objectName =new className();
+
+              Doctor obje =new Doctor();
+
+         // objName.MethodName();
+
+             obje.visitMethod();
+
+             obje.checkupMathod();
+
+             obje.surgeryMethod();
+
+
+
+
+
+
+     }
 
 
 

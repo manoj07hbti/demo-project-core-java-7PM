@@ -17,7 +17,25 @@ public class Student {
 
          System.out.println("this is play Method of Student class  ");
     }
+       public static void main(String args[]){
 
+       //  classname objectName = new className ();
+
+           Student obj= new Student();
+
+           // objName MethodName();
+
+               obj.studyMethod();
+               obj.eatMethod();
+               obj.playaMethod();
+
+
+
+
+
+
+
+       }
 
 
 
