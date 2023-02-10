@@ -49,7 +49,6 @@ public class If_condition {
             System.out.println("person is old");
         }
 
-
     }
 
 

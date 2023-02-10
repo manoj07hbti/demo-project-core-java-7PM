@@ -1,4 +1,4 @@
-package javaAssignment;
+package LoopAssignment;
 
 public class For_loop_statement {
 

@@ -12,7 +12,7 @@ public class Check_palidromsNumber {
         temp= n;
 
             while (n > 0) {
-                r = n % 10; // getting remender
+                r = n % 10; // getting remainder
                 sum = (sum * 10) + r;
                 n = n / 10;
             }
