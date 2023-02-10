@@ -21,9 +21,9 @@ public class Doctor {
 
      public static void main(String args[]){
 
-        // SYNTAX className objectName =new className();
+        // SYNTAX className objectName = new className();
 
-              Doctor obje =new Doctor();
+              Doctor obje = new Doctor();
 
          // objName.MethodName();
 
