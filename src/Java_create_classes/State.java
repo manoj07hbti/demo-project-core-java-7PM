@@ -4,6 +4,7 @@ public class State {
     String name;
     int population;
     int total_district;
+    // this is a state file
     public State (String name, int population, int total_district){
         this.name = name;
         this.population= population;
