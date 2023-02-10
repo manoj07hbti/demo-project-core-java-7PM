@@ -12,10 +12,10 @@ public class Doctor_class {
         this.salary= salary;
     }
     public static void main(String [] args){
-        Doctor_class obj1 = new Doctor_class("harjeet","surgen",25,35200);
-        System.out.println("obj name is: "+obj1.name +" "+"obj age is: "+obj1.age+" "+"obj dept of "+ obj1.dept+" "+"obj salary is: "+obj1.salary);
-        Doctor_class obj2 = new Doctor_class ("aman", "medician ", 28,355522);
-        System.out.println("obj name is: "+obj2.name +" "+"obj age is: "+obj2.age+" "+"obj dept of "+ obj2.dept+" "+"obj salary is: "+obj2.salary);
+        Doctor_class obj1 = new Doctor_class("Dr. harjeet singh","surgen",25,35200);
+        System.out.println("Doctor name is: "+obj1.name +", "+"Doctor age is: "+obj1.age+", "+"Doctor dept of: "+ obj1.dept+", "+"Doctor salary is: "+obj1.salary);
+        Doctor_class obj2 = new Doctor_class ("Dr. aman", "medician ", 28,355522);
+        System.out.println("Doctor name is: "+obj2.name +", "+"Doctor age is: "+obj2.age+", "+"Doctor dept of: "+ obj2.dept+", "+"Doctor salary is: "+obj2.salary);
 
     }
 }
