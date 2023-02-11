@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Method_oddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Method_oddNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,20 +108,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employee">
-    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerameterConstructor.Building" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PerameterConstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Method_oddNumber">
     <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Doctor" />
       <module name="demo-project-core-java-7PM" />
@@ -150,12 +135,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerameterConstructor.Pet" />
+    <configuration name="Method_cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Method_cube" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PerameterConstructor.*" />
+          <option name="PATTERN" value="method_or_function.method_or_function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method_oddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Method_oddNumber" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method_or_function.method_or_function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_oddNumber" />
+        <item itemvalue="Application.Method_cube" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Doctor" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Building" />
-        <item itemvalue="Application.Pet" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +387,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676036083604</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="method function Employee.java">
+      <created>1676041887248</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676041887248</updated>
+    </task>
+    <task id="LOCAL-00029" summary="method function Student.java">
+      <created>1676042055275</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676042055275</updated>
+    </task>
+    <task id="LOCAL-00030" summary="method function Doctor.java">
+      <created>1676042130136</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676042130136</updated>
+    </task>
+    <task id="LOCAL-00031" summary="method function cube .java">
+      <created>1676053422334</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1676053422334</updated>
+    </task>
+    <task id="LOCAL-00032" summary="method function Odd number.java">
+      <created>1676054185149</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676054185149</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -467,9 +500,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assigment Varible 1" />
-    <MESSAGE value="demo java 2" />
-    <MESSAGE value="demo project if else" />
     <MESSAGE value="And if operetor condition" />
     <MESSAGE value="Condition NESTED if java" />
     <MESSAGE value="OR operator condition java" />
@@ -492,7 +522,10 @@
     <MESSAGE value="Method or function Doctor.java" />
     <MESSAGE value="method function Employee.java" />
     <MESSAGE value="method function Student.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="method function Student.java" />
+    <MESSAGE value="method function Doctor.java" />
+    <MESSAGE value="method function cube .java" />
+    <MESSAGE value="method function Odd number.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="method function Odd number.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -501,15 +534,6 @@
           <url>file://$PROJECT_DIR$/src/variable/DemoVariable.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/method_or_function/method_or_function/Student.java</url>
-          <line>19</line>
-          <properties class="method_or_function.method_or_function.Student" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
