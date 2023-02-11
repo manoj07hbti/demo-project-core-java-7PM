@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Eligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +108,9 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Eligibility">
-    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Doctor" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Calculator" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Eligibility" />
         <item itemvalue="Application.Method_oddNumber" />
         <item itemvalue="Application.Method_cube" />
         <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Doctor" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676099511414</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="method function Eligibility.java">
+      <created>1676101387310</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676101387310</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -506,7 +514,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="And if operetor condition" />
     <MESSAGE value="Condition NESTED if java" />
     <MESSAGE value="OR operator condition java" />
     <MESSAGE value="NOT operator Statement" />
@@ -531,7 +538,8 @@
     <MESSAGE value="method function Doctor.java" />
     <MESSAGE value="method function cube .java" />
     <MESSAGE value="method function Odd number.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="method function Odd number.java" />
+    <MESSAGE value="method function Eligibility.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="method function Eligibility.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
