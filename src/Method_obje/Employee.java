@@ -15,4 +15,12 @@ public class Employee {
     public void get_salary(){
         System.out.println("what do employee take salary ");
     }
+
+    public static void main(String [] args){
+
+        Employee obj= new Employee();
+        obj.info();
+        obj.work();
+        obj.get_salary();
+    }
 }

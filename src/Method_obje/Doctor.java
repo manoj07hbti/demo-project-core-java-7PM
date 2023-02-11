@@ -13,6 +13,15 @@ public class Doctor {
 
     }
     public void surgery(){
+
         System.out.println("this doctor is a surgen");
+    }
+    public static void main(String[] args){
+
+        Doctor obj = new Doctor();
+        obj.visit();
+        obj.checkup();
+        obj.surgery();
+
     }
 }

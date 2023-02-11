@@ -15,4 +15,13 @@ public class Student {
         System.out.println("Student should be play in a hour per day");
     }
 
+    public static void main(String [] args){
+
+        Student obj= new Student();
+
+        obj.study();
+        obj.eat();
+        obj.play();
+    }
+
 }
