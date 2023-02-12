@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment Method and Function 9Feb">
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Building_Assignment_7jan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Doctor_ParametrizedConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/State_Assignment_7feb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="demo">
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -413,7 +415,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/class_and_object/Engineer_Assignment_7Feb.java</url>
           <line>8</line>
-          <properties class="class_and_object.Engineer_Assignment_7Feb" method="main">
+          <properties class="class_and_object.Engineer_Assignment_7Feb">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
