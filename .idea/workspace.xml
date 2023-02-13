@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/CollegePC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/assignment_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/calculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/even_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/odd_number_assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/square_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,31 +102,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollegePC">
-    <configuration name="College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="College" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollegePC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.CollegePC" />
+  <component name="RunManager" selected="Application.odd_number_assignment">
+    <configuration name="assignment_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.assignment_01" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="Method_or_Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doctor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.Doctor1" />
+    <configuration name="calculater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.calculater" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="Method_or_Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EngineerPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.EngineerPC" />
+    <configuration name="even_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.even_number" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="Method_or_Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class_and_object.College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.College" />
+    <configuration name="odd_number_assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.odd_number_assignment" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="square_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.square_method" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_or_Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollegePC" />
-        <item itemvalue="Application.EngineerPC" />
-        <item itemvalue="Application.Doctor1" />
-        <item itemvalue="Application.class_and_object.College" />
-        <item itemvalue="Application.College" />
+        <item itemvalue="Application.odd_number_assignment" />
+        <item itemvalue="Application.assignment_01" />
+        <item itemvalue="Application.calculater" />
+        <item itemvalue="Application.even_number" />
+        <item itemvalue="Application.square_method" />
       </list>
     </recent_temporary>
   </component>
