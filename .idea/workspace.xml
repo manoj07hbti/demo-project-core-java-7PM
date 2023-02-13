@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/assignment_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/calculater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/even_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/odd_number_assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/square_method.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="odd_number_assignment">
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/voting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +99,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowCommit.ShowToolbar": "false",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
@@ -114,7 +108,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.odd_number_assignment">
+  <component name="RunManager" selected="Application.voting">
     <configuration name="assignment_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_Function.assignment_01" />
       <module name="demo-project-core-java-7PM" />
@@ -167,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="square_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.square_method" />
+    <configuration name="voting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.voting" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.voting" />
         <item itemvalue="Application.odd_number_assignment" />
         <item itemvalue="Application.assignment_01" />
         <item itemvalue="Application.calculater" />
         <item itemvalue="Application.even_number" />
-        <item itemvalue="Application.square_method" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675867428899</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="odd_number_assignment">
+      <created>1676294823632</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676294823632</updated>
+    </task>
+    <task id="LOCAL-00035" summary="odd_number_assignment">
+      <created>1676294838166</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676294838166</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -543,7 +551,8 @@
     <MESSAGE value="College" />
     <MESSAGE value="persolized doctor assignment" />
     <MESSAGE value="persolized Engineer assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="persolized Engineer assignment" />
+    <MESSAGE value="odd_number_assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="odd_number_assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
