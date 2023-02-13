@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/methodInputParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/calculatorinputmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/votinginputmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/methodInputParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/methodInputParam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,22 +110,9 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.methodInputParam">
-    <configuration name="assignment_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.assignment_01" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Method_or_Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.calculater" />
+  <component name="RunManager" selected="Application.calculatorinputmethod">
+    <configuration name="calculatorinputmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.calculatorinputmethod" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -173,13 +163,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="votinginputmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.votinginputmethod" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculatorinputmethod" />
+        <item itemvalue="Application.votinginputmethod" />
         <item itemvalue="Application.methodInputParam" />
         <item itemvalue="Application.voting" />
         <item itemvalue="Application.odd_number_assignment" />
-        <item itemvalue="Application.assignment_01" />
-        <item itemvalue="Application.calculater" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676295815088</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="cube withh method input param">
+      <created>1676296184371</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1676296184371</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -566,7 +576,8 @@
     <MESSAGE value="persolized Engineer assignment" />
     <MESSAGE value="odd_number_assignment" />
     <MESSAGE value="voting" />
-    <option name="LAST_COMMIT_MESSAGE" value="voting" />
+    <MESSAGE value="cube withh method input param" />
+    <option name="LAST_COMMIT_MESSAGE" value="cube withh method input param" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

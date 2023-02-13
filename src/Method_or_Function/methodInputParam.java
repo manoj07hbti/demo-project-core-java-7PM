@@ -11,5 +11,6 @@ public class methodInputParam {
     public static void main(String[] args) {
         methodInputParam obj= new methodInputParam();
         obj.makecube(5);
+        obj.makecube(8);
     }
 }
