@@ -6,7 +6,6 @@ public class voting {
         String city= "Agra";
         if (age>=18 && city== "Agra"){
             System.out.println("person is eligible for voting in agra");
-
         }
         else {
             System.out.println("person is not eligible for voting in agra");
