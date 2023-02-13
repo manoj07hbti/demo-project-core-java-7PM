@@ -16,4 +16,11 @@ public class Student {
         System.out.println("this si Play method of Student Class");
     }
 
+    public static void main(String[] args) {
+        Student obj=new Student();
+        obj.studyMethod();
+        obj.eatMethod();
+        obj.playMethod();
+
+    }
 }

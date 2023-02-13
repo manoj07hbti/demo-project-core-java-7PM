@@ -13,4 +13,12 @@ public class Doctor {
     public void surgeryMethod(){
         System.out.println("this is surgery Method in Doctor class");
     }
+
+    public static void main(String[] args) {
+        Doctor obj=new Doctor();
+        obj.visitMethod();
+        obj.checkupMethod();
+        obj.surgeryMethod();
+    }
 }
+

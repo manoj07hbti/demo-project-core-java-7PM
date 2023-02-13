@@ -7,8 +7,8 @@ public class AndifOperator_Assignment_30jan {
         //Age should be greater than 18 and if city is in (DELHI , MUMBAI, CHENNAI, BANGALORE) then print Metro City
 
         int age = 19;
-        String city;
-        city = "MUMBAI";
+        String city="Mumbai";
+
 
 
 
