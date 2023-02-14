@@ -18,4 +18,20 @@ public class Doctor {
         System.out.println("This Is Surgery Method In Doctor Class");
     }
 
+    public static void main(String[]args){
+
+        Doctor obj=new Doctor();
+
+        obj.Visit();
+
+        obj.Checkup();
+
+        obj.Surgery();
+
+
+    }
+
+
+
+
 }

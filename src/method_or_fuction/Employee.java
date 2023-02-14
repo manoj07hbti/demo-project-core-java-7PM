@@ -21,6 +21,18 @@ public class Employee {
 
     }
 
+    public static void main(String[]args){
+
+        Employee obj = new Employee();
+
+        obj.Getsalay();
+
+        obj.Info();
+
+        obj.Work();
+
+
+    }
 
     }
 

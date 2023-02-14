@@ -17,10 +17,28 @@ public class Student {
     }
 
      protected void Play(){
+
         System.out.println("This Is Play Method In Student Class");
     }
 
+    public static void main(String[]args){
+
+        Student obj = new Student();
+
+        obj.Eat();
+
+        obj.Play();
+
+        obj.Study();
 
 
+
+    }
 
 }
+
+
+
+
+
+
