@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Method_or_function/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_function/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_or_function/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_function2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_function2/MethodAdvance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,13 +106,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Doctor">
+}</component>
+  <component name="RunManager" selected="Application.MethodAdvance">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_function2.Calculator" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_or_function2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="College" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class_and_object.College" />
       <module name="demo-project-core-java-7PM" />
@@ -140,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Engineer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_and_object.Engineer" />
+    <configuration name="MethodAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_function2.MethodAdvance" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_and_object.*" />
+          <option name="PATTERN" value="Method_or_function2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,25 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Forloopandwhileloop.Evennumber" />
+    <configuration name="cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_function2.cube" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Forloopandwhileloop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Oddnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Forloopandwhileloop.Oddnumber" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Forloopandwhileloop.*" />
+          <option name="PATTERN" value="Method_or_function2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodAdvance" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.cube" />
         <item itemvalue="Application.Doctor" />
         <item itemvalue="Application.College" />
-        <item itemvalue="Application.Engineer" />
-        <item itemvalue="Application.Oddnumber" />
-        <item itemvalue="Application.Evennumber" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675911851578</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Method and function">
+      <created>1676084051224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676084051224</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -342,7 +348,8 @@
     <MESSAGE value="Operator1" />
     <MESSAGE value="Switchmonth" />
     <MESSAGE value="class and object" />
-    <option name="LAST_COMMIT_MESSAGE" value="class and object" />
+    <MESSAGE value="Method and function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method and function" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
