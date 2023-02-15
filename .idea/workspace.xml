@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method or Function_Assignment_9_Feb">
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/Odd_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/Square_and_cube.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method or Function_Assignment_10_Feb">
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/Calculate_percent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/Check_Prime_number_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,13 +99,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Voting">
-    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameterised_constructor.Building" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Calculate_percent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.Calculate_percent" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parameterised_constructor.*" />
+          <option name="PATTERN" value="method_or_function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.Calculator" />
+    <configuration name="Check_Prime_number_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.Check_Prime_number_program" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method_or_function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.Factorial" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -128,19 +141,6 @@
     </configuration>
     <configuration name="Odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method_or_function.Odd_number" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method_or_function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Square_and_cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.Square_and_cube" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Calculate_percent" />
+        <item itemvalue="Application.Check_Prime_number_program" />
         <item itemvalue="Application.Voting" />
         <item itemvalue="Application.Odd_number" />
-        <item itemvalue="Application.Square_and_cube" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Building" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676291768387</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Method or Function_Assignment_10_Feb">
+      <created>1676295084439</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676295084439</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -404,7 +411,8 @@
     <MESSAGE value="Break and continue loop..." />
     <MESSAGE value="Parameterised_Constructor_Assignment_8_Feb" />
     <MESSAGE value="Method or Function_Assignment_9_Feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method or Function_Assignment_9_Feb" />
+    <MESSAGE value="Method or Function_Assignment_10_Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method or Function_Assignment_10_Feb" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
