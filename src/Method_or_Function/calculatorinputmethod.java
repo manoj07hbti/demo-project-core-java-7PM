@@ -1,35 +1,40 @@
 package Method_or_Function;
 
 public class calculatorinputmethod {
-    public void add(int a, int b){
+    public int add(int a, int b){
         int sum;
         sum = a+ b;
-        System.out.println("Addition of two number : " +sum);
+        return sum;
 
     }
-    public void sub(int a, int b){
+    public int sub(int a, int b){
         int sub;
         sub = a- b;
-        System.out.println("substration of two number : " +sub);
+        return sub;
     }
-    public void divide(int a, int b){
+    public double divide(int a, int b){
         double div;
         div = (double) a/b;
-        System.out.println("divide of two number : " +div);
-    }    public void multiply(int a, int b){
-        double multiply;
-        multiply = (double) a*b;
-        System.out.println("multiplication of two number : " +multiply);
+        return div;
+    }
+    public double multiply(int a, int b){
+        double multipl;
+        multipl = (double) a*b;
+        return multipl;
     }
     public static void main(String[] args) {
         calculatorinputmethod addition = new calculatorinputmethod();
-        addition.add(5,6);
+        int add= addition.add(5,6);
+        System.out.println("Addition = "+add);
         calculatorinputmethod substration = new calculatorinputmethod();
-        substration.sub(7,9);
+        int sub = substration.sub(7,9);
+        System.out.println("substraction = "+sub);
         calculatorinputmethod division = new calculatorinputmethod();
-        division.divide(4,6);
+        double div = division.divide(4,6);
+        System.out.println("division = "+div);
         calculatorinputmethod multiplication = new calculatorinputmethod();
-        multiplication.multiply(7,9);
+        double multiply = multiplication.multiply(7,9);
+        System.out.println("multiplication = " +multiply);
 
     }
 }
