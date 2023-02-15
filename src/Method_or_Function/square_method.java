@@ -1,14 +1,14 @@
 package Method_or_Function;
 
 public class square_method {
-    public void square(){
-        int number = 3;
+    public int square(int number){
         int sq= number*number;
-        System.out.println("square of the number is : " +sq);
+        return sq;
     }
 
     public static void main(String[] args) {
         square_method result = new square_method();
-                result.square();
+                int output = result.square(5);
+        System.out.println("Square of the number is : "+output);
     }
 }

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/calculatorinputmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/calculatorinputmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/square_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/square_method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.calculatorinputmethod">
+  <component name="RunManager" selected="Application.square_method">
     <configuration name="calculatorinputmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_Function.calculatorinputmethod" />
       <module name="demo-project-core-java-7PM" />
@@ -135,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="odd_number_assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.odd_number_assignment" />
+    <configuration name="square_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.square_method" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.square_method" />
         <item itemvalue="Application.calculatorinputmethod" />
         <item itemvalue="Application.votinginputmethod" />
         <item itemvalue="Application.methodInputParam" />
         <item itemvalue="Application.voting" />
-        <item itemvalue="Application.odd_number_assignment" />
       </list>
     </recent_temporary>
   </component>
