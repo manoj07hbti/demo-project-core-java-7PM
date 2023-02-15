@@ -24,8 +24,7 @@ public class Methodadvance {
     }
 
     public static void main(String[] args) {
-        Methodadvance obj=new Methodadvance();
-        obj.makecube();
+        Methodadvance obj = new Methodadvance();
         obj.printoddNUMBER();
     }
-}
+        }
