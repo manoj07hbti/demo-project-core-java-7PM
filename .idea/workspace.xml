@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/array2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method_or_Function/complete_calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_Function/complete_calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.array">
+  <component name="RunManager" selected="Application.array2">
     <configuration name="Method_or_Function.complete_calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_Function.complete_calc" />
       <module name="demo-project-core-java-7PM" />
@@ -137,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculatorinputmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.calculatorinputmethod" />
+    <configuration name="array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.array2" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="PATTERN" value="ashish_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array2" />
         <item itemvalue="Application.array" />
         <item itemvalue="Application.Method_or_Function.complete_calc" />
         <item itemvalue="Application.complete_calc" />
         <item itemvalue="Application.square_method" />
-        <item itemvalue="Application.calculatorinputmethod" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676560286320</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="array first">
+      <created>1676567618535</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1676567618535</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -590,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first assignment" />
     <MESSAGE value="Wrtie a Program to check marks and display divison of student" />
     <MESSAGE value="brand IBM vs price" />
     <MESSAGE value="write a program which will tell you Day of week based on day number" />
@@ -615,7 +620,8 @@
     <MESSAGE value="method input param" />
     <MESSAGE value="method input param square" />
     <MESSAGE value="complete calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete calc" />
+    <MESSAGE value="array first" />
+    <option name="LAST_COMMIT_MESSAGE" value="array first" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
