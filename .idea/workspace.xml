@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/array3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/array4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.array3">
+  <component name="RunManager" selected="Application.array4">
     <configuration name="Method_or_Function.complete_calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_Function.complete_calc" />
       <module name="demo-project-core-java-7PM" />
@@ -162,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="complete_calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ashish_practice.complete_calc" />
+    <configuration name="array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.array4" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array4" />
         <item itemvalue="Application.array3" />
         <item itemvalue="Application.array2" />
         <item itemvalue="Application.array" />
         <item itemvalue="Application.Method_or_Function.complete_calc" />
-        <item itemvalue="Application.complete_calc" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676568199211</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="array3">
+      <created>1676569679256</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1676569679256</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -603,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="brand IBM vs price" />
     <MESSAGE value="write a program which will tell you Day of week based on day number" />
     <MESSAGE value="write a program which wil tell state name by using initials" />
     <MESSAGE value="write a program which wil tell Months" />
@@ -628,7 +633,8 @@
     <MESSAGE value="complete calc" />
     <MESSAGE value="array first" />
     <MESSAGE value="array2" />
-    <option name="LAST_COMMIT_MESSAGE" value="array2" />
+    <MESSAGE value="array3" />
+    <option name="LAST_COMMIT_MESSAGE" value="array3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
