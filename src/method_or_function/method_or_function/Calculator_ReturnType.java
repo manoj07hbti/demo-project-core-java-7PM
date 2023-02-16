@@ -2,26 +2,6 @@ package method_or_function.method_or_function;
 
 public class Calculator_ReturnType {
 
-    public static void main(String args[]) {
-        Calculator_ReturnType obj = new Calculator_ReturnType();
-
-        int sum = obj.add(4, 7);
-
-        System.out.println("Sum is " + sum);
-
-        int sub = obj.subtract(20, 10);
-
-        System.out.println("sub is " + sub);
-
-        int multi = obj.multiply(15, 5);
-
-        System.out.println("multi is " + multi);
-
-        double divide = obj.divide(20, 3);
-
-        System.out.println("divide is " + divide);
-
-    }
 
     public int add(int a, int b) {
 
@@ -50,6 +30,26 @@ public class Calculator_ReturnType {
            double divide = (double) a / (double) b;
 
             return divide;
+
+    }
+    public static void main(String args[]) {
+        Calculator_ReturnType obj = new Calculator_ReturnType();
+
+        int sum = obj.add(4, 7);
+
+        System.out.println("Sum is " + sum);
+
+        int sub = obj.subtract(20, 10);
+
+        System.out.println("sub is " + sub);
+
+        int multi = obj.multiply(15, 5);
+
+        System.out.println("multi is " + multi);
+
+        double divide = obj.divide(20, 3);
+
+        System.out.println("divide is " + divide);
 
     }
 
