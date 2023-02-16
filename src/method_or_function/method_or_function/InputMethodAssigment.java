@@ -25,7 +25,7 @@ public class InputMethodAssigment {
             double b= (double) (number*radio)/100;
 
             System.out.println(b);
-        }
+        } 
             public static void main(String args[]){
                 InputMethodAssigment obj=new InputMethodAssigment();
 
