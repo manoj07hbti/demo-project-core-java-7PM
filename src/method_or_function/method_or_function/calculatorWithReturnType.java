@@ -52,7 +52,6 @@ public class calculatorWithReturnType {
       public double divide(int a,int b){
 
         double divide= (double)a/ (double)b;
-
         return divide;
 
       }
