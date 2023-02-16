@@ -108,20 +108,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.array4">
-    <configuration name="Method_or_Function.complete_calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.complete_calc" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Method_or_Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.array5">
     <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ashish_practice.array" />
       <module name="demo-project-core-java-7PM" />
@@ -174,13 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.array5" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashish_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array5" />
         <item itemvalue="Application.array4" />
         <item itemvalue="Application.array3" />
         <item itemvalue="Application.array2" />
         <item itemvalue="Application.array" />
-        <item itemvalue="Application.Method_or_Function.complete_calc" />
       </list>
     </recent_temporary>
   </component>
