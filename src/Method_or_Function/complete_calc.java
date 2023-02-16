@@ -1,4 +1,4 @@
-package ashish_practice;
+package Method_or_Function;
 import java.util.Scanner;
 
 public class complete_calc {
@@ -108,7 +108,5 @@ public class complete_calc {
                 System.out.println("Entered number is invalid");
                 break;
         }
-
-
     }
 }
