@@ -1,8 +1,9 @@
 package method_or_function.method_or_function;
 
-public class calculatorWithReturn {
+public class Calculator_ReturnType {
+
     public static void main(String args[]) {
-        calculatorWithReturn obj = new calculatorWithReturn();
+        Calculator_ReturnType obj = new Calculator_ReturnType();
 
         int sum = obj.add(4, 7);
 
@@ -46,8 +47,30 @@ public class calculatorWithReturn {
 
     public double divide(int a, int b) {
 
-        double divide = (double) a / (double) b;
-        return divide;
+           double divide = (double) a / (double) b;
+
+            return divide;
 
     }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
