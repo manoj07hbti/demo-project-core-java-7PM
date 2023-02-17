@@ -1,32 +1,33 @@
 package method_or_function;
 
+import com.sun.org.apache.xpath.internal.objects.XNumber;
+
 public class Demo {
 
-    public void square() {
+    public void makecube(int Number){
 
-        int number = 3;
-
-        int square = number * number;
-
-
-        System.out.println("square of 3 is : " + square);}
-
-    public void even()
-    {
-
-        for (int i=1; i<=50; i++)
-            if (i%2==0)
-
-
-                System.out.println("even number is : " +i);
+        int cube=Number*Number*Number;
+        System.out.println("number of cube is : " +cube);
+    }
+    public void voting(int age, String city) {
+        if (age >=18 & city== "Agra") {
+            System.out.println("person is eligibe for voting in agra :");
+        } else {
+            System.out.println("person is not eligible for voting in agra");
+        }
     }
 
-    public static void main(String[] args) {
+    public void calculator(int a, int b){
 
-        Demo obj=new Demo();
-
-        obj.square();
-        obj.even();
+        int sum=a+b;
+        System.out.println("sum is : " +sum);
     }
+        public static void main (String[]args){
+            Demo obj = new Demo();
+            obj.makecube(5);
+            obj.voting(19,"Agra");
+            obj.voting(17,"goa");
+            obj.calculator(25,25);
 
-}
+        }
+    }

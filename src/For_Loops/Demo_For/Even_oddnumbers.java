@@ -11,14 +11,4 @@ public class Even_oddnumbers {
             }
             i++;
         }
-
-
-
-        }
-
-
-
-
-
-
-    }
+        }}
