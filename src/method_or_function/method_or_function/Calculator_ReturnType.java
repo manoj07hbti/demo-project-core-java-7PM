@@ -24,7 +24,6 @@ public class Calculator_ReturnType {
 
         return multi;
     }
-
     public double divide(int a, int b) {
 
            double divide = (double) a / (double) b;
@@ -54,6 +53,21 @@ public class Calculator_ReturnType {
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
