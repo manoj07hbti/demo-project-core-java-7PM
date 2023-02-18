@@ -3,45 +3,28 @@ package method_or_function;
 import com.sun.org.apache.xpath.internal.objects.XNumber;
 
 public class Demo {
-
-    public void cube(int number) {
-
-        int cube = number * number * number;
-        System.out.println("cube is : " + cube);
+    public String  welcome(String name){
+        String massage="welcome : " +name;
+        return massage;
+    }
+    public int  makecube(int number){
+        int cube=number*number*number;
+        return cube;
     }
 
-    public void voting(int age, String city) {
-
-        if (age > 19 & city == "agra") {
-
-            System.out.println("eligible");
-        } else {
-            System.out.println("not eligible");
-        }
+    public double percentage(int number ,int ratio){
+        double per=(double) (number*ratio)/100;
+        return per;
     }
 
-    public void multi(int a, int b) {
-
-        int multi = a * b;
-        System.out.println("multi is : " + multi);
-    }
-
-    public void even(int number) {
-
-        if (number % 2 == 0) {
-        System.out.println("even number : " + number);
-        }
-        else {
-            System.out.println("odd number : " + number);
-        }}
     public static void main(String[] args) {
-        Demo obj=new Demo() {
-        };
 
-        obj.cube(5);
-        obj.voting(20,"agra");
-        obj.multi(5,8);
-        obj.even(97);
-
-
-        }}
+        Demo obj=new Demo();
+        String output= obj.welcome("Shekhar");
+        System.out.println(output);
+    int result= obj.makecube(6);
+    System.out.println("cube is : " +result);
+    double Result= obj.percentage(80,6);
+    System.out.println("per is : " +Result);
+    }
+}
