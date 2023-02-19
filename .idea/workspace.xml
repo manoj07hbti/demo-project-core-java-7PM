@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="for loop table of 5 &amp; factorial of 7" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method retrun type assignment">
+      <change afterPath="$PROJECT_DIR$/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Forloop.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,13 +102,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Forloop">
-    <configuration name="Forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Forloop" />
+  <component name="RunManager" selected="Application.Calc">
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Calc" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multipleconditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Multipleconditions" />
+    <configuration name="MethodInput_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.MethodInput_Factorial" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Notcondition_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Notcondition_operator" />
+    <configuration name="MethodInput_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.MethodInput_Prime" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ORcondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ORcondition" />
+    <configuration name="MethodReturntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.MethodReturntype" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switchstatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Switchstatements" />
+    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Scanner" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Forloop" />
-        <item itemvalue="Application.Switchstatements" />
-        <item itemvalue="Application.Notcondition_operator" />
-        <item itemvalue="Application.ORcondition" />
-        <item itemvalue="Application.Multipleconditions" />
+        <item itemvalue="Application.Calc" />
+        <item itemvalue="Application.Scanner" />
+        <item itemvalue="Application.MethodReturntype" />
+        <item itemvalue="Application.MethodInput_Prime" />
+        <item itemvalue="Application.MethodInput_Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +255,70 @@
       <option name="project" value="LOCAL" />
       <updated>1675513875148</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="for loop table of 5 &amp; factorial of 7">
+      <created>1675514103801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675514103801</updated>
+    </task>
+    <task id="LOCAL-00011" summary="odd and even numbers">
+      <created>1675692963562</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675692963563</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Prime Numbers from 1 to 50">
+      <created>1675765067225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675765067225</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Assignments of class and objects">
+      <created>1675851468407</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675851468407</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Parameterzied constructor assignments">
+      <created>1675942612807</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675942612807</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Method or function assignment">
+      <created>1676021427388</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676021427388</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Assignments of method calling">
+      <created>1676288169572</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676288169572</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Method Input assignments">
+      <created>1676461270006</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676461270006</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Method retrun type assignment">
+      <created>1676541403986</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676541404002</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -333,7 +404,15 @@
     <MESSAGE value="Not operator" />
     <MESSAGE value="Switch statements months" />
     <MESSAGE value="for loop table of 5 &amp; factorial of 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop table of 5 &amp; factorial of 7" />
+    <MESSAGE value="odd and even numbers" />
+    <MESSAGE value="Prime Numbers from 1 to 50" />
+    <MESSAGE value="Assignments of class and objects" />
+    <MESSAGE value="Parameterzied constructor assignments" />
+    <MESSAGE value="Method or function assignment" />
+    <MESSAGE value="Assignments of method calling" />
+    <MESSAGE value="Method Input assignments" />
+    <MESSAGE value="Method retrun type assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method retrun type assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
