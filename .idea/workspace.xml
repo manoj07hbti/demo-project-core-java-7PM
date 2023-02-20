@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/primecheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/primeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,20 +109,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.primecheck">
-    <configuration name="array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ashish_practice.array3" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ashish_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.primeNumber">
     <configuration name="array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ashish_practice.array4" />
       <module name="demo-project-core-java-7PM" />
@@ -162,6 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.primeNumber" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="primecheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_Function.primecheck" />
       <module name="demo-project-core-java-7PM" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.primeNumber" />
         <item itemvalue="Application.primecheck" />
         <item itemvalue="Application.bankaccount" />
         <item itemvalue="Application.array5" />
         <item itemvalue="Application.array4" />
-        <item itemvalue="Application.array3" />
       </list>
     </recent_temporary>
   </component>
@@ -198,13 +198,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00001" summary="first assignment">
-      <created>1674703978156</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674703978156</updated>
     </task>
     <task id="LOCAL-00002" summary="first assignment">
       <created>1674705100890</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676913774223</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="primecheck">
+      <created>1676915054220</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1676915054221</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -631,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for loop" />
     <MESSAGE value="table example" />
     <MESSAGE value="table of 5" />
     <MESSAGE value="Factorial of 7" />
@@ -656,7 +655,8 @@
     <MESSAGE value="array4" />
     <MESSAGE value="array5" />
     <MESSAGE value="bankaccount" />
-    <option name="LAST_COMMIT_MESSAGE" value="bankaccount" />
+    <MESSAGE value="primecheck" />
+    <option name="LAST_COMMIT_MESSAGE" value="primecheck" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
