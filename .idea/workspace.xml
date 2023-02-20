@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_or_Function/bankaccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,20 +109,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.array5">
-    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ashish_practice.array" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ashish_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.bankaccount">
     <configuration name="array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ashish_practice.array2" />
       <module name="demo-project-core-java-7PM" />
@@ -174,13 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bankaccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_or_Function.bankaccount" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bankaccount" />
         <item itemvalue="Application.array5" />
         <item itemvalue="Application.array4" />
         <item itemvalue="Application.array3" />
         <item itemvalue="Application.array2" />
-        <item itemvalue="Application.array" />
       </list>
     </recent_temporary>
   </component>
@@ -520,7 +521,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676569679256</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="array4">
+      <created>1676570054380</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1676570054380</updated>
+    </task>
+    <task id="LOCAL-00048" summary="array5">
+      <created>1676570236252</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1676570236252</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -609,8 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="write a program which will tell you Day of week based on day number" />
-    <MESSAGE value="write a program which wil tell state name by using initials" />
     <MESSAGE value="write a program which wil tell Months" />
     <MESSAGE value="for loop" />
     <MESSAGE value="table example" />
@@ -634,7 +647,9 @@
     <MESSAGE value="array first" />
     <MESSAGE value="array2" />
     <MESSAGE value="array3" />
-    <option name="LAST_COMMIT_MESSAGE" value="array3" />
+    <MESSAGE value="array4" />
+    <MESSAGE value="array5" />
+    <option name="LAST_COMMIT_MESSAGE" value="array5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
