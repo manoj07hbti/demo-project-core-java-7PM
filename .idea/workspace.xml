@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method_RETURN_TYPE_Calculator_16_Feb">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method_Scanner_Demo">
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Check_Prime_number_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/Demo_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method_or_function/Demo_ATM_Scanner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Return_Type_Assignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -99,7 +99,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo_Scanner">
+  <component name="RunManager" selected="Application.Demo_ATM_Scanner">
     <configuration name="CalculatorWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method_or_function.CalculatorWithReturnType" />
       <module name="demo-project-core-java-7PM" />
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.Demo_Scanner" />
+    <configuration name="Demo_ATM_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.Demo_ATM_Scanner" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.Factorial" />
+    <configuration name="Demo_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_function.Demo_Scanner" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_ATM_Scanner" />
         <item itemvalue="Application.Demo_Scanner" />
         <item itemvalue="Application.Return_Type_Assignment" />
         <item itemvalue="Application.CalculatorWithReturnType" />
         <item itemvalue="Application.Method_Return_Type_Demo" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676889618325</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Method_Scanner_Demo">
+      <created>1676895098520</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676895098520</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -436,7 +443,8 @@
     <MESSAGE value="Method or Function_Assignment_11_Feb" />
     <MESSAGE value="Method_RETURN_TYPE_Demo_15_Feb" />
     <MESSAGE value="Method_RETURN_TYPE_Calculator_16_Feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method_RETURN_TYPE_Calculator_16_Feb" />
+    <MESSAGE value="Method_Scanner_Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method_Scanner_Demo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
