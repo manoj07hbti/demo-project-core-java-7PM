@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Method retrun type assignment">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="calculator app  with while loop assignment">
       <change afterPath="$PROJECT_DIR$/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Array_withallloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Method_Or_Function/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_Or_Function/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/variable/Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Forloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,9 +103,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calc">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Calc" />
+  <component name="RunManager" selected="Application.Array_withallloops">
+    <configuration name="Array_withallloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Array_withallloops" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodInput_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.MethodInput_Factorial" />
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Calc" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_withallloops" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.Scanner" />
         <item itemvalue="Application.MethodReturntype" />
         <item itemvalue="Application.MethodInput_Prime" />
-        <item itemvalue="Application.MethodInput_Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676541404002</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="calculator app  with while loop assignment">
+      <created>1676809348573</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676809348573</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -412,7 +420,8 @@
     <MESSAGE value="Assignments of method calling" />
     <MESSAGE value="Method Input assignments" />
     <MESSAGE value="Method retrun type assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method retrun type assignment" />
+    <MESSAGE value="calculator app  with while loop assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator app  with while loop assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
