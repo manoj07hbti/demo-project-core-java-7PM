@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment 24 Jan.">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment Table,Factorial">
       <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/Assignment1st.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/ANDoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/DemoIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/DemoIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/DemoNestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/DemoSwitchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/DemoSwitchStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/NOToperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/NestedRevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condtional_statements/ORoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/AssignmentDay15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/DemoDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/DemoForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/DemoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/Infinite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_working/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/Assignment1st.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Assignment1st.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/Assignment2nd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Assignment2nd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condtional_statements/ORANDassignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condtional_statements/ORANDassignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Demo2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,20 +113,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/JAVA 16JAN2023/java AA Clone file&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaMethodFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/JAVA 16JAN2023/java clone file",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Application.Assignment1st">
-    <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Assignment" />
+}]]></component>
+  <component name="RunManager" selected="Application.AssignmentDay15">
+    <configuration name="AssignmentDay15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_working.AssignmentDay15" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="loops_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment1st" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.Assignment1st" />
+    <configuration name="DemoDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_working.DemoDoWhileLoop" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment.*" />
+          <option name="PATTERN" value="loops_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
+    <configuration name="DemoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_working.DemoWhileLoop" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="loops_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="Infinite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_working.Infinite" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="loops_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.GitDemo" />
+    <configuration name="TableRevision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_working.TableRevision" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="loops_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assignment1st" />
-        <item itemvalue="Application.Assignment" />
-        <item itemvalue="Application.GitDemo" />
-        <item itemvalue="Application.DemoAdvanceVariable" />
-        <item itemvalue="Application.DemoVariable" />
+        <item itemvalue="Application.AssignmentDay15" />
+        <item itemvalue="Application.Infinite" />
+        <item itemvalue="Application.DemoDoWhileLoop" />
+        <item itemvalue="Application.DemoWhileLoop" />
+        <item itemvalue="Application.TableRevision" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +219,105 @@
       <option name="project" value="LOCAL" />
       <updated>1674566795474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment 24 Jan.">
+      <created>1675080856106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675080856106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Assignment 30 Jan.">
+      <created>1675081785202</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675081785202</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IF,ELSE,NESTED">
+      <created>1675086231899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675086231899</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Assignment 30 Jan.">
+      <created>1675086504425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675086504425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="IF,ELSE Assignment">
+      <created>1675124492612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675124492612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="IF,ELSE Assignment">
+      <created>1675125023125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675125023125</updated>
+    </task>
+    <task id="LOCAL-00008" summary="OR,AND Assignment 31 JAN.">
+      <created>1675137112291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675137112291</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Assignment Day 12th NESTED,IF">
+      <created>1675244736155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675244736155</updated>
+    </task>
+    <task id="LOCAL-00010" summary="IF,ELSE Assignment">
+      <created>1675245078241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675245078241</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Assignment Day 12th NESTED,IF">
+      <created>1675245293845</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675245293845</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Assignment Day 12th NESTED,IF problem">
+      <created>1675245416501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675245416501</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Assignment Day13 Switch Statement">
+      <created>1675430049905</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675430049905</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Assignment Day13 Switch Statement">
+      <created>1675430433049</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675430433049</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Assignment Table,Factorial">
+      <created>1676628365389</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676628365389</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -277,7 +396,35 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment 24 Jan." />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 24 Jan." />
+    <MESSAGE value="IF,ELSE,NESTED" />
+    <MESSAGE value="Assignment 30 Jan." />
+    <MESSAGE value="OR,AND Assignment 31 JAN." />
+    <MESSAGE value="IF,ELSE Assignment" />
+    <MESSAGE value="Assignment Day 12th NESTED,IF" />
+    <MESSAGE value="Assignment Day 12th NESTED,IF problem" />
+    <MESSAGE value="Assignment Day13 Switch Statement" />
+    <MESSAGE value="Assignment Table,Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment Table,Factorial" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops_working/DemoWhileLoop.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/condtional_statements/ANDoperator.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

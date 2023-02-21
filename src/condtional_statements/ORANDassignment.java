@@ -3,8 +3,8 @@ package condtional_statements;
 public class ORANDassignment {
     public static void main(String[] args) {
 
-        int age = 36;
-        String city = "AGRA";
+        int age = 55;
+        String city = "MUMBAI";
 
         if (age >= 18 & city == "DELHI" || city == "MUMBAI" || city == "CHENNAI" || city == "BANGALORE") {
 
@@ -14,7 +14,7 @@ public class ORANDassignment {
             System.out.println("Person is not eligible for voting in Metro City");
         }
 
-        int marks = 365;
+        int marks = 58;
 
         if (marks >= 33 & marks < 44) {
 
