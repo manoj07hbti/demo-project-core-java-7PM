@@ -2,78 +2,85 @@ package method_or_function.method_or_function;
 
 import java.util.Scanner;
 
-public class calculator_App{
+public class calculator_App {
 
-        public static void main(String args[]){
+    public static void main(String args[]) {
 
-        System.out.println("Please enter value of a:");
+        Scanner scannerobj = new Scanner(System.in);
 
-        Scanner scannerobj =new Scanner(System.in);
-        int a= scannerobj.nextInt();
+        int flag = 0;
 
-        System.out.println("Please enter value of b:");
-        int b=scannerobj.nextInt();
+        while (flag == 0) {
 
-        System.out.println("Please enter your choice :1  for Addition 2 for Subtract 3 for Multiply 4 for  double Divide");
+            System.out.println("Please enter value of a:");
 
-        int choice =scannerobj.nextInt();
+            int a = scannerobj.nextInt();
 
-        calculator_App obj=new calculator_App();
+            System.out.println("Please enter value of b:");
+            int b = scannerobj.nextInt();
 
-          if(choice==1){
+            System.out.println("Please enter your choice :1  for Addition 2 for Subtract 3 for Multiply 4 for  double Divide");
 
-              int result =  obj.add(a,b);
-              System.out.println("Addition Is : "+result );
-          } else if(choice==2){
+            int choice = scannerobj.nextInt();
 
-              int result=obj.subtract(a,b);
-              System.out.println("Subtract is :"+result);
-          }else if(choice==3){
+            calculator_App obj = new calculator_App();
 
-              int result= obj.multiply(a,b);
-              System.out.println("multiply is"+result);
-          }else if(choice==4){
+            if (choice == 1) {
 
-              double result= (double)obj.divide (a,b);
-              System.out.println("Divide is"+ result);
+                int result = obj.add(a, b);
+                System.out.println("Addition Is : " + result);
+            } else if (choice == 2) {
 
+                int result = obj.subtract(a, b);
+                System.out.println("Subtract is :" + result);
+            } else if (choice == 3) {
+
+                int result = obj.multiply(a, b);
+                System.out.println("multiply is" + result);
+            } else if (choice == 4) {
+
+                double result = (double) obj.divide(a, b);
+                System.out.println("Division is" + result);
             }
 
+            Scanner scanner = new Scanner(System.in);
 
+            System.out.println("Do you want to continue? press 0 to continue and press any other number to exit");
+
+             flag =scanner.nextInt();
         }
 
-    public int add(int a,int b){
 
-        int sum = a+b;
+    }
+
+    public int add(int a, int b) {
+
+        int sum = a + b;
 
         return sum;
     }
 
-    public int subtract(int a,int b){
+    public int subtract(int a, int b) {
 
-        int sub = a-b;
+        int sub = a - b;
 
         return sub;
     }
 
-    public int multiply(int a,int b) {
+    public int multiply(int a, int b) {
 
         int multi = a * b;
 
         return multi;
     }
 
-     public double divide(double a,double b){
+    public double divide(int a, int b) {
 
-        double divi =a/b;
+        double divi = (double) a / b;
 
         return divi;
-
-     }
     }
-
-
-
+}
 
 
 
