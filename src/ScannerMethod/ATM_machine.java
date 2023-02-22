@@ -1,4 +1,4 @@
-package Method_obje;
+package ScannerMethod;
 import java.util.*;
 public class ATM_machine {
     public void checkpin(int pin){
@@ -7,9 +7,9 @@ public class ATM_machine {
 
             System.out.println("Welcome to ATM process");
             System.out.println("1. Deposit");
-            System.out.println("2. Withdrawal");
+            System.out.print("   2. Withdrawal");
             System.out.println("3. chenge pin");
-            System.out.println("4. check balance");
+            System.out.print("   4. check balance");
 
         }else {
             System.out.println("Incorrect pin please try again");

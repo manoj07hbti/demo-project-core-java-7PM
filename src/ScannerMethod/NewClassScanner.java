@@ -1,5 +1,4 @@
-package Method_obje;
-import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingParameterStyle;
+package ScannerMethod;
 
 import java.util.Scanner;
 public class NewClassScanner {
