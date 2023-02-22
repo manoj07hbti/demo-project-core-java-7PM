@@ -7,6 +7,9 @@
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Arrays assignment with advanced loop...21_Feb">
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Calculator_App_Scanner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Check_Prime_number_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Demo_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Demo_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Opps_demo_A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loops/Assignment_3_Feb_Loops_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Assignment_3_Feb_Loops_for.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loops/Break_and_Continue_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Break_and_Continue_Loop.java" afterDir="false" />
@@ -103,7 +106,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Brands_Arrays_with_Loops">
+  <component name="RunManager" selected="Application.Demo_C">
     <configuration name="AGE_Arrays_with_advanced_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.AGE_Arrays_with_advanced_loops" />
       <module name="demo-project-core-java-7PM" />
@@ -130,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Demo_Arrays" />
+    <configuration name="Demo_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps.inheritance.Demo_B" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="opps.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Opening_Bank_Acc_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.Opening_Bank_Acc_Scanner" />
+    <configuration name="Demo_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps.inheritance.Demo_C" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.*" />
+          <option name="PATTERN" value="opps.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_C" />
+        <item itemvalue="Application.Demo_B" />
         <item itemvalue="Application.Brands_Arrays_with_Loops" />
         <item itemvalue="Application.Salary_Arrays_with_Loops" />
         <item itemvalue="Application.AGE_Arrays_with_advanced_loops" />
-        <item itemvalue="Application.Demo_Arrays" />
-        <item itemvalue="Application.Opening_Bank_Acc_Scanner" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676982964930</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Arrays assignment with advanced loop...21_Feb">
+      <created>1676986667750</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676986667750</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -471,7 +481,8 @@
     <MESSAGE value="Method_Scanner_Demo" />
     <MESSAGE value="Method_Scanner_Demo_ATM" />
     <MESSAGE value="Opening_Bank_Account_MINIMUM BAl 5000...Scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opening_Bank_Account_MINIMUM BAl 5000...Scanner" />
+    <MESSAGE value="Arrays assignment with advanced loop...21_Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays assignment with advanced loop...21_Feb" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
