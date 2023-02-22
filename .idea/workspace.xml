@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/demoA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/demoB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/demoC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/demoAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/demoChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/fourWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/twoWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demoC">
+  <component name="RunManager" selected="Application.demoChild">
     <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ashish_practice.array" />
       <module name="demo-project-core-java-7PM" />
@@ -164,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_Function.primeNumber" />
+    <configuration name="demoChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps.inheritance.abstraction.demoChild" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_or_Function.*" />
+          <option name="PATTERN" value="opps.inheritance.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demoChild" />
         <item itemvalue="Application.demoC" />
         <item itemvalue="Application.demoB" />
         <item itemvalue="Application.demoA" />
         <item itemvalue="Application.array" />
-        <item itemvalue="Application.primeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -200,13 +202,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00003" summary="first assignment">
-      <created>1674706404794</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674706404794</updated>
     </task>
     <task id="LOCAL-00004" summary="first assignment">
       <created>1674707089192</created>
@@ -544,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676916937459</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="inheritance">
+      <created>1676997908675</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1676997908675</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -633,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="table of 5" />
     <MESSAGE value="Factorial of 7" />
     <MESSAGE value="find even number between 1 to 100" />
     <MESSAGE value="find odd number between 1 to 100" />
@@ -658,7 +659,8 @@
     <MESSAGE value="bankaccount" />
     <MESSAGE value="primecheck" />
     <MESSAGE value="primeNumbers between two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeNumbers between two numbers" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
