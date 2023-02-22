@@ -4,6 +4,17 @@ import java.util.Scanner;
 
 public class DemoCheckPin {
 
+    public void CheckPin(int PIN) {
+
+        if (PIN == 579) {
+
+            System.out.println("Welcome to Bank");
+        } else {
+
+            System.out.println("Incorrect pin no entry");
+        }
+    }
+
 
     public static void main(String args[]) {
 
@@ -19,16 +30,7 @@ public class DemoCheckPin {
 
     }
 
-    public void CheckPin(int PIN) {
 
-        if (PIN == 579) {
-
-            System.out.println("Welcome to Bank");
-        } else {
-
-            System.out.println("Incorrect pin no entry");
-        }
-    }
 
 
 }

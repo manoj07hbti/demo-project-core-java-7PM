@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="method function Bank Account">
-      <change afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Oops Inheritance.java">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array_All_Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/PrimeNumber.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/OpeningAccountBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/DemoCheckPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/DemoCheckPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/PrimeNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +30,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Loop/PrimeNumber.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,13 +110,26 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreatedBankAccount">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Calculator" />
+  <component name="RunManager" selected="Application.DemoC">
+    <configuration name="ArrayAgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayAgeDemo" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.method_or_function.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_All_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array_All_Loops" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eligibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.Eligibility" />
+    <configuration name="DemoB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.DemoB" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.method_or_function.*" />
+          <option name="PATTERN" value="Oops.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,25 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpeningAccountBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.OpeningAccountBank" />
+    <configuration name="DemoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.DemoC" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.method_or_function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculator_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.calculator_App" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method_or_function.method_or_function.*" />
+          <option name="PATTERN" value="Oops.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoC" />
+        <item itemvalue="Application.DemoB" />
+        <item itemvalue="Application.Array_All_Loops" />
+        <item itemvalue="Application.ArrayAgeDemo" />
         <item itemvalue="Application.CreatedBankAccount" />
-        <item itemvalue="Application.OpeningAccountBank" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.calculator_App" />
-        <item itemvalue="Application.Eligibility" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +508,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676965879144</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="method function Bank Account">
+      <created>1676969642329</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1676969642329</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Oops Inheritance.java">
+      <created>1677091509610</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677091509610</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -586,7 +600,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assigment Loop Even and odd number" />
     <MESSAGE value="Assigment Prime number" />
     <MESSAGE value="Palendrom number java" />
     <MESSAGE value="Break and continue Loop" />
@@ -611,7 +624,8 @@
     <MESSAGE value="method function day 5  Scanner type" />
     <MESSAGE value="method function day 5   calculator_App Scanner class" />
     <MESSAGE value="method function Bank Account" />
-    <option name="LAST_COMMIT_MESSAGE" value="method function Bank Account" />
+    <MESSAGE value="Oops Inheritance.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops Inheritance.java" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
