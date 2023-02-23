@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Arrays assignment with advanced loop...21_Feb">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Opps_Inheritance_Assignment">
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Calculator_App_Scanner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/method_or_function/Check_Prime_number_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Demo_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Demo_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/Opps_demo_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/Abstraction_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/Demo_Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/Smartphones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loops/Assignment_3_Feb_Loops_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Assignment_3_Feb_Loops_for.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loops/Break_and_Continue_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Break_and_Continue_Loop.java" afterDir="false" />
@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -106,20 +107,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo_C">
-    <configuration name="AGE_Arrays_with_advanced_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.AGE_Arrays_with_advanced_loops" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo_Child">
     <configuration name="Brands_Arrays_with_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Brands_Arrays_with_Loops" />
       <module name="demo-project-core-java-7PM" />
@@ -159,6 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo_Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps.inheritance.abstraction.Demo_Child" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opps.inheritance.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Salary_Arrays_with_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Salary_Arrays_with_Loops" />
       <module name="demo-project-core-java-7PM" />
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_Child" />
         <item itemvalue="Application.Demo_C" />
         <item itemvalue="Application.Demo_B" />
         <item itemvalue="Application.Brands_Arrays_with_Loops" />
         <item itemvalue="Application.Salary_Arrays_with_Loops" />
-        <item itemvalue="Application.AGE_Arrays_with_advanced_loops" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676986667750</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Opps_Inheritance_Assignment">
+      <created>1677072581941</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677072581941</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -482,7 +490,8 @@
     <MESSAGE value="Method_Scanner_Demo_ATM" />
     <MESSAGE value="Opening_Bank_Account_MINIMUM BAl 5000...Scanner" />
     <MESSAGE value="Arrays assignment with advanced loop...21_Feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays assignment with advanced loop...21_Feb" />
+    <MESSAGE value="Opps_Inheritance_Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opps_Inheritance_Assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
