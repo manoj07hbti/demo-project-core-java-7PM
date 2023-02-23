@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/demoAbstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/demoChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/fourWheeler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/twoWheeler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/DemoParent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/Demoparent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/childInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps/inheritance/abstraction/multipleInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -202,13 +203,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00004" summary="first assignment">
-      <created>1674707089192</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674707089192</updated>
     </task>
     <task id="LOCAL-00005" summary="first assignment">
       <created>1674708706243</created>
@@ -546,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676997908675</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="abstraction">
+      <created>1677087535558</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1677087535558</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -635,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Factorial of 7" />
     <MESSAGE value="find even number between 1 to 100" />
     <MESSAGE value="find odd number between 1 to 100" />
     <MESSAGE value="palendrom" />
@@ -660,7 +660,8 @@
     <MESSAGE value="primecheck" />
     <MESSAGE value="primeNumbers between two numbers" />
     <MESSAGE value="inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
+    <MESSAGE value="abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstraction" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
