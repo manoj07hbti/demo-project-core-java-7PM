@@ -1,4 +1,4 @@
-package oops.inheritance.polymorphism;
+package oops.polymorphism;
 
 public class Child extends Parent {
 

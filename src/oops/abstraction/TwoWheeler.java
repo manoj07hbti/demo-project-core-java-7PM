@@ -1,4 +1,4 @@
-package oops.inheritance.abstraction;
+package oops.abstraction;
 
 public class TwoWheeler extends Vehicle {
     @Override

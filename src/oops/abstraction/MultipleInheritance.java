@@ -1,4 +1,4 @@
-package oops.inheritance.abstraction;
+package oops.abstraction;
 
 public class MultipleInheritance extends DemoParent1 implements DemoParent2 {
     @Override
