@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/Demo_Exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condition_statment/AndOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condition_statment/Switch_Statement.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,20 +100,13 @@
       <recent name="condition_statment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoSwitch_Statement">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
+  <component name="RunManager" selected="Application.Demo_Exception">
+    <configuration name="Calculator_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_fuction.Calculator_App" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="method_or_fuction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSwitch_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condition_statment.DemoSwitch_Statement" />
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo_oops.inheritance.Child" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condition_statment.*" />
+          <option name="PATTERN" value="demo_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +127,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="Demo_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.Demo_Exception" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="exception_handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_OpiningAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_or_fuction.Demo_OpiningAccount" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method_or_fuction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrandChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo_oops.inheritance.GrandChild" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo_oops.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,10 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoSwitch_Statement" />
-        <item itemvalue="Application.DemoAdvanceVariable" />
-        <item itemvalue="Application.DemoVariable" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo_Exception" />
+        <item itemvalue="Application.GrandChild" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.Calculator_App" />
+        <item itemvalue="Application.Demo_OpiningAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +204,35 @@
       <option name="project" value="LOCAL" />
       <updated>1675411162825</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Method Or Fuction Calculator">
+      <created>1676477202242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676477202242</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Percentage use Of Method Class">
+      <created>1676616816153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676616816153</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Method Or Fuction Calculator App Class">
+      <created>1676621624777</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676621624777</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Oops Inheritance Use Of  Parents Class">
+      <created>1677001208351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677001208351</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -264,7 +311,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Switch Statement Use Of String Value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch Statement Use Of String Value" />
+    <MESSAGE value="Method Or Fuction Calculator" />
+    <MESSAGE value="Percentage use Of Method Class" />
+    <MESSAGE value="Method Or Fuction Calculator App Class" />
+    <MESSAGE value="Oops Inheritance Use Parents Class" />
+    <MESSAGE value="Oops Inheritance Use Of  Parents Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops Inheritance Use Of  Parents Class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
