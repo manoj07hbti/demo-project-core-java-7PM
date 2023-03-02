@@ -10,6 +10,7 @@ public class DemoArray {
 
         System.out.println("Printing element at index :0 "+arr[3]);
 
+
         try {
             System.out.println("Printing element at index :0 " + arr[5]);
         }

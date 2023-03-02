@@ -6,12 +6,18 @@ public class Calculator {
 
         int result=0;
 
+
         try {
              result = a / b;
         }
         catch (Exception e){
 
             System.out.println("Exception occurred "+e);
+        }
+
+        finally {
+
+            System.out.println("This is my finally block and it will always executes");
         }
 
         return result;
