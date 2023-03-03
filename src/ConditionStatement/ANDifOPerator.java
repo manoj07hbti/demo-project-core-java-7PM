@@ -33,7 +33,7 @@ public class ANDifOPerator {
             System.out.println("Persan is eligible for voting in Metro city");
         }else{
 
-            System.out.println("persan is eligible for voting in Metro city");
+            System.out.println("persan is  not eligible for voting in Metro city");
         }
         int marks=33;
 
@@ -41,7 +41,10 @@ public class ANDifOPerator {
 
             System.out.println("clear exam with 3rd devision");
         }
+        else{
 
+            System.out.println("clear exam not with 3rd devision");
+        }
 
 
 

@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Oops Inheritance.java">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array_All_Loops.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Demo Inheritance.java">
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/Child_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/DemoOverloadingMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/Parent_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/DemoArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/NestedIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/NestedIF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/DemoCheckPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/DemoCheckPin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -110,13 +116,13 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoC">
-    <configuration name="ArrayAgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayAgeDemo" />
+  <component name="RunManager" selected="Application.DemoArray">
+    <configuration name="ANDifOPerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.ANDifOPerator" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="ConditionStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_All_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Array_All_Loops" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.Calculator" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatedBankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.method_or_function.CreatedBankAccount" />
+    <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.DemoArray" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.method_or_function.*" />
+          <option name="PATTERN" value="exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.DemoB" />
+    <configuration name="NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.NestedIF" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Inheritance.*" />
+          <option name="PATTERN" value="ConditionStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Inheritance.DemoC" />
+    <configuration name="conditionIfelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionStatement.conditionIfelse" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Inheritance.*" />
+          <option name="PATTERN" value="ConditionStatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoC" />
-        <item itemvalue="Application.DemoB" />
-        <item itemvalue="Application.Array_All_Loops" />
-        <item itemvalue="Application.ArrayAgeDemo" />
-        <item itemvalue="Application.CreatedBankAccount" />
+        <item itemvalue="Application.DemoArray" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.NestedIF" />
+        <item itemvalue="Application.conditionIfelse" />
+        <item itemvalue="Application.ANDifOPerator" />
       </list>
     </recent_temporary>
   </component>
@@ -199,13 +205,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00001" summary="demo project">
-      <created>1674911593512</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674911593512</updated>
     </task>
     <task id="LOCAL-00002" summary="Assigment Varible 1">
       <created>1674931857969</created>
@@ -522,7 +521,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677091509610</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Array_All_Loops.java">
+      <created>1677092287463</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1677092287463</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Array_All_Loops.java">
+      <created>1677092353363</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1677092353363</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Demo Abstraction.java">
+      <created>1677176241595</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1677176241595</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Demo Inheritance.java">
+      <created>1677176418154</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1677176418154</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -600,9 +627,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assigment Prime number" />
-    <MESSAGE value="Palendrom number java" />
-    <MESSAGE value="Break and continue Loop" />
     <MESSAGE value="class object Assigment College.java" />
     <MESSAGE value="class object Doctor.java" />
     <MESSAGE value="Perameter Constructor Doctor.java" />
@@ -625,19 +649,11 @@
     <MESSAGE value="method function day 5   calculator_App Scanner class" />
     <MESSAGE value="method function Bank Account" />
     <MESSAGE value="Oops Inheritance.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oops Inheritance.java" />
+    <MESSAGE value="Array_All_Loops.java" />
+    <MESSAGE value="Demo Abstraction.java" />
+    <MESSAGE value="Demo Inheritance.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo Inheritance.java" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/variable/DemoVariable.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

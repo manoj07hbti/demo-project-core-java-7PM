@@ -6,7 +6,7 @@ public class NestedIF {
         int number=48;
         if( number>0){
 
-             if (number % 8== 0){
+             if (number % 6== 0){
 
                System.out.println("Number is Even");
 

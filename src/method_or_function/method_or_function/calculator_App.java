@@ -8,9 +8,9 @@ public class calculator_App {
 
         Scanner scannerobj = new Scanner(System.in);
 
-        int flag = 0;
+        int flag = 1;
 
-        while (flag == 0) {
+        while (flag == 1) {
 
             System.out.println("Please enter value of a:");
 
@@ -45,11 +45,10 @@ public class calculator_App {
 
             Scanner scanner = new Scanner(System.in);
 
-            System.out.println("Do you want to continue? press 0 to continue and press any other number to exit");
+            System.out.println("Do you want to continue? press 1 to continue and press any other number to exit");
 
-             flag =scanner.nextInt();
+            flag = scanner.nextInt();
         }
-
 
     }
 
