@@ -7,14 +7,6 @@ public class DemoArray {
         DemoArray obj = new DemoArray();
 
           obj.d1();
-
-
-
-
-
-
-
-
     }
 
     public void d1(){
