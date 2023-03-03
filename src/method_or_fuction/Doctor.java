@@ -4,7 +4,7 @@ public class Doctor {
 
     //       Syntax : access_specifier return_type  method_name (parameter) {CODE..} //
 
-    public void Visit(){
+    public static void Visit(){
         System.out.println("This IS Visit Method In Doctor Class");
 
     }
