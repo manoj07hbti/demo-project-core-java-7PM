@@ -9,6 +9,7 @@ public class calculate_percentage {
     public static void main(String[] args) {
         System.out.println("write a method which calculate percentage ");
         Scanner sc= new Scanner(System.in);
+
         double number;
         double percentage;
         System.out.print("Enter number : ");
@@ -17,6 +18,7 @@ public class calculate_percentage {
         percentage = sc.nextDouble();
         calculate_percentage obj = new calculate_percentage();
         double cal_per;
+
         cal_per = obj.per(number, percentage );
         System.out.println("Final result of the percentage : " +cal_per);
         
