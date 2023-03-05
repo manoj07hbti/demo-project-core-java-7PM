@@ -4,18 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Demo Inheritance.java">
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/Child_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/DemoOverloadingMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Abstraction/polymorphism/Parent_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/DemoArray.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Demo Array Exception handlin">
+      <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/tableWhileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/SqureNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/NestedIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/NestedIF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/ArmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/DemoBreakLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/DemoBreakLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Switch_Statement/AssigmentSwitchStat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Switch_Statement/AssigmentSwitchStat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/NestedIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +44,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/method_or_function/method_or_function/Method_oddNumber.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,13 +127,13 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoArray">
-    <configuration name="ANDifOPerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.ANDifOPerator" />
+  <component name="RunManager" selected="Application.SqureNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.ArmstrongNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionStatement.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.Calculator" />
+    <configuration name="Assigmentloopdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Assigmentloopdemo" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.DemoArray" />
+    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.EvenNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Test_ScannerInput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.NestedIF" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.PrimeNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionStatement.*" />
+          <option name="PATTERN" value="Test_ScannerInput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conditionIfelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionStatement.conditionIfelse" />
+    <configuration name="SqureNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.SqureNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConditionStatement.*" />
+          <option name="PATTERN" value="Test_ScannerInput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoArray" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.NestedIF" />
-        <item itemvalue="Application.conditionIfelse" />
-        <item itemvalue="Application.ANDifOPerator" />
+        <item itemvalue="Application.SqureNumber" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.EvenNumber" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Assigmentloopdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,27 +216,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00002" summary="Assigment Varible 1">
-      <created>1674931857969</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674931857969</updated>
-    </task>
-    <task id="LOCAL-00003" summary="demo java 2">
-      <created>1674933277247</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674933277247</updated>
-    </task>
-    <task id="LOCAL-00004" summary="demo project if else">
-      <created>1675019513276</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1675019513276</updated>
     </task>
     <task id="LOCAL-00005" summary="demo project if else">
       <created>1675101307626</created>
@@ -549,7 +539,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677176418154</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Calculator.java Exception handling">
+      <created>1677844172307</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1677844172307</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Demo Array Exception handling2">
+      <created>1677844272677</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1677844272677</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Demo Account opening APP">
+      <created>1677870962878</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1677870962878</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -627,9 +638,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="class object Assigment College.java" />
-    <MESSAGE value="class object Doctor.java" />
-    <MESSAGE value="Perameter Constructor Doctor.java" />
     <MESSAGE value="Perameter Constuctor state.java" />
     <MESSAGE value="Perameter Constuctor college.java" />
     <MESSAGE value="Perameter Constructor Engineer.java" />
@@ -652,7 +660,10 @@
     <MESSAGE value="Array_All_Loops.java" />
     <MESSAGE value="Demo Abstraction.java" />
     <MESSAGE value="Demo Inheritance.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo Inheritance.java" />
+    <MESSAGE value="Calculator.java Exception handling" />
+    <MESSAGE value="Demo Array Exception handling2" />
+    <MESSAGE value="Demo Account opening APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo Account opening APP" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
