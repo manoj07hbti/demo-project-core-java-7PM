@@ -9,6 +9,7 @@ public class Find_Armstrong_Number {
             result+=Math.pow(reminder,3);
             orignalnumber/=10;
         }
+
         if (result==number){
             System.out.println(number+ " : number is an Armstrong number" );
         }
