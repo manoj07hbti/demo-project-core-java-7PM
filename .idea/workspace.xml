@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Test_01/cube_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test_01/cube_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test_01/calculate_percentage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test_01/calculate_percentage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cube_test">
+  <component name="RunManager" selected="Application.calculate_percentage">
     <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception_handling.DemoArray" />
       <module name="demo-project-core-java-7PM" />
@@ -123,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.calculatorApp" />
+    <configuration name="calculate_percentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_01.calculate_percentage" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Test_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opps.inheritance.abstraction.polymorphism.child" />
+    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.calculatorApp" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opps.inheritance.abstraction.polymorphism.*" />
+          <option name="PATTERN" value="exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculate_percentage" />
         <item itemvalue="Application.cube_test" />
         <item itemvalue="Application.factorial_test" />
         <item itemvalue="Application.DemoArray" />
         <item itemvalue="Application.calculatorApp" />
-        <item itemvalue="Application.child" />
       </list>
     </recent_temporary>
   </component>
@@ -198,13 +199,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00009" summary="first assignment">
-      <created>1674818626734</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1674818626734</updated>
     </task>
     <task id="LOCAL-00010" summary="first assignment">
       <created>1674822452341</created>
@@ -542,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678021777770</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="write a method which make cube of number and return">
+      <created>1678022244817</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1678022244817</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -631,7 +632,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="prime" />
     <MESSAGE value="Doctor" />
     <MESSAGE value="Engineer" />
     <MESSAGE value="College" />
@@ -656,7 +656,8 @@
     <MESSAGE value="multipleInheritance + interface" />
     <MESSAGE value="multipleInheritance + PaymentApp + interface" />
     <MESSAGE value="write a programto provie factorial of number" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a programto provie factorial of number" />
+    <MESSAGE value="write a method which make cube of number and return" />
+    <option name="LAST_COMMIT_MESSAGE" value="write a method which make cube of number and return" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
