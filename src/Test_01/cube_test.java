@@ -13,8 +13,10 @@ public class cube_test {
         System.out.print(" to calculate cube,  Enter the number: ");
         Scanner sc= new Scanner(System.in);
         int a = sc.nextInt();
+
         cube_test obj = new cube_test();
         int cube_result = obj.cube(a);
+
         System.out.println("Result  : " +cube_result);
     }
 }
