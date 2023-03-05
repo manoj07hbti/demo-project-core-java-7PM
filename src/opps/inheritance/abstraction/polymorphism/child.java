@@ -6,7 +6,10 @@ public class child extends parent{
     }
 
     public static void main(String[] args) {
-        child obj = new child();
+        parent obj = new parent();
         obj.m1();
+        parent obj1 = new child();
+        obj1.m1();
+
     }
 }
