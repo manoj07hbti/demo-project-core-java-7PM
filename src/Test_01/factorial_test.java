@@ -9,14 +9,10 @@ public class factorial_test {
         System.out.println("write a program to provie factorial of number");
         System.out.println("");
         System.out.print("Enter number : ");
-
         int num = sc.nextInt();
         for (i=1; i<=num; i++){
             fact =fact*i;
         }
-
         System.out.println("Factorial of " +num + " is equal to : " +fact);
-
-
     }
 }
