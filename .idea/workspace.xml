@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="MethodAdvance">
-      <change afterPath="$PROJECT_DIR$/src/Method_or_function/CalculatorApp.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TEST/factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_or_function/CalculatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_or_function/CalculatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/DemoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/DemoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/agecondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/agecondition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +114,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorApp">
+  <component name="RunManager" selected="Application.factorial">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_or_function2.Calculator" />
       <module name="demo-project-core-java-7PM" />
@@ -138,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_function.CalculatorWithReturnType" />
+    <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.DemoArray" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_or_function.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodAdvance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_function2.MethodAdvance" />
+    <configuration name="Evennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Forloopandwhileloop.Evennumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_or_function2.*" />
+          <option name="PATTERN" value="Forloopandwhileloop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_or_function2.CalculatorWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_or_function2.CalculatorWithReturnType" />
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.factorial" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method_or_function2.*" />
+          <option name="PATTERN" value="TEST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorApp" />
-        <item itemvalue="Application.Method_or_function2.CalculatorWithReturnType" />
-        <item itemvalue="Application.CalculatorWithReturnType" />
-        <item itemvalue="Application.MethodAdvance" />
+        <item itemvalue="Application.factorial" />
         <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.DemoArray" />
+        <item itemvalue="Application.Evennumber" />
+        <item itemvalue="Application.CalculatorApp" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676342825144</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="CalculatorApp">
+      <created>1676680198025</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676680198025</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Arrays">
+      <created>1677019418386</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677019418386</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -377,7 +394,9 @@
     <MESSAGE value="class and object" />
     <MESSAGE value="Method and function" />
     <MESSAGE value="MethodAdvance" />
-    <option name="LAST_COMMIT_MESSAGE" value="MethodAdvance" />
+    <MESSAGE value="CalculatorApp" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
