@@ -8,7 +8,7 @@ public class DemoLoop {
         //	            //block of statements
         //	    }
 
-        for(int i=1; i<=10; i++){
+        for(int i=1; i<=56; i++){
 
             System.out.println("Hello..."+i);
         }
