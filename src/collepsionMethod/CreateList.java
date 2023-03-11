@@ -5,13 +5,11 @@ import java.util.concurrent.Callable;
 
 public class CreateList {
     // 1- create a List
-    // 2- add 10 element
-
 
     public void createlist(){
 
         ArrayList list = new ArrayList();
-
+// 2- add 10 elements
         list.add("paramvir singh");
         list.add(25);
         list.add("aman");
