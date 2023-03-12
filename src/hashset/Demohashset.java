@@ -8,9 +8,9 @@ public class Demohashset
 
       Demohashset obj =new Demohashset();
 
-    }public void demo(){
+    }public void demo() {
 
-    HashSet<String>name=new HashSet<>();
+    HashSet<String> name = new HashSet<>();
 
     name.add("imran khan");
     name.add("imran khan");
@@ -19,11 +19,16 @@ public class Demohashset
     name.add("Arman khan");
     name.add("Arman khan");
     name.add("Manoj kumar");
-    name.add("Mmanoj kumar");
-    for (String var: name){
-        System.out.println("Printing name out of duplicates:"+var);
+    name.add("Manoj kumar");
+    name.add("Manoj kumar");
+    for (String var : name) {
+        System.out.println("Printing name out of duplicates:" + var);
     }
 
-    }
+
+   }
+
 
 }
+
+
