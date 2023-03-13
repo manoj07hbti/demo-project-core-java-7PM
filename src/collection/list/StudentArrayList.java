@@ -1,4 +1,6 @@
-package collection;
+package collection.list;
+
+
 
 import model.Student;
 

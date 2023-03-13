@@ -1,4 +1,4 @@
-package collection;
+package collection.list;
 
 import java.util.ArrayList;
 
@@ -9,6 +9,7 @@ public class DemoGenericList {
 
         ArrayList <String> stringArrayList= new ArrayList<>();
 
+        stringArrayList.add("Java");
         stringArrayList.add("Java");
         stringArrayList.add("Java 8");
         stringArrayList.add("Spring");
