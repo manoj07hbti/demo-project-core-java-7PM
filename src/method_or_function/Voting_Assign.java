@@ -20,5 +20,6 @@ public class Voting_Assign {
     public static void main(String[] args) {
         Voting_Assign obj=new Voting_Assign();
         obj.EligibleForVoting();
+        
     }
 }

@@ -15,7 +15,7 @@ public class PrimeNumber_Assign {
 
     public static void main(String[] args) {
         PrimeNumber_Assign obj=new PrimeNumber_Assign();
-        obj.PrimeNumber(41);
+        obj.PrimeNumber(3);
 
 
 
