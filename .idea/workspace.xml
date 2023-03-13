@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_05march.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_10_march.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_10marfcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_12_march.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/AgeNotEligibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/LessAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/VotingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/openAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_statement/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_statement/prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,9 +118,9 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.factorial_test">
-    <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.DemoArray" />
+  <component name="RunManager" selected="Application.openAccount">
+    <configuration name="VotingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.VotingApp" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -123,21 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculate_percentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_01.calculate_percentage" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.calculatorApp" />
+    <configuration name="openAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.openAccount" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -149,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cube_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_01.cube_test" />
+    <configuration name="practice_10_march" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.practice_10_march" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test_01.*" />
+          <option name="PATTERN" value="ashish_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +158,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_01.factorial_test" />
+    <configuration name="practice_12_march" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashish_practice.practice_12_march" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test_01.*" />
+          <option name="PATTERN" value="ashish_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prime_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_statement.prime_number" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.factorial_test" />
-        <item itemvalue="Application.calculate_percentage" />
-        <item itemvalue="Application.cube_test" />
-        <item itemvalue="Application.DemoArray" />
-        <item itemvalue="Application.calculatorApp" />
+        <item itemvalue="Application.openAccount" />
+        <item itemvalue="Application.VotingApp" />
+        <item itemvalue="Application.practice_12_march" />
+        <item itemvalue="Application.prime_number" />
+        <item itemvalue="Application.practice_10_march" />
       </list>
     </recent_temporary>
   </component>
@@ -198,20 +207,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00014" summary="first assignment">
-      <created>1675090133866</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1675090133866</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Wrtie a Program to check marks and display divison of student">
-      <created>1675090613589</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1675090613589</updated>
     </task>
     <task id="LOCAL-00016" summary="brand IBM vs price">
       <created>1675179094070</created>
@@ -542,7 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678024378423</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="write a method which make cube of number and return">
+      <created>1678025691035</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1678025691035</updated>
+    </task>
+    <task id="LOCAL-00064" summary="write a method which calculate percentage">
+      <created>1678025727228</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1678025727228</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -651,12 +660,12 @@
     <MESSAGE value="abstraction" />
     <MESSAGE value="multipleInheritance + interface" />
     <MESSAGE value="multipleInheritance + PaymentApp + interface" />
-    <MESSAGE value="write a method which make cube of number and return" />
-    <MESSAGE value="write a method which calculate percentage" />
     <MESSAGE value="test" />
     <MESSAGE value="write a programto provie factorial of number" />
     <MESSAGE value="write a program to provie factorial of number" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a program to provie factorial of number" />
+    <MESSAGE value="write a method which make cube of number and return" />
+    <MESSAGE value="write a method which calculate percentage" />
+    <option name="LAST_COMMIT_MESSAGE" value="write a method which calculate percentage" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

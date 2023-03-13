@@ -1,27 +1,33 @@
 package loop_statement;
-
+import javax.script.ScriptContext;
+import java.util.Scanner;
 public class prime_number {
-    public static void main(String[] args) {
-        System.out.println("Prime numbers : ");
-        int i;
-        int N = 100;
-        int x;
+    public boolean isPrime(int num) {
         boolean flag= true;
-        //check for every number from 1 to N
-        for (i = 2; i <= N; i++) {
-            for (x = 2; x < i; x++) {
-                if (i % x == 0) {
-                    flag = false;
-                    break;
-                }
-                else {
-                    flag = true;
-                }
+        for (int i = 2; i < num; i++) {
+            if (num % i == 0) {
+                flag = false;
+                break;
             }
-            if (flag) {
-                System.out.print(i +" ");
-            } else {
-                System.out.print("");
+
+        }
+        return flag;
+    }
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter starting number : ");
+        int start = sc.nextInt();
+        System.out.print("Enter last number : ");
+        int last = sc.nextInt();
+        //check for every number from 1 to N
+        System.out.println("Prime numbers : ");
+        prime_number obj = new prime_number();
+        for (int j = start; j <= last; j++) {
+            boolean flag2 = obj.isPrime(j);
+            if (flag2 == true) {
+                System.out.print(j + " , ");
             }
         }
     }
