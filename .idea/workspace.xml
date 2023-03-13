@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Array and Oops inheritance">
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop_working/PrimeNumber_Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop_working/PrimeNumber_Assignment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/Voting_Assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/Voting_Assign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop_working/PrimeNumber_Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_working/PrimeNumber_Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/PrimeNumber_Assign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/PrimeNumber_Assign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/Voting_Assign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/Voting_Assign.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="rough" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,13 +110,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="method_or_function" />
@@ -333,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677072212437</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="rough">
+      <created>1678729418391</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678729418391</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -435,7 +434,8 @@
     <MESSAGE value="DriverCode1" />
     <MESSAGE value="Method all 5 days" />
     <MESSAGE value="Array and Oops inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array and Oops inheritance" />
+    <MESSAGE value="rough" />
+    <option name="LAST_COMMIT_MESSAGE" value="rough" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
