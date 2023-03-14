@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/assignment1_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/demoGenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/employeeManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/studentManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,13 +115,13 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.assignment1_ArrayList">
-    <configuration name="VotingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.VotingApp" />
+  <component name="RunManager" selected="Application.employeeManagementSystem">
+    <configuration name="assignment1_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.assignment1_ArrayList" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assignment1_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.assignment1_ArrayList" />
+    <configuration name="demoGenericList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.demoGenericList" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -150,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="openAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.openAccount" />
+    <configuration name="employeeManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.employeeManagementSystem" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_12_march" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ashish_practice.practice_12_march" />
+    <configuration name="studentManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.studentManagementSystem" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ashish_practice.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.employeeManagementSystem" />
+        <item itemvalue="Application.studentManagementSystem" />
+        <item itemvalue="Application.demoGenericList" />
         <item itemvalue="Application.assignment1_ArrayList" />
         <item itemvalue="Application.demolist" />
-        <item itemvalue="Application.openAccount" />
-        <item itemvalue="Application.VotingApp" />
-        <item itemvalue="Application.practice_12_march" />
       </list>
     </recent_temporary>
   </component>
@@ -199,13 +204,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00019" summary="write a program which wil tell Months">
-      <created>1675353866555</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1675353866555</updated>
     </task>
     <task id="LOCAL-00020" summary="for loop">
       <created>1675432250508</created>
@@ -543,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678759834269</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="collection ArrayList Assignment">
+      <created>1678761182879</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1678761182879</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -632,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="voting" />
     <MESSAGE value="cube withh method input param" />
     <MESSAGE value="method input param" />
     <MESSAGE value="method input param square" />
@@ -657,7 +661,8 @@
     <MESSAGE value="Voting app" />
     <MESSAGE value="openaccount" />
     <MESSAGE value="collection ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection ArrayList" />
+    <MESSAGE value="collection ArrayList Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection ArrayList Assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
