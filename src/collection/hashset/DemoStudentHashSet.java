@@ -12,12 +12,23 @@ public class DemoStudentHashSet {
 
         // create data of student
         Student student1= new Student("Raj",1,"CS");
-        Student student2= new Student("Rahul",2,"IT");
-        Student student3= new Student("Mukesh",3,"CS");
-        Student student4= new Student("Mohit",4,"IT");
-        Student student5= new Student("Raj",1,"CS");
-        Student student6= new Student("Rahul",2,"IT");
 
+        System.out.println("Printing hashcode of student1 : "+student1.hashCode());
+
+        Student student2= new Student("Rahul",2,"IT");
+        System.out.println("Printing hashcode of student2 : "+student2.hashCode());
+
+        Student student3= new Student("Mukesh",3,"CS");
+        System.out.println("Printing hashcode of student3 : "+student3.hashCode());
+
+        Student student4= new Student("Mohit",4,"IT");
+        System.out.println("Printing hashcode of student4 : "+student4.hashCode());
+
+        Student student5= new Student("Raj",1,"CS");
+        System.out.println("Printing hashcode of student5 : "+student5.hashCode());
+
+        Student student6= new Student("Rahul",2,"IT");
+        System.out.println("Printing hashcode of student6 : "+student6.hashCode());
         // add data to set
 
         studentHashSet.add(student1);
