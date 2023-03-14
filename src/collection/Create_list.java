@@ -54,6 +54,15 @@ public class Create_list {
             k++;
         }while(k<list.size());
 
+      //  remove element for array list
+
+           list.remove(5);
+
+        for (int i = 0; i < list.size(); i++) {
+
+            System.out.println("  After Remove Printing Arraylist in Loop "  +  list.get ( i ));
+
+        }
 
     }
 

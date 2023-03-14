@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Demo Array Exception handlin">
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Collection Create_list.java day 1">
       <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loop/tableWhileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test_ScannerInput/SqureNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/DemoGenericAssig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/EmployeeArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" afterDir="false" />
@@ -22,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Create_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Create_list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" afterDir="false" />
@@ -122,18 +123,21 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="collection" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="method_or_function" />
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SqureNumber">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.EmployeeArrayList">
+    <configuration name="Create_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Create_list" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assigmentloopdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Assigmentloopdemo" />
+    <configuration name="DemoGenericAssig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.DemoGenericAssig" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.EvenNumber" />
+    <configuration name="EmployeeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.EmployeeArrayList" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test_ScannerInput.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeArrayList" />
+        <item itemvalue="Application.DemoGenericAssig" />
+        <item itemvalue="Application.Create_list" />
         <item itemvalue="Application.SqureNumber" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.EvenNumber" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.Assigmentloopdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,20 +220,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00005" summary="demo project if else">
-      <created>1675101307626</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1675101307626</updated>
-    </task>
-    <task id="LOCAL-00006" summary="And if operetor condition">
-      <created>1675189004431</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1675189004431</updated>
     </task>
     <task id="LOCAL-00007" summary="Condition NESTED if java">
       <created>1675190064954</created>
@@ -560,7 +550,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677870962878</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="test Scanner input">
+      <created>1678027869346</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1678027869346</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Collection Create_list.java day 1">
+      <created>1678613350806</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1678613350809</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -638,8 +642,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Perameter Constuctor state.java" />
-    <MESSAGE value="Perameter Constuctor college.java" />
     <MESSAGE value="Perameter Constructor Engineer.java" />
     <MESSAGE value="Perameter Constructor Pet.java" />
     <MESSAGE value="Method or function Doctor.java" />
@@ -663,7 +665,9 @@
     <MESSAGE value="Calculator.java Exception handling" />
     <MESSAGE value="Demo Array Exception handling2" />
     <MESSAGE value="Demo Account opening APP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo Account opening APP" />
+    <MESSAGE value="test Scanner input" />
+    <MESSAGE value="Collection Create_list.java day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection Create_list.java day 1" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
