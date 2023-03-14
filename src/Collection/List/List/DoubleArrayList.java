@@ -1,4 +1,4 @@
-package Collection;
+package Collection.List.List;
 
 import java.util.ArrayList;
 
@@ -18,7 +18,7 @@ public class DoubleArrayList {
         ArrayList<Double> var =obj.CreateList();
 
         for(Double var1 : var){
-            System.out.println("Printing Generic List : "+var1);
+            System.out.println("Printing Generic Collection.Collection.List.List : "+var1);
         }
     }
 }

@@ -1,4 +1,4 @@
-package Collection;
+package Collection.List.List;
 
 import java.util.ArrayList;
 import Model.Employee;

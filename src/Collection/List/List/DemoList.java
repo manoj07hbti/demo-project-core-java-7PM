@@ -1,6 +1,4 @@
-package Collection;
-
-import demo.Demo;
+package Collection.List.List;
 
 import java.util.ArrayList;
 
@@ -30,7 +28,7 @@ public class DemoList {
         }
         i=0;
         while(i<list.size()){
-            System.out.println("Printing List Using While Loop : "+list.get(i));
+            System.out.println("Printing Collection.Collection.List.List Using While Loop : "+list.get(i));
             i++;
         }
         i=0;
