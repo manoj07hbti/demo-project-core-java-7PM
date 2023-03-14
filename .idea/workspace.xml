@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/demoGenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/employeeManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/studentManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/DemoHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/employeeHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/studentHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/assignment1_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/assignment1_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/demoGenericList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/demoGenericList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/demolist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/demolist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/employeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/employeeManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/studentManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/studentManagementSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,13 +117,13 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.employeeManagementSystem">
-    <configuration name="assignment1_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.assignment1_ArrayList" />
+  <component name="RunManager" selected="Application.employeeHashSet">
+    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.DemoHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,25 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demoGenericList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.demoGenericList" />
+    <configuration name="employeeHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.employeeHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demolist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.demolist" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +145,24 @@
       </method>
     </configuration>
     <configuration name="employeeManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.employeeManagementSystem" />
+      <option name="MAIN_CLASS_NAME" value="Collection.list.employeeManagementSystem" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.studentHashSet" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +171,11 @@
       </method>
     </configuration>
     <configuration name="studentManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.studentManagementSystem" />
+      <option name="MAIN_CLASS_NAME" value="Collection.list.studentManagementSystem" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.employeeHashSet" />
+        <item itemvalue="Application.studentHashSet" />
+        <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.employeeManagementSystem" />
         <item itemvalue="Application.studentManagementSystem" />
-        <item itemvalue="Application.demoGenericList" />
-        <item itemvalue="Application.assignment1_ArrayList" />
-        <item itemvalue="Application.demolist" />
       </list>
     </recent_temporary>
   </component>
@@ -204,20 +206,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00020" summary="for loop">
-      <created>1675432250508</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1675432250508</updated>
-    </task>
-    <task id="LOCAL-00021" summary="table example">
-      <created>1675432285507</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1675432285507</updated>
     </task>
     <task id="LOCAL-00022" summary="table of 5">
       <created>1675432937324</created>
@@ -548,7 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678761182879</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="collection ArrayList employee Assignment">
+      <created>1678815366009</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1678815366009</updated>
+    </task>
+    <task id="LOCAL-00070" summary="collection ArrayList student Assignment">
+      <created>1678815388446</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1678815388446</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -637,8 +639,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cube withh method input param" />
-    <MESSAGE value="method input param" />
     <MESSAGE value="method input param square" />
     <MESSAGE value="complete calc" />
     <MESSAGE value="array first" />
@@ -662,7 +662,9 @@
     <MESSAGE value="openaccount" />
     <MESSAGE value="collection ArrayList" />
     <MESSAGE value="collection ArrayList Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection ArrayList Assignment" />
+    <MESSAGE value="collection ArrayList employee Assignment" />
+    <MESSAGE value="collection ArrayList student Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection ArrayList student Assignment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
