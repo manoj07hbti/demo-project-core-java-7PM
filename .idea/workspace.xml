@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_05march.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_10_march.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_10marfcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ashish_practice/practice_12_march.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/AgeNotEligibleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/LessAmountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/VotingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/openAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/demolist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_statement/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_statement/prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +110,7 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.openAccount">
+  <component name="RunManager" selected="Application.demolist">
     <configuration name="VotingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception_handling.VotingApp" />
       <module name="demo-project-core-java-7PM" />
@@ -132,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="openAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_handling.openAccount" />
+    <configuration name="demolist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.demolist" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_handling.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_10_march" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ashish_practice.practice_10_march" />
+    <configuration name="openAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.openAccount" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ashish_practice.*" />
+          <option name="PATTERN" value="exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demolist" />
         <item itemvalue="Application.openAccount" />
         <item itemvalue="Application.VotingApp" />
         <item itemvalue="Application.practice_12_march" />
         <item itemvalue="Application.prime_number" />
-        <item itemvalue="Application.practice_10_march" />
       </list>
     </recent_temporary>
   </component>
@@ -207,20 +199,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00016" summary="brand IBM vs price">
-      <created>1675179094070</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1675179094090</updated>
-    </task>
-    <task id="LOCAL-00017" summary="write a program which will tell you Day of week based on day number">
-      <created>1675353094716</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1675353094716</updated>
     </task>
     <task id="LOCAL-00018" summary="write a program which wil tell state name by using initials">
       <created>1675353519047</created>
@@ -551,7 +529,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678025727228</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Voting app">
+      <created>1678723884117</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1678723884118</updated>
+    </task>
+    <task id="LOCAL-00066" summary="openaccount">
+      <created>1678723907957</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1678723907958</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -640,8 +632,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="persolized doctor assignment" />
-    <MESSAGE value="persolized Engineer assignment" />
     <MESSAGE value="odd_number_assignment" />
     <MESSAGE value="voting" />
     <MESSAGE value="cube withh method input param" />
@@ -665,7 +655,9 @@
     <MESSAGE value="write a program to provie factorial of number" />
     <MESSAGE value="write a method which make cube of number and return" />
     <MESSAGE value="write a method which calculate percentage" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a method which calculate percentage" />
+    <MESSAGE value="Voting app" />
+    <MESSAGE value="openaccount" />
+    <option name="LAST_COMMIT_MESSAGE" value="openaccount" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
