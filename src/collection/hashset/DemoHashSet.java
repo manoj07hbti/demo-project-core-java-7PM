@@ -3,6 +3,7 @@ package collection.hashset;
 import com.sun.javafx.image.IntPixelGetter;
 
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 
 public class DemoHashSet {
 
@@ -22,6 +23,21 @@ public class DemoHashSet {
         System.out.println("Size of set is "+set.size());
 
         return set;
+    }
+
+    public void createLinkedHashSet(){
+
+        LinkedHashSet <String> linkedHashSet = new LinkedHashSet<>();
+        linkedHashSet.add("Agra");
+        linkedHashSet.add("Jaipur");
+        linkedHashSet.add("Pune");
+        linkedHashSet.add("Mumbai");
+
+        for (String var : linkedHashSet){
+
+            System.out.println("Printing Linked HashSet: "+var);
+        }
+
     }
 
     // create hashset of Integer
@@ -59,5 +75,7 @@ public class DemoHashSet {
 
             System.out.println("Roll no is "+var);
         }
+
+        obj.createLinkedHashSet();
     }
 }
