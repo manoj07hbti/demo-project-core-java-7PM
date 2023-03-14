@@ -40,6 +40,9 @@ public class DemoList {
         }
         while (i<list.size());
 
+        for(Object var : list){
+            System.out.println("Printing using Advanced for Loop : "+var);
+        }
     }
 
     public static void main(String[] args) {
