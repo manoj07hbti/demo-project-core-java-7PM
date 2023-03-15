@@ -3,6 +3,7 @@ package collection.hashset;
 import model.Student;
 
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class DemoStudentHashSet {
 
@@ -37,6 +38,13 @@ public class DemoStudentHashSet {
         studentHashSet.add(student4);
         studentHashSet.add(student5);
         studentHashSet.add(student6);
+
+        Iterator<Student> itr = studentHashSet.iterator();
+
+        while(itr.hasNext()){
+
+            System.out.println("Printing it "+itr.next().getName());
+        }
 
         return studentHashSet;
     }

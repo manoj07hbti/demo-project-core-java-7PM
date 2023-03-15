@@ -5,6 +5,7 @@ package collection.list;
 import model.Student;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class StudentArrayList {
 
@@ -28,6 +29,12 @@ public class StudentArrayList {
         studentArrayList.add(student3);
         studentArrayList.add(student4);
 
+        Iterator<Student> itr = studentArrayList.iterator();
+
+        while(itr.hasNext()){
+
+            System.out.println("Printing it "+itr.next().getName());
+        }
         for (Student var : studentArrayList){
 
             System.out.println("Printing Student Data : "+var.getName() +" Rollno : "+var.getRollNo() +"section: "+var.getSection());
