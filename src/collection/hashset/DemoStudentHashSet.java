@@ -10,14 +10,25 @@ public class DemoStudentHashSet {
 
         HashSet<Student> studentHashSet = new HashSet<>();
 
-        // create data of students
+        // create data of students with hashcode
 
         Student student1 = new Student("Raj", 1, "CS");
+        System.out.println("Printing HasCode of Student1 :" + student1.hashCode());
+
         Student student2 = new Student("Aman", 2, "Electric");
+        System.out.println("Printing HasCode of Student2 :" + student2.hashCode());
+
         Student student3 = new Student("Gaurav", 3, "CS");
+        System.out.println("Printing HasCode of Student3 :" + student3.hashCode());
+
         Student student4 = new Student("Manoj", 4, "IT");
+        System.out.println("Printing HasCode of Student4 :" + student4.hashCode());
+
         Student student5 = new Student("Raj", 1, "CS");
+        System.out.println("Printing HasCode of Student5 :" + student5.hashCode());
+
         Student student6 = new Student("Aman", 2, "Electric");
+        System.out.println("Printing HasCode of Student6 :" + student6.hashCode());
 
 
         // add data to set
@@ -39,7 +50,7 @@ public class DemoStudentHashSet {
         DemoStudentHashSet obj = new DemoStudentHashSet();
         HashSet<Student> students = obj.create();
 
-        // advanced for loop printing students Hashset
+        // advanced for loop printing students Hashset by override hashcode and equals
 
         for (Student var : students) {
             System.out.println("Printing students :" + var.getName() + "    Roll No :" + var.getRollNo() + "     Section :" + var.getSection());

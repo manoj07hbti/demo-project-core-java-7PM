@@ -1,10 +1,28 @@
 package modal;
 
+import java.util.Objects;
+
 public class Employee {
 
     String name;
     double salary;
     String location;
+
+    //override hashcode and equals
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return Double.compare(employee.salary, salary) == 0 && name.equals(employee.name) && location.equals(employee.location);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, salary, location);
+    }
+
 
     // parametrised constructor
 
