@@ -1,9 +1,24 @@
 package model;
 
+import java.util.Objects;
+
 public class student {
     String name;
     int roll_no;
     String section;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        student student = (student) o;
+        return roll_no == student.roll_no;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(roll_no);
+    }
 
     // parameterized constructor
     public student(String name, int roll_no, String section) {

@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/DemoHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/employeeHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/studentHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/studentHashSetWithHashcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/assignment1_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/assignment1_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/demoGenericList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/demoGenericList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/demolist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/demolist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/employeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/employeeManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/studentManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/list/studentManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +107,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Collection.hashset" />
       <recent name="Method_or_Function" />
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.employeeHashSet">
+  <component name="RunManager" selected="Application.studentHashSetWithHashcode">
     <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.hashset.DemoHashSet" />
       <module name="demo-project-core-java-7PM" />
@@ -170,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="studentManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.list.studentManagementSystem" />
+    <configuration name="studentHashSetWithHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.studentHashSetWithHashcode" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.list.*" />
+          <option name="PATTERN" value="Collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.studentHashSetWithHashcode" />
         <item itemvalue="Application.employeeHashSet" />
         <item itemvalue="Application.studentHashSet" />
         <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.employeeManagementSystem" />
-        <item itemvalue="Application.studentManagementSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -206,34 +201,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00022" summary="table of 5">
-      <created>1675432937324</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1675432937324</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Factorial of 7">
-      <created>1675433369664</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1675433369664</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Factorial of 7">
-      <created>1675444744380</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1675444744380</updated>
-    </task>
-    <task id="LOCAL-00025" summary="find even number between 1 to 100">
-      <created>1675781172641</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1675781172823</updated>
     </task>
     <task id="LOCAL-00026" summary="find odd number between 1 to 100">
       <created>1675782367049</created>
@@ -550,7 +517,35 @@
       <option name="project" value="LOCAL" />
       <updated>1678815388446</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="collecction arraylist">
+      <created>1678819574758</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819574758</updated>
+    </task>
+    <task id="LOCAL-00072" summary="collecction hashset demoHashSet">
+      <created>1678819605266</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819605266</updated>
+    </task>
+    <task id="LOCAL-00073" summary="collecction hashset employeeHashSet">
+      <created>1678819628717</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819628717</updated>
+    </task>
+    <task id="LOCAL-00074" summary="collecction hashset studentHashSet">
+      <created>1678819647130</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819647130</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -639,10 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method input param square" />
-    <MESSAGE value="complete calc" />
-    <MESSAGE value="array first" />
-    <MESSAGE value="array2" />
     <MESSAGE value="array3" />
     <MESSAGE value="array4" />
     <MESSAGE value="array5" />
@@ -664,7 +655,11 @@
     <MESSAGE value="collection ArrayList Assignment" />
     <MESSAGE value="collection ArrayList employee Assignment" />
     <MESSAGE value="collection ArrayList student Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection ArrayList student Assignment" />
+    <MESSAGE value="collecction arraylist" />
+    <MESSAGE value="collecction hashset demoHashSet" />
+    <MESSAGE value="collecction hashset employeeHashSet" />
+    <MESSAGE value="collecction hashset studentHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="collecction hashset studentHashSet" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
