@@ -22,10 +22,10 @@ public class EmpNameHashCode {
         data.add(emp3);
         data.add(emp4);
 
-        //Iterator itr=data.iterator();
+        //Iterator<EmpName> itr=data.iterator();
 
         //while (itr.hasNext()){
-          //  System.out.println("Name : "+itr.next());
+           //System.out.println("Name : "+itr.next().getName());
         //}
 
         return data;
