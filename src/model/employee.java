@@ -1,9 +1,24 @@
 package model;
 
+import java.util.Objects;
+
 public class employee {
     String name;
     int ID_no;
     String designation;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        employee employee = (employee) o;
+        return ID_no == employee.ID_no;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(ID_no);
+    }
 
     public employee(String name, int ID_no, String designation) {
         this.name = name;

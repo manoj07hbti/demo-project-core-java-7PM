@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/studentHashSetWithHashcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/DemoLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/employeeHashSetWithHashCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +113,9 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.studentHashSetWithHashcode">
-    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.hashset.DemoHashSet" />
+  <component name="RunManager" selected="Application.DemoLinkedHashSet">
+    <configuration name="DemoLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.DemoLinkedHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
@@ -139,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="employeeManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.list.employeeManagementSystem" />
+    <configuration name="employeeHashSetWithHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashset.employeeHashSetWithHashCode" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.list.*" />
+          <option name="PATTERN" value="Collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoLinkedHashSet" />
+        <item itemvalue="Application.employeeHashSetWithHashCode" />
         <item itemvalue="Application.studentHashSetWithHashcode" />
         <item itemvalue="Application.employeeHashSet" />
         <item itemvalue="Application.studentHashSet" />
-        <item itemvalue="Application.DemoHashSet" />
-        <item itemvalue="Application.employeeManagementSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -201,13 +202,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00026" summary="find odd number between 1 to 100">
-      <created>1675782367049</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1675782367049</updated>
     </task>
     <task id="LOCAL-00027" summary="palendrom">
       <created>1675790652186</created>
@@ -545,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678819647130</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="collecction hashset studentHashSetWithHashcode">
+      <created>1678846232277</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1678846232278</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -634,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array3" />
     <MESSAGE value="array4" />
     <MESSAGE value="array5" />
     <MESSAGE value="bankaccount" />
@@ -659,7 +659,8 @@
     <MESSAGE value="collecction hashset demoHashSet" />
     <MESSAGE value="collecction hashset employeeHashSet" />
     <MESSAGE value="collecction hashset studentHashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="collecction hashset studentHashSet" />
+    <MESSAGE value="collecction hashset studentHashSetWithHashcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="collecction hashset studentHashSetWithHashcode" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
