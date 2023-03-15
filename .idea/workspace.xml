@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/DemoLinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/hashset/employeeHashSetWithHashCode.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="collecction LinkedHashSet">
+      <change afterPath="$PROJECT_DIR$/src/Collection/hashMap/demoHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,13 +111,26 @@
       <recent name="variable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoLinkedHashSet">
+  <component name="RunManager" selected="Application.demoHashMap">
     <configuration name="DemoLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.hashset.DemoLinkedHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Collection.hashset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.hashMap.demoHashMap" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="studentHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.hashset.studentHashSet" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collection.hashset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="studentHashSetWithHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.hashset.studentHashSetWithHashcode" />
       <module name="demo-project-core-java-7PM" />
@@ -181,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demoHashMap" />
         <item itemvalue="Application.DemoLinkedHashSet" />
         <item itemvalue="Application.employeeHashSetWithHashCode" />
         <item itemvalue="Application.studentHashSetWithHashcode" />
         <item itemvalue="Application.employeeHashSet" />
-        <item itemvalue="Application.studentHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +200,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00027" summary="palendrom">
-      <created>1675790652186</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1675790652186</updated>
     </task>
     <task id="LOCAL-00028" summary="prime">
       <created>1675793937641</created>
@@ -546,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678846232278</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="collecction LinkedHashSet">
+      <created>1678847087809</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1678847087809</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -635,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array4" />
     <MESSAGE value="array5" />
     <MESSAGE value="bankaccount" />
     <MESSAGE value="primecheck" />
@@ -660,7 +657,8 @@
     <MESSAGE value="collecction hashset employeeHashSet" />
     <MESSAGE value="collecction hashset studentHashSet" />
     <MESSAGE value="collecction hashset studentHashSetWithHashcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="collecction hashset studentHashSetWithHashcode" />
+    <MESSAGE value="collecction LinkedHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="collecction LinkedHashSet" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
