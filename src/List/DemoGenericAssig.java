@@ -1,6 +1,4 @@
-package collection;
-
-import com.sun.deploy.util.JVMParameters;
+package List;
 
 import java.util.ArrayList;
 

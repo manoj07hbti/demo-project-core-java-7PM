@@ -46,7 +46,7 @@ public class Calculator_ReturnType {
 
         System.out.println("multi is " + multi);
 
-        double divide = obj.divide(20, 3);
+        double divide = obj.divide(22, 3);
 
         System.out.println("divide is " + divide);
 

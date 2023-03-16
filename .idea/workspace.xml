@@ -7,9 +7,6 @@
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Collection Create_list.java day 1">
       <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loop/tableWhileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/DemoGenericAssig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/EmployeeArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" afterDir="false" />
@@ -21,8 +18,12 @@
       <change beforePath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/Create_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Create_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Create_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Create_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/DemoGenericAssig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/EmployeeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/EmployeeArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" afterDir="false" />
@@ -131,13 +132,13 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeArrayList">
-    <configuration name="Create_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Create_list" />
+  <component name="RunManager" selected="Application.DemoEmployeeHashSet">
+    <configuration name="DemoEmployeeHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.DemoEmployeeHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,24 @@
       </method>
     </configuration>
     <configuration name="DemoGenericAssig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.DemoGenericAssig" />
+      <option name="MAIN_CLASS_NAME" value="List.DemoGenericAssig" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.DemoHashSet" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +173,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.EmployeeArrayList" />
+      <option name="MAIN_CLASS_NAME" value="List.EmployeeArrayList" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,25 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.PrimeNumber" />
+    <configuration name="EmployeeHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashset.EmployeeHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test_ScannerInput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SqureNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_ScannerInput.SqureNumber" />
-      <module name="demo-project-core-java-7PM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test_ScannerInput.*" />
+          <option name="PATTERN" value="collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoEmployeeHashSet" />
+        <item itemvalue="Application.EmployeeHashSet" />
+        <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.EmployeeArrayList" />
         <item itemvalue="Application.DemoGenericAssig" />
-        <item itemvalue="Application.Create_list" />
-        <item itemvalue="Application.SqureNumber" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -220,20 +221,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00007" summary="Condition NESTED if java">
-      <created>1675190064954</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675190064954</updated>
-    </task>
-    <task id="LOCAL-00008" summary="OR operator condition java">
-      <created>1675191969360</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675191969360</updated>
     </task>
     <task id="LOCAL-00009" summary="NOT operator Statement">
       <created>1675324429083</created>
@@ -564,7 +551,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678613350809</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Collection day 2 generic ArrayList Assigment">
+      <created>1678795292609</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1678795292609</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Collection EmployeeHashSet">
+      <created>1678960075642</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1678960075642</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -642,8 +643,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Perameter Constructor Engineer.java" />
-    <MESSAGE value="Perameter Constructor Pet.java" />
     <MESSAGE value="Method or function Doctor.java" />
     <MESSAGE value="method function Employee.java" />
     <MESSAGE value="method function Student.java" />
@@ -667,7 +666,9 @@
     <MESSAGE value="Demo Account opening APP" />
     <MESSAGE value="test Scanner input" />
     <MESSAGE value="Collection Create_list.java day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection Create_list.java day 1" />
+    <MESSAGE value="Collection day 2 generic ArrayList Assigment" />
+    <MESSAGE value="Collection EmployeeHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection EmployeeHashSet" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">

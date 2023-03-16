@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class calculator_App {
 
-    public static void main(String args[]) {
-
+      public static void main(String args[]){
         Scanner scannerobj = new Scanner(System.in);
 
         int flag = 1;
@@ -79,7 +78,10 @@ public class calculator_App {
 
         return divi;
     }
-}
+
+
+    }
+
 
 
 

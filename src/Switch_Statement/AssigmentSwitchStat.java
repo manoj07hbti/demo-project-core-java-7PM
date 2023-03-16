@@ -3,7 +3,7 @@ package Switch_Statement;
 public class AssigmentSwitchStat {
     public static void main(String args[]){
         int month;
-        month=16;
+        month=15;
 
         switch(month){
 

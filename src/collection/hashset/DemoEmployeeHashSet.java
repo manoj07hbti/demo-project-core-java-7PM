@@ -6,34 +6,43 @@ import java.util.HashSet;
 
 public class DemoEmployeeHashSet {
 
-    public static void main(String args[]){
+
+    public static void main(String args[]) {
 
         DemoEmployeeHashSet obj = new DemoEmployeeHashSet();
 
-         HashSet<Employee> Employee=   obj.create();
+        HashSet<Employee> Employee = obj.create();
 
-         for(Employee var : Employee){
+        for (Employee var : Employee) {
 
-             System.out.println("Printing Employee :"+ var.getName() + " address :" +  var.getAddres()  + " dept :"+ var.getDept());
-         }
-
+            System.out.println("Printing Employee :" + var.getName() + " address :" + var.getAddres() + " dept :" + var.getDept());
+        }
 
     }
 
-    public HashSet<Employee> create(){
+    public HashSet<Employee> create() {
 
         HashSet<Employee> employeeHashSet = new HashSet<>();
 
         // create data of Employee
 
-        Employee Employee1 = new Employee("Rahul","pune","IT");
-        Employee Employee2 =new Employee("Manoj","Agra","Engineering");
-        Employee Employee3 =new Employee("Mohit","Delhi","HR");
-        Employee Employee4 = new Employee("Rahul","pune","IT");
-        Employee Employee5 =new Employee("Manoj","Agra","Engineering");
+        Employee Employee1 = new Employee("Rahul", "pune", "IT");
+        System.out.println("Printing hashcode of employee1 :" + Employee1.hashCode());
+
+        Employee Employee2 = new Employee("Manoj", "Agra", "Engineering");
+        System.out.println("Printing hashcode of employee2 :" + Employee2.hashCode());
+
+        Employee Employee3 = new Employee("Mohit", "Delhi", "HR");
+        System.out.println("Printing hashcode of employee3 :" + Employee3.hashCode());
+
+        Employee Employee4 = new Employee("Rahul", "pune", "IT");
+        System.out.println("Printing hashcode of employee4 :" + Employee4.hashCode());
+
+        Employee Employee5 = new Employee("Manoj", "Agra", "Engineering");
+        System.out.println("Printing hashcode of employee5 :" + Employee5.hashCode());
 
 
-            // add data of set
+        // add data of set
 
         employeeHashSet.add(Employee1);
         employeeHashSet.add(Employee2);
@@ -41,21 +50,7 @@ public class DemoEmployeeHashSet {
         employeeHashSet.add(Employee4);
         employeeHashSet.add(Employee5);
 
-          return employeeHashSet;
+        return employeeHashSet;
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

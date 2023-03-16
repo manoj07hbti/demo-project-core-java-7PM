@@ -1,4 +1,4 @@
-package collection;
+package List;
 
 import Model.Employee;
 
@@ -21,9 +21,10 @@ public class EmployeeArrayList {
 
         // create data of Employee
 
-         Employee Employee1 = new Employee("Rahul","pune","IT");
-         Employee Employee2 =new Employee("Manoj","Agra","Engineering");
-         Employee  Employee3 =new Employee("Mohit","Delhi","HR");
+        Employee Employee1 = new Employee("Rahul","pune","IT");
+        Employee Employee2 =new Employee("Manoj","Agra","Engineering");
+        Employee  Employee3 =new Employee("Mohit","Delhi","HR");
+
 
          //  Add Data ot list
 

@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class CreatedBankAccount {
 
-
-     public static void main(String args[]){
+       public static void main(String args []){
 
         Scanner scannerobj =new Scanner(System.in);
 
@@ -19,17 +18,22 @@ public class CreatedBankAccount {
 
      }
 
-    public void openBankAccount(double amount){
+    public void openBankAccount(double amount) {
 
-        if(amount>=7000){
+        if (amount >= 7000) {
 
             System.out.println("Account  is created for succefully");
-        }
-        else{
-
+        } else {
             System.out.println("Account  is not created for succefully");
         }
+
     }
-}
+
+
+
+
+        }
+
+
 
 

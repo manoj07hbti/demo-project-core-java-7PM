@@ -7,7 +7,7 @@ public class DemoBreakLoop {
 
                System.out.println("The Loop is"+i);
 
-               if(i==5){
+               if(i==6){
                    break;
                }
         for(int j=0;  j<10;  j++){

@@ -18,7 +18,7 @@ public class demoIf {
 
         }
         marks=65;//student cleard exam with first division//
-        if(marks<67){
+        if(marks<65){
 
             System.out.println("student cleard exam with first division");
         }
