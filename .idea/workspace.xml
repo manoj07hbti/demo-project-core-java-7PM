@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Collection Create_list.java day 1">
-      <change afterPath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/tableWhileloop.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/ANDifOPerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/ConditionStatement/demoIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/ArmstrongNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/DemoBreakLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Loop/DemoBreakLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Switch_Statement/AssigmentSwitchStat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/Switch_Statement/AssigmentSwitchStat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/method_or_function/method_or_function/calculator_App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/ANDifOPerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionStatement/demoIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/DemoBreakLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_Statement/AssigmentSwitchStat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/Create_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Create_list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/DemoGenericAssig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/EmployeeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/EmployeeArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/collection/hashset/DemoHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/collection/hashset/DemoHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/Calculator_ReturnType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/CreatedBankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method_or_function/method_or_function/calculator_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/DemoHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashset/DemoHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +115,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoEmployeeHashSet">
+  <component name="RunManager" selected="Application.DemoHashSet">
     <configuration name="DemoEmployeeHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.hashset.DemoEmployeeHashSet" />
       <module name="demo-project-core-java-7PM" />
@@ -200,9 +183,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.DemoEmployeeHashSet" />
         <item itemvalue="Application.EmployeeHashSet" />
-        <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.EmployeeArrayList" />
         <item itemvalue="Application.DemoGenericAssig" />
       </list>
@@ -221,20 +204,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00009" summary="NOT operator Statement">
-      <created>1675324429083</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1675324429083</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Switch Statement Assigment">
-      <created>1675365095824</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1675365095824</updated>
     </task>
     <task id="LOCAL-00011" summary="Loop demo 2nd feb">
       <created>1675453960379</created>
@@ -565,7 +534,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678960075642</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Collection Employee Hashcode and custom object">
+      <created>1678963571817</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1678963571817</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Collection Employee Hashcode and custom object">
+      <created>1678963608426</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1678963608426</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -643,7 +626,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method or function Doctor.java" />
     <MESSAGE value="method function Employee.java" />
     <MESSAGE value="method function Student.java" />
     <MESSAGE value="method function Doctor.java" />
@@ -668,7 +650,8 @@
     <MESSAGE value="Collection Create_list.java day 1" />
     <MESSAGE value="Collection day 2 generic ArrayList Assigment" />
     <MESSAGE value="Collection EmployeeHashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection EmployeeHashSet" />
+    <MESSAGE value="Collection Employee Hashcode and custom object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection Employee Hashcode and custom object" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">

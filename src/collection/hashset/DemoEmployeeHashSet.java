@@ -7,19 +7,6 @@ import java.util.HashSet;
 public class DemoEmployeeHashSet {
 
 
-    public static void main(String args[]) {
-
-        DemoEmployeeHashSet obj = new DemoEmployeeHashSet();
-
-        HashSet<Employee> Employee = obj.create();
-
-        for (Employee var : Employee) {
-
-            System.out.println("Printing Employee :" + var.getName() + " address :" + var.getAddres() + " dept :" + var.getDept());
-        }
-
-    }
-
     public HashSet<Employee> create() {
 
         HashSet<Employee> employeeHashSet = new HashSet<>();
@@ -51,6 +38,19 @@ public class DemoEmployeeHashSet {
         employeeHashSet.add(Employee5);
 
         return employeeHashSet;
+
+    }
+
+    public static void main(String args[]) {
+
+        DemoEmployeeHashSet obj = new DemoEmployeeHashSet();
+
+        HashSet<Employee> Employee = obj.create();
+
+        for (Employee var : Employee) {
+
+            System.out.println("Printing Employee :" + var.getName() + " address :" + var.getAddres() + " dept :" + var.getDept());
+        }
 
     }
 }

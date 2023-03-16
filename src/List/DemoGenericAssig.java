@@ -4,35 +4,8 @@ import java.util.ArrayList;
 
 public class DemoGenericAssig {
 
-    public static void main(String args[]) {
-
-        DemoGenericAssig obj = new DemoGenericAssig();
-
-        ArrayList<String> List = obj.createStringList();
 
 
-
-        for (String var : List) {
-
-            System.out.println("This is List " + var);
-        }
-        ArrayList<Integer> List1 = obj.createIntegerList();
-
-        for (Integer var : List1){
-
-            System.out.println("this is List " + var);
-        }
-        ArrayList<Double> List2 = obj.createdoubleList();
-
-        for(double var : List2){
-
-            System.out.println("this is list " + var);
-        }
-
-
-
-
-         }
 
     public ArrayList<String> createStringList(){
 
@@ -69,6 +42,31 @@ public class DemoGenericAssig {
         doubleArrayList.add(17.54);
 
         return doubleArrayList;
+    }
+
+    public static void main(String args[]) {
+
+        DemoGenericAssig obj = new DemoGenericAssig();
+
+        ArrayList<String> List = obj.createStringList();
+
+        for (String var : List) {
+
+            System.out.println("This is List " + var);
+        }
+        ArrayList<Integer> List1 = obj.createIntegerList();
+
+        for (Integer var : List1){
+
+            System.out.println("this is List " + var);
+        }
+        ArrayList<Double> List2 = obj.createdoubleList();
+
+        for(double var : List2){
+
+            System.out.println("this is list " + var);
+        }
+
     }
 
         }
