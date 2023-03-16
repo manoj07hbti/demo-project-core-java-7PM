@@ -20,11 +20,12 @@ public class EmpHashCodeWithIterator {
         data.add(emp2);
         data.add(emp3);
 
-        //Iterator<Employee> itr=data.iterator();
+        Iterator<Employee> itr=data.iterator();
 
-        //while(itr.hasNext()){
-        //    System.out.println("Name : "+itr.next().getName()+" Emp_Id : "+itr.next().getEmp_id()+" Department : "+itr.next().getDepartment());
-        //}
+        while(itr.hasNext()){
+            Employee e1= itr.next();
+            System.out.println("Name : "+e1.getName()+" Emp_Id : "+e1.getEmp_id()+" Department : "+e1.getDepartment());
+        }
 
         return data;
     }
@@ -32,8 +33,8 @@ public class EmpHashCodeWithIterator {
     public static void main(String[] args) {
         EmpHashCodeWithIterator obj= new EmpHashCodeWithIterator();
         LinkedHashSet<Employee> var=obj.create();
-        for(Employee var1 : var){
-            System.out.println("Name : "+var1.getName()+" Emp_Id : "+var1.getEmp_id()+" Department : "+var1.getDepartment());
-        }
+        //for(Employee var1 : var){
+        //    System.out.println("Name : "+var1.getName()+" Emp_Id : "+var1.getEmp_id()+" Department : "+var1.getDepartment());
+        //}
     }
 }

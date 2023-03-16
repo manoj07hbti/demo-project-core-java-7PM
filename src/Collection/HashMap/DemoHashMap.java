@@ -9,18 +9,20 @@ public class DemoHashMap {
 
     public void CreateHashMap(){
 
-        HashMap<Integer, String> map= new HashMap<>();
+        HashMap<Double, String> map= new HashMap<>();
 
-        map.put(1, "Java");
-        map.put(2,"Python");
-        map.put(3, "Ruby");
-        map.put(3, "React");
+        map.put(1.1, "Java");
+        map.put(2.1,"Python");
+        map.put(3.1, "Ruby");
+        map.put(3.1, "React");
         map.put(null, "Database");
+        map.put(null, "DBA");
 
-        System.out.println("Printing 1st Element : "+map.get(1)+" Printing 2nd Element : "+map.get(2));
+        //System.out.println(map);
+        //System.out.println("Printing 1st Element : "+map.get(1.0)+" Printing 2nd Element : "+map.get(2.1));
 
-        Set<Integer> var=map.keySet();
-        for(Integer var1 : var){
+        Set<Double> var=map.keySet();
+        for(Double var1 : var){
             System.out.println("Printing all Elements of HashMap : "+map.get(var1));
         }
 
