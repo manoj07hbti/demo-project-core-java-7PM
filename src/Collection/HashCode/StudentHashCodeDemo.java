@@ -32,7 +32,7 @@ public class StudentHashCodeDemo {
         StudentHashCodeDemo obj= new StudentHashCodeDemo();
         LinkedHashSet<Student> var= obj.StudentData();
         for(Student var1 : var){
-            System.out.println("Name : "+var1.getName()+" Roll No: : "+var1.getRollNo()+" Course : "+var1.getCourse());
+            System.out.println("Name : "+var1.getName()+" Roll No: : "+var1.getRoll_no()+" Course : "+var1.getCourse());
         }
     }
 }

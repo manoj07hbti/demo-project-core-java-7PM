@@ -10,8 +10,8 @@ public class StudentHashSet {
         HashSet<Student> data= new HashSet();
 
         Student data1= new Student("Praveen",1,"Java");
-        Student data2= new Student("Raj",2,"Python");
-        Student data3= new Student("Ajeet",3,"DBA");
+        Student data2= new Student("Raj",2,"Python","AgraCollege");
+        Student data3= new Student("Ajeet",3,"DBA","SRK");
 
 
         data.add(data1);
@@ -26,7 +26,7 @@ public class StudentHashSet {
         StudentHashSet obj= new StudentHashSet();
         HashSet<Student> details=obj.StudentData();
         for(Student var: details){
-            System.out.println("Student Name: "+var.getName()+" Roll Number : "+var.getRollNo()+" Course : "+var.getCourse());
+            System.out.println("Student Name: "+var.getName()+" Roll Number : "+var.getRoll_no()+" Course : "+var.getCourse());
         }
     }
 }
