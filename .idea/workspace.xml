@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collection/HashMap/DemoHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/collection/hashset/DemoHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/collection/hashset/DemoHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DemoGenericAssig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashset/DemoEmployeeHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/hashset/DemoHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashset/DemoHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
       <recent name="Precticejavaclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoHashSet">
+  <component name="RunManager" selected="Application.DemoHashMap">
     <configuration name="DemoEmployeeHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.hashset.DemoEmployeeHashSet" />
       <module name="demo-project-core-java-7PM" />
@@ -129,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoGenericAssig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.DemoGenericAssig" />
+    <configuration name="DemoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.HashMap.DemoHashMap" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.*" />
+          <option name="PATTERN" value="collection.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoHashMap" />
         <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.DemoEmployeeHashSet" />
         <item itemvalue="Application.EmployeeHashSet" />
         <item itemvalue="Application.EmployeeArrayList" />
-        <item itemvalue="Application.DemoGenericAssig" />
       </list>
     </recent_temporary>
   </component>
@@ -204,13 +202,6 @@
       <updated>1673963655769</updated>
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
-    </task>
-    <task id="LOCAL-00011" summary="Loop demo 2nd feb">
-      <created>1675453960379</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1675453960379</updated>
     </task>
     <task id="LOCAL-00012" summary="Loop demo 2nd feb increment decrement">
       <created>1675457154733</created>
@@ -548,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678963608426</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Collection LinkedHashSet">
+      <created>1678968959051</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1678968959051</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -626,7 +624,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method function Employee.java" />
     <MESSAGE value="method function Student.java" />
     <MESSAGE value="method function Doctor.java" />
     <MESSAGE value="method function cube .java" />
@@ -651,7 +648,8 @@
     <MESSAGE value="Collection day 2 generic ArrayList Assigment" />
     <MESSAGE value="Collection EmployeeHashSet" />
     <MESSAGE value="Collection Employee Hashcode and custom object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection Employee Hashcode and custom object" />
+    <MESSAGE value="Collection LinkedHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection LinkedHashSet" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
