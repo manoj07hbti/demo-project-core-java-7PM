@@ -48,7 +48,6 @@ public class UniversityData {
                     System.out.println("Name : " + var.getName()+" Roll Number : "+var.getRoll_no()+" Course : "+var.getCourse()+" College : "+var.getCollege_name());
                 }
             }
-
         }
 
         return collegeList;
