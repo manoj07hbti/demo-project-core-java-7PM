@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="Assignment" />
+    <list default="true" id="32c4f115-3cce-4bd4-a3b4-87f00782c55e" name="Changes" comment="Collection Day2 : generic ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/collection/advancedHashMap/UniversityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SalaryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SalaryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/AdvancedHashMap/AdvancedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/advancedHashMap/AdvancedHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/AdvancedHashMap/CollegesData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/advancedHashMap/CollegesData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/AdvancedHashMap/MultipleCollegeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/advancedHashMap/MultipleCollegeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashCode/EmpAllHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashCode/EmpAllHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashCode/EmpHashCodeWithIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashCode/EmpHashCodeWithIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashCode/EmpNameHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashCode/EmpNameHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashCode/EmployeeHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashCode/EmployeeHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashCode/StudentHashCodeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashCode/StudentHashCodeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashMap/DemoEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashMap/DemoEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashMap/DemoHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashMap/DemoHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/DemoHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/DemoHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/EmployeeHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/EmployeeHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/IteratorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/SequentialHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/SequentialHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/StringHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/StringHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/HashSet/StudentHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/hashSet/StudentHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/List/DemoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/list/DemoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/List/DoubleArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/list/DoubleArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/List/EmployeeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/list/EmployeeArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/List/LastElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/list/LastElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/Assignment_3rd_Feb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Assignment_3rd_Feb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/OddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/OddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop/TableUsingWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/TableUsingWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/CalculatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/CalculatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Eligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/Eligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/OddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/OddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Percentage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/Percentage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/EmpALLProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/EmpALLProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/EmpName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/EmpName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/StringHashCodeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/StringHashCodeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Assignment_28th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Assignment_28th.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Assignment_30th_Jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Assignment_30th_Jan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Assignment_31st_Jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Assignment_31st_Jan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Division_30th_Jan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Division_30th_Jan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/FindingDayUsing_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/FindingDayUsing_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/Months_Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/Months_Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/States.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/States.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/OddNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/OddNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/PrimeNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,13 +159,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OddNumberInArray">
+  <component name="RunManager">
     <configuration name="Assignment_3rd_Feb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Assignment_3rd_Feb" />
+      <option name="MAIN_CLASS_NAME" value="loop.Assignment_3rd_Feb" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods.Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Factorial" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.Factorial" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +187,11 @@
       </method>
     </configuration>
     <configuration name="OddNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.OddNumberInArray" />
+      <option name="MAIN_CLASS_NAME" value="tests.OddNumberInArray" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +200,11 @@
       </method>
     </configuration>
     <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.PalindromeNumber" />
+      <option name="MAIN_CLASS_NAME" value="tests.PalindromeNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +213,11 @@
       </method>
     </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.PrimeNumber" />
+      <option name="MAIN_CLASS_NAME" value="methods.PrimeNumber" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,17 +438,6 @@
     <MESSAGE value="ArrayExample" />
     <MESSAGE value="test assign" />
     <option name="LAST_COMMIT_MESSAGE" value="test assign" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Loop/PrimeNumber.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
