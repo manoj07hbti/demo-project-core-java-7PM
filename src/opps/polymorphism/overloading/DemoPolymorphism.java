@@ -13,6 +13,6 @@ public class DemoPolymorphism {
     public static void main(String[] args) {
         DemoPolymorphism obj= new DemoPolymorphism();
         obj.m1();
-        obj.m1("Praveen");
+        obj.m1("Praveen Kumar");
     }
 }
