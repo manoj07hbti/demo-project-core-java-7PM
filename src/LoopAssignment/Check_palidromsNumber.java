@@ -8,7 +8,7 @@ public class Check_palidromsNumber {
         int r;
         int sum=0;
         int temp;
-        int n= 225; // it is the number variable to be checked for palindroms number
+        int n= 121; // it is the number variable to be checked for palindroms number
         temp= n;
 
             while (n > 0) {

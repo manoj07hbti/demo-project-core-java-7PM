@@ -10,9 +10,9 @@ public class CheckPalidromsNum {
         int number=121;
         temp=number;
         while (number>0){
-            r= number%10;
+            r= number%10; // it's remainder here like 121%10=1
             sum= (sum*10)+r;
-            number= number/10;
+            number= number/10; // here it's divide like 121/10=12
         }
         if (temp==sum){
             System.out.println("this is palindrome number ");
@@ -24,3 +24,4 @@ public class CheckPalidromsNum {
     }
 
 }
+

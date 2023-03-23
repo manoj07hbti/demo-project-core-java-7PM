@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="check the palidroms number Assignment 4 feb">
+      <change afterPath="$PROJECT_DIR$/src/ScannerMethod/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerMethod/DemoClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractmethod/NewabstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/DemoCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/Linkedhashset/LinkedHashsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/arrayList/CreateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/arrayList/DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/hashCodeCollection/IteratorHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/hashMap/AdvancedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/hashMap/GenerichashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/hashMap/HashMapdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/modal/MechanicalDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/modal/mechanical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collepsionMethod/overrideHashset/EmployeeOverrideHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Democlass/DecToBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Democlass/DemoProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Democlass/Mathperimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/CustomHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/TryandCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/UseOfFinallyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/WithoutReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertanceMethod/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertanceMethod/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertanceMethod/InputClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertanceMethod/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacemethod/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacemethod/ParentsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/OverloadingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/RuntimeMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopAssignment/Check_palidromsNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopAssignment/Check_palidromsNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopAssignment/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopAssignment/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method_obje/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method_obje/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testfirst/CheckPalidromsNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testfirst/CheckPalidromsNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testfirst/CheckPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testfirst/CheckPrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/CreateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/DoubleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collepsionMethod/arrayList/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/EmployeeArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collepsionMethod/arrayList/EmployeeArraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/hashCodeCollection/EmployeDetailsHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collepsionMethod/hashCodeCollection/EmployeDetailsHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collepsionMethod/hashCodeCollection/GenericCustomHashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collepsionMethod/hashCodeCollection/GenericCustomHashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inhertanceMethod/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inhertanceMethod/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inhertanceMethod/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inhertanceMethod/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Assignment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,12 +59,10 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +83,12 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -51,7 +102,10 @@
     <option name="width" value="1378" />
     <option name="height" value="733" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2L8pIec3CWmZcsVmjPIVab07nkm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -83,40 +137,23 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DemoAdvanceVariable">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
-      <module name="demo-project-core-java-7PM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoAdvanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoAdvanceVariable" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.GenericCustomHashset">
+    <configuration name="CreateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collepsionMethod.arrayList.CreateList" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="collepsionMethod.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +161,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.DemoVariable" />
+    <configuration name="EmployeDetailsHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collepsionMethod.hashCodeCollection.EmployeDetailsHashSet" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="collepsionMethod.hashCodeCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collepsionMethod.arrayList.EmployeeArraylist" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collepsionMethod.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericCustomHashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collepsionMethod.hashCodeCollection.GenericCustomHashset" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collepsionMethod.hashCodeCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collepsionMethod.hashCodeCollection.StringHashSet" />
+      <module name="demo-project-core-java-7PM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collepsionMethod.hashCodeCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +215,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoAdvanceVariable" />
-        <item itemvalue="Application.DemoVariable" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.GenericCustomHashset" />
+        <item itemvalue="Application.EmployeDetailsHashSet" />
+        <item itemvalue="Application.StringHashSet" />
+        <item itemvalue="Application.EmployeeArraylist" />
+        <item itemvalue="Application.CreateList" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -158,6 +237,217 @@
       <workItem from="1673963658386" duration="967000" />
       <workItem from="1673964658373" duration="8625000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment of 25 january 2023">
+      <created>1675275142238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675275142238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Assignment of 26 january 2023">
+      <created>1675342533662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675342533662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="switch statement assignment 02 feb">
+      <created>1675350219640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675350219640</updated>
+    </task>
+    <task id="LOCAL-00004" summary="if and else conditional Assignment 28 jan">
+      <created>1675422060769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675422060769</updated>
+    </task>
+    <task id="LOCAL-00005" summary="for loop conditional Assignment 03 jan">
+      <created>1675436224937</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675436224937</updated>
+    </task>
+    <task id="LOCAL-00006" summary="for loop conditional Assignment 03 jan">
+      <created>1675436388708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675436388708</updated>
+    </task>
+    <task id="LOCAL-00007" summary="use of &amp; operator with conditional Assignment 31 jan">
+      <created>1675503626942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675503626942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="find the odd and even number from 1 to 100 Assignment 4 feb">
+      <created>1675758546409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675758546409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="find the odd and even number from 1 to 100 Assignment 4 feb">
+      <created>1675758954339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675758954339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="find the odd and even number from 1 to 100 Assignment 4 feb">
+      <created>1675776292264</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675776292528</updated>
+    </task>
+    <task id="LOCAL-00011" summary="find the prime number from 1 to 50 Assignment 4 feb">
+      <created>1675861810613</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675861810614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="check the palidroms number Assignment 4 feb">
+      <created>1675862153229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675862153229</updated>
+    </task>
+    <task id="LOCAL-00013" summary="check the Armstron number Assignment 4 feb">
+      <created>1675921489940</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675921489940</updated>
+    </task>
+    <task id="LOCAL-00014" summary="revision">
+      <created>1676013941466</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676013941466</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Assignment 10 feb how to execute code method obj">
+      <created>1676121921400</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676121921400</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Assignment 10 feb">
+      <created>1676124939324</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676124939324</updated>
+    </task>
+    <task id="LOCAL-00017" summary="  Assignment of 13 feb">
+      <created>1676369519134</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676369519134</updated>
+    </task>
+    <task id="LOCAL-00018" summary="assignment 13 feb prime number with method">
+      <created>1676541215141</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676541215141</updated>
+    </task>
+    <task id="LOCAL-00019" summary="return type Assignment 15 feb">
+      <created>1676638125492</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676638125493</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Scanner calculator Assignment 18 feb">
+      <created>1676898899350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676898899350</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Reviesion">
+      <created>1676900938811</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676900938811</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Scanner Class Assignment 18 feb">
+      <created>1677070950757</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677070950757</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Error Class Assignment 20 feb">
+      <created>1677071054231</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677071054231</updated>
+    </task>
+    <task id="LOCAL-00024" summary="inheritance and abstract revision">
+      <created>1677156985964</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1677156985964</updated>
+    </task>
+    <task id="LOCAL-00025" summary="FIRST TEST 5 MAR 2023">
+      <created>1678026411139</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678026411139</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new logic">
+      <created>1678105245446</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678105245457</updated>
+    </task>
+    <task id="LOCAL-00027" summary="collection  create list Assignment 10 feb">
+      <created>1678541327615</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678541327615</updated>
+    </task>
+    <task id="LOCAL-00028" summary="collection create list  Assignment 10 feb">
+      <created>1678541548146</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1678541548146</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Array List Double and Employee details assignment 11 mar">
+      <created>1678888828162</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1678888828162</updated>
+    </task>
+    <task id="LOCAL-00030" summary="HashSet  Assignment 13 march">
+      <created>1679508908401</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679508908401</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -233,6 +523,49 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="switch statement assignment 02 feb" />
+    <MESSAGE value="if and else conditional Assignment 28 jan" />
+    <MESSAGE value="for loop conditional Assignment 03 jan" />
+    <MESSAGE value="use of &amp; operator with conditional Assignment 31 jan" />
+    <MESSAGE value="find the odd and even number from 1 to 100 Assignment 4 feb" />
+    <MESSAGE value="find the prime number from 1 to 50 Assignment 4 feb" />
+    <MESSAGE value="check the Armstron number Assignment 4 feb" />
+    <MESSAGE value="revision" />
+    <MESSAGE value="Assignment 10 feb how to execute code method obj" />
+    <MESSAGE value="Assignment 10 feb" />
+    <MESSAGE value="  Assignment of 13 feb" />
+    <MESSAGE value="assignment 13 feb prime number with method" />
+    <MESSAGE value="return type Assignment 15 feb" />
+    <MESSAGE value="Scanner calculator Assignment 18 feb" />
+    <MESSAGE value="Reviesion" />
+    <MESSAGE value="Scanner Class Assignment 18 feb" />
+    <MESSAGE value="Error Class Assignment 20 feb" />
+    <MESSAGE value="inheritance and abstract revision" />
+    <MESSAGE value="FIRST TEST 5 MAR 2023" />
+    <MESSAGE value="new logic" />
+    <MESSAGE value="collection  create list Assignment 10 feb" />
+    <MESSAGE value="collection create list  Assignment 10 feb" />
+    <MESSAGE value="check the palidroms number Assignment 4 feb" />
+    <MESSAGE value="Array List Double and Employee details assignment 11 mar" />
+    <MESSAGE value="HashSet  Assignment 13 march" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashSet  Assignment 13 march" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LoopAssignment/PrimeNumber.java</url>
+          <line>4</line>
+          <properties class="LoopAssignment.PrimeNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">

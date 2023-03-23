@@ -1,6 +1,7 @@
 package Method_obje;
 
 public class Calculator {
+    // Assignment of 10 feb
 
     // method of Calculator Addition, subtract, multiply, and divided,
     // this is addition method
@@ -62,12 +63,7 @@ public class Calculator {
 
         Calculator obj= new Calculator();
 
-        obj.Addition();
-        obj.Subtract();
-        obj.multiply();
-        obj.divided();
-        obj.cube();
-        obj.oddNumber();
-        obj.voting();
+        obj.Addition();        obj.Subtract();        obj.multiply();        obj.divided();
+        obj.cube();        obj.oddNumber();        obj.voting();
     }
 }

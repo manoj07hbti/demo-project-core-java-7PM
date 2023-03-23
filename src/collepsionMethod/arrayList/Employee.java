@@ -1,11 +1,13 @@
-package collepsionMethod;
+package collepsionMethod.arrayList;
 
 public class Employee {
+    // first of all we can declare datatype 
 
     String name;
     int EmploymentId;
     String Department;
     double salary;
+    // we make parameter construction like as : right click+Generate+ Constructor + select
     public Employee(String name, int EmploymentId, String Department, double salary) {
 
         this.name = name;
@@ -13,6 +15,7 @@ public class Employee {
         this.Department = Department;
         this.salary= salary;
     }
+    // we can make getter and setter click right key + getter and setter
         public String getname(){
         return name;
     }

@@ -4,11 +4,10 @@ public class Demo {
 
     public static void main(String args[]) {
 
-
-        System.out.println("This is my first java code");
-        System.out.println("Hello");
-
-
+        int a=25;
+        float b=6.35f;
+        float multi= a*b;
+        System.out.println(multi);
 
     }
 }

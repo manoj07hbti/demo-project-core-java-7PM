@@ -3,6 +3,8 @@ package collepsionMethod.hashCodeCollection;
 import java.util.HashSet;
 
 public class EmployeDetailsHashSet {
+    // HashSet remove duplicate data but when we use our datatype, or object like (other class), then it's not working properly
+    // it's mean that this is not remove duplicate element
 
     public HashSet<EmployeeHashset> createStringSet(){
 
@@ -12,6 +14,7 @@ public class EmployeDetailsHashSet {
         EmployeeHashset employee2= new EmployeeHashset("harjeet", 2536, "cs", 23520.1);
         EmployeeHashset employee3 = new EmployeeHashset("subham", 2536, "quality", 24568.21);
         EmployeeHashset employee4 = new EmployeeHashset("subham", 4, "maintenence", 2536.21);
+        // employee 4 is a duplicate elements, so it's not remove by hashset
 
         Details.add(employee1);
         Details.add(employee2);

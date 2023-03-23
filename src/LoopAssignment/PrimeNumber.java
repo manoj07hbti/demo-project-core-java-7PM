@@ -13,7 +13,8 @@ public class PrimeNumber {
         for ( i=1; i<=50; i++){
             int counter=0;
             for(num=i; num>=1; num--) {
-                if (i % num == 0) {
+                if (i % num == 0) {// % this sign is use for remainder
+                                   // divided sign is / and use for divide
                     counter = counter + 1;
                 }
             }

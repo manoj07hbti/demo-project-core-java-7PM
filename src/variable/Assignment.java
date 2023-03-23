@@ -20,6 +20,5 @@ public class Assignment {
 
         System.out.println("result is "+result);
 
-
     }
 }
