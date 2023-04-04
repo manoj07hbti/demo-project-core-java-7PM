@@ -4,12 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="rough">
-      <change afterPath="$PROJECT_DIR$/src/collection/GenericsList_Asign_11March.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/List_Assign_10March.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/StudentArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="assignment 10 march">
+      <change afterPath="$PROJECT_DIR$/src/collection/Hashset/EmployeeHashset_Assign13March.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Hashset/Hashset_Assign13March.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/List/EmployeeArrayList_Assign11march.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/hashmap/AdvanceHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/hashmap/DemoHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/important_keywords/ChildStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/important_keywords/DemoChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/important_keywords/DemoFinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/important_keywords/DemoStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/GenericsList_Asign_11March.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/List/GenericsList_Asign_11March.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/List_Assign_10March.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/List/List_Assign_10March.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/StudentArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/List/StudentArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +129,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Syed/Downloads/Spring Boot/demo-springboot-myproject/demo-springboot-myproject&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -129,13 +139,13 @@
       <recent name="Loop_working" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentArrayList">
-    <configuration name="GenericsList_Asign_11March" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.GenericsList_Asign_11March" />
+  <component name="RunManager" selected="Application.AdvanceHashMap">
+    <configuration name="AdvanceHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashmap.AdvanceHashMap" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="collection.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Assign_10March" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.List_Assign_10March" />
+    <configuration name="DemoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.hashmap.DemoHashMap" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="collection.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber_Assign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method_or_function.PrimeNumber_Assign" />
+    <configuration name="DemoStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="important_keywords.DemoStatic" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method_or_function.*" />
+          <option name="PATTERN" value="important_keywords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_working.PrimeNumber_Assignment" />
+    <configuration name="EmployeeHashset_Assign13March" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Hashset.EmployeeHashset_Assign13March" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop_working.*" />
+          <option name="PATTERN" value="collection.Hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.StudentArrayList" />
+    <configuration name="Hashset_Assign13March" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Hashset.Hashset_Assign13March" />
       <module name="demo-project-core-java-7PM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="collection.Hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentArrayList" />
-        <item itemvalue="Application.GenericsList_Asign_11March" />
-        <item itemvalue="Application.List_Assign_10March" />
-        <item itemvalue="Application.PrimeNumber_Assignment" />
-        <item itemvalue="Application.PrimeNumber_Assign" />
+        <item itemvalue="Application.AdvanceHashMap" />
+        <item itemvalue="Application.DemoStatic" />
+        <item itemvalue="Application.DemoHashMap" />
+        <item itemvalue="Application.EmployeeHashset_Assign13March" />
+        <item itemvalue="Application.Hashset_Assign13March" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678729418391</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="assignment 10 march">
+      <created>1678800590005</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678800590005</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -441,7 +458,8 @@
     <MESSAGE value="Method all 5 days" />
     <MESSAGE value="Array and Oops inheritance" />
     <MESSAGE value="rough" />
-    <option name="LAST_COMMIT_MESSAGE" value="rough" />
+    <MESSAGE value="assignment 10 march" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 10 march" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

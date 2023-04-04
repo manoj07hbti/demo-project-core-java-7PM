@@ -1,8 +1,6 @@
-package collection;
+package collection.List;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
 
 public class List_Assign_10March {
 
@@ -56,7 +54,7 @@ public class List_Assign_10March {
         // finding data in full list
 
         for(int i=0; i<array.size(); i++){
-            if(array.get(i)=="java"){
+            if(array.get(i)=="createlogic"){
                 System.out.println("element found at index : " +i);
             }
             else {
